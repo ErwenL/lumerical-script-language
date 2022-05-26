@@ -100,7 +100,7 @@
             "patterns": [
                 {
                     "comment": "Metadata query for class properties",
-                    "name": "keyword.operator.other.question.lumscript",
+                    "name": "keyword.operator.question.lumscript",
                     "match": "(?<!\\w)\\?(?=\\w)"
                 },
                 {
