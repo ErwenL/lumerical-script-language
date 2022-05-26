@@ -1,0 +1,31 @@
+{
+    "name": "lumerical-script-language",
+    "displayName": "Lumerical Script Language",
+    "description": "Syntax highlighting for lumerical script language",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "lumscript",
+            "aliases": ["Lumerical Script", "lumscript"],
+            "extensions": [".lsf"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "lumscript",
+            "scopeName": "source.lumscript",
+            "path": "./syntaxes/lumscript.tmLanguage.json"
+        }],
+        "snippets": [
+            {
+                "language": "lumscript",
+                "path": "./snippets.json"
+            }
+        ]
+    }
+}

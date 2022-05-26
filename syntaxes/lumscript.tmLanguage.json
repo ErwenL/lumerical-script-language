@@ -1,0 +1,144 @@
+{
+    "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+    "name": "Lumerical Script",
+    "foldingStartMarker": "\\{\\s*$",
+    "foldingStopMarker": "^\\s*\\}",
+    "patterns": [
+        {
+            "include": "#keywords"
+        },
+        {
+            "include": "#function_call"
+        },
+        {
+            "include": "#strings"
+        },
+        {
+            "include": "#constant"
+        },
+        {
+            "include": "#number"
+        },
+        {
+            "include": "#operators"
+        },
+        {
+            "include": "#comment"
+        },
+        {
+            "include": "#readwrite_variable"
+        }
+    ],
+    "repository": {
+        "keywords": {
+            "patterns": [
+                {
+                    "name": "keyword.control.lumscript",
+                    "match": "\\b(if|else|for|break)\\b"
+                }
+            ]
+        },
+        "function_call": {
+            "comment": "\r\n\t\t\t\tFunction call; matrix or array index (subscript)\r\n\t\t\t\tWe don't include $self here to avoid matching command syntax inside (), [], {}\r\n\t\t\t",
+            "name": "meta.function-call.parens.lumscript",
+            "begin": "([a-zA-Z][a-zA-Z0-9_]*)\\s*(\\()",
+            "end": "(\\)|(?<!\\.\\.\\.)\\n)",
+            "beginCaptures": {
+                "1": {
+                "name": "entity.name.function.lumscript"
+                },
+                "2": {
+                "name": "punctuation.section.parens.begin.lumscript"
+                }
+            },
+            "endCaptures": {
+                "0": {
+                "name": "punctuation.section.parens.end.lumscript"
+                }
+            },
+            "patterns": [
+                {
+                "include": "#strings"
+                },
+                {
+                "include": "#constant"
+                },
+                {
+                "include": "#number"
+                },
+                {
+                "include": "#operators"
+                },
+                {
+                "include": "#comment"
+                },
+                {
+                "include": "#readwrite_variable"
+                }
+            ]
+        },
+        "strings": {
+            "name": "string.quoted.double.lumscript",
+            "begin": "\"",
+            "end": "\"",
+            "patterns": [
+                {
+                    "name": "constant.character.escape.lumscript",
+                    "match": "\\\\."
+                }
+            ]
+        },
+        "constant": {
+            "name": "constant.language.lumscript",
+            "match": "\\b(1i|1j|e|pi|eps0|um)\\b"
+        },
+        "number": {
+            "name": "constant.numeric.lumscript",
+            "match": "\\b(?x: -?(?:0|[1-9]\\d*)(?:(?:\\.\\d+)?(?:[eE][+-]?\\d+)?)?)\\b"
+        },
+        "operators": {
+            "patterns": [
+                {
+                    "comment": "Metadata query for class properties",
+                    "name": "keyword.operator.other.question.lumscript",
+                    "match": "(?<!\\w)\\?(?=\\w)"
+                },
+                {
+                    "comment": "Arithmetic operator symbols",
+                    "name": "keyword.operator.arithmetic.lumscript",
+                    "match": "(?<=[a-zA-Z0-9\\s])(\\+|-|\\*|\\.\\*|/|\\./|\\\\|\\.\\\\|\\^|\\.\\^)(?=[a-zA-Z0-9\\s])"
+                },
+                {
+                    "comment": "Operator symbols",
+                    "name": "keyword.operator.logical.lumscript",
+                    "match": "(?<=[a-zA-Z0-9\\s])(==|~==|&|&&|\\||\\|\\|)(?=[a-zA-Z0-9\\s])"
+                },
+                {
+                    "comment": "Assignment operator",
+                    "name": "keyword.operator.assignment.lumscript",
+                    "match": "(?<=[a-zA-Z0-9\\s])(=)(?!=)"
+                },
+                {
+                    "comment": "Colon operator for vector creation/indexing",
+                    "name": "keyword.operator.vector.colon.lumscript",
+                    "match": "(?<=[a-zA-Z0-9_\\s(){,]|^):(?=[a-zA-Z0-9_\\s()},]|$)"
+                },
+                {
+                    "comment": "Comparative operators",
+                    "name": "keyword.operator.relational.lumscript",
+                    "match": "(?<=[a-zA-Z0-9\\s])(>|>=|<|<=)(?=[a-zA-Z0-9\\s])"
+                }
+            ]
+        },
+        "comment": {
+            "name": "punctuation.definition.comment.lumscript",
+            "match": "\\#[^\n]*"
+        },
+        "readwrite_variable": {
+            "comment": "Top-level workspace variable highlighting",
+            "name": "variable.other.readwrite.matlab",
+            "match": "(?<![a-zA-Z0-9_]|\\.)[a-zA-Z][a-zA-Z0-9_]*(?![a-zA-Z0-9_]|(?:\\(|\\{|\\.\\())"
+        }
+    },
+    "scopeName": "source.lumscript"
+}
