@@ -79,8 +79,8 @@
         },
         "strings": {
             "name": "string.quoted.double.lumscript",
-            "begin": "\"",
-            "end": "\"",
+            "begin": "(\"|\\')",
+            "end": "(\"|\\')",
             "patterns": [
                 {
                     "name": "constant.character.escape.lumscript",
