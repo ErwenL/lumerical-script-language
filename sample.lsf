@@ -1,0 +1,131 @@
+# Sample Lumerical script
+# Test syntax highlighting
+
+# Variables and assignment
+x = 5;
+y = 3.14;
+z = 1i + 2j;
+
+# Constants
+a = pi;
+b = eps0;
+c = inf;
+d = NaN;
+e = true;
+f = false;
+
+# Arithmetic operators
+sum = x + y;
+diff = x - y;
+prod = x * y;
+div = x / y;
+pow = x ^ y;
+dotprod = x .* y;
+dotdiv = x ./ y;
+dotpow = x .^ y;
+
+# Logical operators
+logical_and = (x > 0) & (y < 10);
+logical_or = (x == 5) | (y == 3);
+short_circuit_and = (x > 0) && (y < 10);
+short_circuit_or = (x == 5) || (y == 3);
+not_eq = x ~= y;
+not_eq2 = x ~== y;
+logical_not = ~(x > 0);
+
+# Relational operators
+greater = x > y;
+greater_eq = x >= y;
+less = x < y;
+less_eq = x <= y;
+equal = x == y;
+
+# Colon operator for vectors
+vec = 1:10;
+step_vec = 1:0.5:10;
+
+# Transpose operators
+matrix = [1,2;3,4];
+transpose = matrix';
+nonconj_transpose = matrix.';
+
+# Field access (if supported)
+# obj.field = value;
+
+# Line continuation
+long_string = "This is a very long string that " + ...
+    "continues on the next line";
+
+# Strings
+str1 = 'single quoted string';
+str2 = "double quoted string";
+escaped = "escape \"quote\" and \\ backslash";
+
+# Matrix and cell literals
+M = [1,2,3; 4,5,6];
+C = {1, 'hello', x};
+empty_matrix = [];
+empty_cell = {};
+
+# Control flow
+if x > 0
+    disp('positive');
+elseif x < 0
+    disp('negative');
+else
+    disp('zero');
+end
+
+for i = 1:10
+    disp(i);
+    if i == 5
+        break;
+    end
+end
+
+while x > 0
+    x = x - 1;
+end
+
+switch y
+    case 3.14
+        disp('pi approx');
+    otherwise
+        disp('other');
+end
+
+try
+    risky = 1 / 0;
+catch
+    disp('division by zero');
+end
+
+# Functions
+function result = myfunc(input)
+    result = input * 2;
+end
+
+# Built-in Lumerical commands (from CSV)
+add2drect;
+addabsorbing;
+selectall;
+
+# Data types
+var_double = double(42);
+var_single = single(3.14);
+var_int = int32(100);
+var_logical = logical(true);
+var_char = char('A');
+var_string = string("text");
+var_struct = struct('field', 'value');
+var_cell = cell(1,3);
+var_table = table;
+
+# Special operators
+# Question mark for metadata query
+?material;
+
+# Dot operator for field access (if supported)
+# obj.property;
+
+# End of file
