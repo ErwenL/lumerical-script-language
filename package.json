@@ -2,7 +2,13 @@
     "name": "lumerical-script-language",
     "displayName": "Lumerical Script Language",
     "description": "Syntax highlighting for lumerical script language",
+    "publisher": "ErwenL",
     "version": "0.0.1",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ErwenL/lumerical-script-language.git"
+    },
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.67.0"
