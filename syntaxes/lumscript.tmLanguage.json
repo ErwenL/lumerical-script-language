@@ -17,6 +17,9 @@
             "include": "#cell_braces"
         },
         {
+            "include": "#operators"
+        },
+        {
             "include": "#strings"
         },
         {
@@ -24,9 +27,6 @@
         },
         {
             "include": "#number"
-        },
-        {
-            "include": "#operators"
         },
         {
             "include": "#comment"
@@ -93,8 +93,8 @@
         },
         "strings": {
             "name": "string.quoted.double.lumscript",
-            "begin": "(\"|\\')",
-            "end": "(\"|\\')",
+            "begin": "(\"|')",
+            "end": "(\"|')",
             "patterns": [
                 {
                     "name": "constant.character.escape.lumscript",
@@ -145,12 +145,12 @@
                 {
                     "comment": "Transpose operator",
                     "name": "keyword.operator.transpose.lumscript",
-                    "match": "(?<=[a-zA-Z0-9_)\\]}])\\'(?!\\w)"
+                    "match": "(?<=[a-zA-Z0-9_)\\]}])'(?!\\w)"
                 },
                 {
                     "comment": "Non-conjugate transpose operator",
                     "name": "keyword.operator.transpose.nonconjugate.lumscript",
-                    "match": "(?<=[a-zA-Z0-9_)\\]}])\\.\\'(?!\\w)"
+                    "match": "(?<=[a-zA-Z0-9_)\\]}])\\.'(?!\\w)"
                 },
                 {
                     "comment": "Field access operator",
