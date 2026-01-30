@@ -2,5355 +2,5355 @@
 	"abs": {
 		"prefix": "abs",
 		"body": [
-			"abs"
+			"abs($1)"
 		],
 		"description": "abs"
 	},
 	"acos": {
 		"prefix": "acos",
 		"body": [
-			"acos"
+			"acos($1)"
 		],
 		"description": "acos"
 	},
 	"add2dpoly": {
 		"prefix": "add2dpoly",
 		"body": [
-			"add2dpoly"
+			"add2dpoly($1)"
 		],
 		"description": "add2dpoly"
 	},
 	"add2drect": {
 		"prefix": "add2drect",
 		"body": [
-			"add2drect"
+			"add2drect($1)"
 		],
 		"description": "add2drect"
 	},
 	"add2visualizer": {
 		"prefix": "add2visualizer",
 		"body": [
-			"add2visualizer"
+			"add2visualizer($1)"
 		],
 		"description": "add2visualizer"
 	},
 	"addabsorbing": {
 		"prefix": "addabsorbing",
 		"body": [
-			"addabsorbing"
+			"addabsorbing($1)"
 		],
 		"description": "addabsorbing"
 	},
 	"addanalysisgroup": {
 		"prefix": "addanalysisgroup",
 		"body": [
-			"addanalysisgroup"
+			"addanalysisgroup($1)"
 		],
 		"description": "addanalysisgroup"
 	},
 	"addanalysisprop": {
 		"prefix": "addanalysisprop",
 		"body": [
-			"addanalysisprop"
+			"addanalysisprop($1)"
 		],
 		"description": "addanalysisprop"
 	},
 	"addanalysisresult": {
 		"prefix": "addanalysisresult",
 		"body": [
-			"addanalysisresult"
+			"addanalysisresult($1)"
 		],
 		"description": "addanalysisresult"
 	},
 	"addattribute": {
 		"prefix": "addattribute",
 		"body": [
-			"addattribute"
+			"addattribute($1)"
 		],
 		"description": "addattribute"
 	},
 	"addbandstructuremonitor": {
 		"prefix": "addbandstructuremonitor",
 		"body": [
-			"addbandstructuremonitor"
+			"addbandstructuremonitor($1)"
 		],
 		"description": "addbandstructuremonitor"
 	},
 	"addbc": {
 		"prefix": "addbc",
 		"body": [
-			"addbc"
+			"addbc($1)"
 		],
 		"description": "addbc"
 	},
 	"addbulkgen": {
 		"prefix": "addbulkgen",
 		"body": [
-			"addbulkgen"
+			"addbulkgen($1)"
 		],
 		"description": "addbulkgen"
 	},
 	"addchargemesh": {
 		"prefix": "addchargemesh",
 		"body": [
-			"addchargemesh"
+			"addchargemesh($1)"
 		],
 		"description": "addchargemesh"
 	},
 	"addchargemonitor": {
 		"prefix": "addchargemonitor",
 		"body": [
-			"addchargemonitor"
+			"addchargemonitor($1)"
 		],
 		"description": "addchargemonitor"
 	},
 	"addchargesolver": {
 		"prefix": "addchargesolver",
 		"body": [
-			"addchargesolver"
+			"addchargesolver($1)"
 		],
 		"description": "addchargesolver"
 	},
 	"addcircle": {
 		"prefix": "addcircle",
 		"body": [
-			"addcircle"
+			"addcircle($1)"
 		],
 		"description": "addcircle"
 	},
 	"addcontact": {
 		"prefix": "addcontact",
 		"body": [
-			"addcontact"
+			"addcontact($1)"
 		],
 		"description": "addcontact"
 	},
 	"addconvectionbc": {
 		"prefix": "addconvectionbc",
 		"body": [
-			"addconvectionbc"
+			"addconvectionbc($1)"
 		],
 		"description": "addconvectionbc"
 	},
 	"addctmaterialproperty": {
 		"prefix": "addctmaterialproperty",
 		"body": [
-			"addctmaterialproperty"
+			"addctmaterialproperty($1)"
 		],
 		"description": "addctmaterialproperty"
 	},
 	"addcustom": {
 		"prefix": "addcustom",
 		"body": [
-			"addcustom"
+			"addcustom($1)"
 		],
 		"description": "addcustom"
 	},
 	"addcustomdoping": {
 		"prefix": "addcustomdoping",
 		"body": [
-			"addcustomdoping"
+			"addcustomdoping($1)"
 		],
 		"description": "addcustomdoping"
 	},
 	"adddeltachargesource": {
 		"prefix": "adddeltachargesource",
 		"body": [
-			"adddeltachargesource"
+			"adddeltachargesource($1)"
 		],
 		"description": "adddeltachargesource"
 	},
 	"adddevice": {
 		"prefix": "adddevice",
 		"body": [
-			"adddevice"
+			"adddevice($1)"
 		],
 		"description": "adddevice"
 	},
 	"adddgtdmesh": {
 		"prefix": "adddgtdmesh",
 		"body": [
-			"adddgtdmesh"
+			"adddgtdmesh($1)"
 		],
 		"description": "adddgtdmesh"
 	},
 	"adddgtdsolver": {
 		"prefix": "adddgtdsolver",
 		"body": [
-			"adddgtdsolver"
+			"adddgtdsolver($1)"
 		],
 		"description": "adddgtdsolver"
 	},
 	"adddiffusion": {
 		"prefix": "adddiffusion",
 		"body": [
-			"adddiffusion"
+			"adddiffusion($1)"
 		],
 		"description": "adddiffusion"
 	},
 	"adddipole": {
 		"prefix": "adddipole",
 		"body": [
-			"adddipole"
+			"adddipole($1)"
 		],
 		"description": "adddipole"
 	},
 	"adddope": {
 		"prefix": "adddope",
 		"body": [
-			"adddope"
+			"adddope($1)"
 		],
 		"description": "adddope"
 	},
 	"addeffectiveindex": {
 		"prefix": "addeffectiveindex",
 		"body": [
-			"addeffectiveindex"
+			"addeffectiveindex($1)"
 		],
 		"description": "addeffectiveindex"
 	},
 	"addefieldmonitor": {
 		"prefix": "addefieldmonitor",
 		"body": [
-			"addefieldmonitor"
+			"addefieldmonitor($1)"
 		],
 		"description": "addefieldmonitor"
 	},
 	"addeigenmode": {
 		"prefix": "addeigenmode",
 		"body": [
-			"addeigenmode"
+			"addeigenmode($1)"
 		],
 		"description": "addeigenmode"
 	},
 	"addelectricalcontact": {
 		"prefix": "addelectricalcontact",
 		"body": [
-			"addelectricalcontact"
+			"addelectricalcontact($1)"
 		],
 		"description": "addelectricalcontact"
 	},
 	"addelement": {
 		"prefix": "addelement",
 		"body": [
-			"addelement"
+			"addelement($1)"
 		],
 		"description": "addelement"
 	},
 	"addemabsorptionmonitor": {
 		"prefix": "addemabsorptionmonitor",
 		"body": [
-			"addemabsorptionmonitor"
+			"addemabsorptionmonitor($1)"
 		],
 		"description": "addemabsorptionmonitor"
 	},
 	"addeme": {
 		"prefix": "addeme",
 		"body": [
-			"addeme"
+			"addeme($1)"
 		],
 		"description": "addeme"
 	},
 	"addemeindex": {
 		"prefix": "addemeindex",
 		"body": [
-			"addemeindex"
+			"addemeindex($1)"
 		],
 		"description": "addemeindex"
 	},
 	"addemeport": {
 		"prefix": "addemeport",
 		"body": [
-			"addemeport"
+			"addemeport($1)"
 		],
 		"description": "addemeport"
 	},
 	"addemeprofile": {
 		"prefix": "addemeprofile",
 		"body": [
-			"addemeprofile"
+			"addemeprofile($1)"
 		],
 		"description": "addemeprofile"
 	},
 	"addemfieldmonitor": {
 		"prefix": "addemfieldmonitor",
 		"body": [
-			"addemfieldmonitor"
+			"addemfieldmonitor($1)"
 		],
 		"description": "addemfieldmonitor"
 	},
 	"addemfieldtimemonitor": {
 		"prefix": "addemfieldtimemonitor",
 		"body": [
-			"addemfieldtimemonitor"
+			"addemfieldtimemonitor($1)"
 		],
 		"description": "addemfieldtimemonitor"
 	},
 	"addemmaterialproperty": {
 		"prefix": "addemmaterialproperty",
 		"body": [
-			"addemmaterialproperty"
+			"addemmaterialproperty($1)"
 		],
 		"description": "addemmaterialproperty"
 	},
 	"addfde": {
 		"prefix": "addfde",
 		"body": [
-			"addfde"
+			"addfde($1)"
 		],
 		"description": "addfde"
 	},
 	"addfdtd": {
 		"prefix": "addfdtd",
 		"body": [
-			"addfdtd"
+			"addfdtd($1)"
 		],
 		"description": "addfdtd"
 	},
 	"addfeemmesh": {
 		"prefix": "addfeemmesh",
 		"body": [
-			"addfeemmesh"
+			"addfeemmesh($1)"
 		],
 		"description": "addfeemmesh"
 	},
 	"addfeemsolver": {
 		"prefix": "addfeemsolver",
 		"body": [
-			"addfeemsolver"
+			"addfeemsolver($1)"
 		],
 		"description": "addfeemsolver"
 	},
 	"addgaussian": {
 		"prefix": "addgaussian",
 		"body": [
-			"addgaussian"
+			"addgaussian($1)"
 		],
 		"description": "addgaussian"
 	},
 	"addgridattribute": {
 		"prefix": "addgridattribute",
 		"body": [
-			"addgridattribute"
+			"addgridattribute($1)"
 		],
 		"description": "addgridattribute"
 	},
 	"addgroup": {
 		"prefix": "addgroup",
 		"body": [
-			"addgroup"
+			"addgroup($1)"
 		],
 		"description": "addgroup"
 	},
 	"addheatfluxbc": {
 		"prefix": "addheatfluxbc",
 		"body": [
-			"addheatfluxbc"
+			"addheatfluxbc($1)"
 		],
 		"description": "addheatfluxbc"
 	},
 	"addheatfluxmonitor": {
 		"prefix": "addheatfluxmonitor",
 		"body": [
-			"addheatfluxmonitor"
+			"addheatfluxmonitor($1)"
 		],
 		"description": "addheatfluxmonitor"
 	},
 	"addheatmesh": {
 		"prefix": "addheatmesh",
 		"body": [
-			"addheatmesh"
+			"addheatmesh($1)"
 		],
 		"description": "addheatmesh"
 	},
 	"addheatsolver": {
 		"prefix": "addheatsolver",
 		"body": [
-			"addheatsolver"
+			"addheatsolver($1)"
 		],
 		"description": "addheatsolver"
 	},
 	"addhtmaterialproperty": {
 		"prefix": "addhtmaterialproperty",
 		"body": [
-			"addhtmaterialproperty"
+			"addhtmaterialproperty($1)"
 		],
 		"description": "addhtmaterialproperty"
 	},
 	"addimplant": {
 		"prefix": "addimplant",
 		"body": [
-			"addimplant"
+			"addimplant($1)"
 		],
 		"description": "addimplant"
 	},
 	"addimport": {
 		"prefix": "addimport",
 		"body": [
-			"addimport"
+			"addimport($1)"
 		],
 		"description": "addimport"
 	},
 	"addimportdope": {
 		"prefix": "addimportdope",
 		"body": [
-			"addimportdope"
+			"addimportdope($1)"
 		],
 		"description": "addimportdope"
 	},
 	"addimportedsource": {
 		"prefix": "addimportedsource",
 		"body": [
-			"addimportedsource"
+			"addimportedsource($1)"
 		],
 		"description": "addimportedsource"
 	},
 	"addimportgen": {
 		"prefix": "addimportgen",
 		"body": [
-			"addimportgen"
+			"addimportgen($1)"
 		],
 		"description": "addimportgen"
 	},
 	"addimportheat": {
 		"prefix": "addimportheat",
 		"body": [
-			"addimportheat"
+			"addimportheat($1)"
 		],
 		"description": "addimportheat"
 	},
 	"addimportnk": {
 		"prefix": "addimportnk",
 		"body": [
-			"addimportnk"
+			"addimportnk($1)"
 		],
 		"description": "addimportnk"
 	},
 	"addimporttemperature": {
 		"prefix": "addimporttemperature",
 		"body": [
-			"addimporttemperature"
+			"addimporttemperature($1)"
 		],
 		"description": "addimporttemperature"
 	},
 	"addindex": {
 		"prefix": "addindex",
 		"body": [
-			"addindex"
+			"addindex($1)"
 		],
 		"description": "addindex"
 	},
 	"addjfluxmonitor": {
 		"prefix": "addjfluxmonitor",
 		"body": [
-			"addjfluxmonitor"
+			"addjfluxmonitor($1)"
 		],
 		"description": "addjfluxmonitor"
 	},
 	"addjob": {
 		"prefix": "addjob",
 		"body": [
-			"addjob"
+			"addjob($1)"
 		],
 		"description": "addjob"
 	},
 	"addlayer": {
 		"prefix": "addlayer",
 		"body": [
-			"addlayer"
+			"addlayer($1)"
 		],
 		"description": "addlayer"
 	},
 	"addlayerbuilder": {
 		"prefix": "addlayerbuilder",
 		"body": [
-			"addlayerbuilder"
+			"addlayerbuilder($1)"
 		],
 		"description": "addlayerbuilder"
 	},
 	"addmaterial": {
 		"prefix": "addmaterial",
 		"body": [
-			"addmaterial"
+			"addmaterial($1)"
 		],
 		"description": "addmaterial"
 	},
 	"addmaterialproperties": {
 		"prefix": "addmaterialproperties",
 		"body": [
-			"addmaterialproperties"
+			"addmaterialproperties($1)"
 		],
 		"description": "addmaterialproperties"
 	},
 	"addmesh": {
 		"prefix": "addmesh",
 		"body": [
-			"addmesh"
+			"addmesh($1)"
 		],
 		"description": "addmesh"
 	},
 	"addmeshconstraint": {
 		"prefix": "addmeshconstraint",
 		"body": [
-			"addmeshconstraint"
+			"addmeshconstraint($1)"
 		],
 		"description": "addmeshconstraint"
 	},
 	"addmode": {
 		"prefix": "addmode",
 		"body": [
-			"addmode"
+			"addmode($1)"
 		],
 		"description": "addmode"
 	},
 	"addmodeexpansion": {
 		"prefix": "addmodeexpansion",
 		"body": [
-			"addmodeexpansion"
+			"addmodeexpansion($1)"
 		],
 		"description": "addmodeexpansion"
 	},
 	"addmodelmaterial": {
 		"prefix": "addmodelmaterial",
 		"body": [
-			"addmodelmaterial"
+			"addmodelmaterial($1)"
 		],
 		"description": "addmodelmaterial"
 	},
 	"addmodesource": {
 		"prefix": "addmodesource",
 		"body": [
-			"addmodesource"
+			"addmodesource($1)"
 		],
 		"description": "addmodesource"
 	},
 	"addmovie": {
 		"prefix": "addmovie",
 		"body": [
-			"addmovie"
+			"addmovie($1)"
 		],
 		"description": "addmovie"
 	},
 	"addobject": {
 		"prefix": "addobject",
 		"body": [
-			"addobject"
+			"addobject($1)"
 		],
 		"description": "addobject"
 	},
 	"addparameter": {
 		"prefix": "addparameter",
 		"body": [
-			"addparameter"
+			"addparameter($1)"
 		],
 		"description": "addparameter"
 	},
 	"addpath": {
 		"prefix": "addpath",
 		"body": [
-			"addpath"
+			"addpath($1)"
 		],
 		"description": "addpath"
 	},
 	"addpec": {
 		"prefix": "addpec",
 		"body": [
-			"addpec"
+			"addpec($1)"
 		],
 		"description": "addpec"
 	},
 	"addperiodic": {
 		"prefix": "addperiodic",
 		"body": [
-			"addperiodic"
+			"addperiodic($1)"
 		],
 		"description": "addperiodic"
 	},
 	"addplanarsolid": {
 		"prefix": "addplanarsolid",
 		"body": [
-			"addplanarsolid"
+			"addplanarsolid($1)"
 		],
 		"description": "addplanarsolid"
 	},
 	"addplane": {
 		"prefix": "addplane",
 		"body": [
-			"addplane"
+			"addplane($1)"
 		],
 		"description": "addplane"
 	},
 	"addpmc": {
 		"prefix": "addpmc",
 		"body": [
-			"addpmc"
+			"addpmc($1)"
 		],
 		"description": "addpmc"
 	},
 	"addpml": {
 		"prefix": "addpml",
 		"body": [
-			"addpml"
+			"addpml($1)"
 		],
 		"description": "addpml"
 	},
 	"addpoly": {
 		"prefix": "addpoly",
 		"body": [
-			"addpoly"
+			"addpoly($1)"
 		],
 		"description": "addpoly"
 	},
 	"addport": {
 		"prefix": "addport",
 		"body": [
-			"addport"
+			"addport($1)"
 		],
 		"description": "addport"
 	},
 	"addpower": {
 		"prefix": "addpower",
 		"body": [
-			"addpower"
+			"addpower($1)"
 		],
 		"description": "addpower"
 	},
 	"addprofile": {
 		"prefix": "addprofile",
 		"body": [
-			"addprofile"
+			"addprofile($1)"
 		],
 		"description": "addprofile"
 	},
 	"addpropagator": {
 		"prefix": "addpropagator",
 		"body": [
-			"addpropagator"
+			"addpropagator($1)"
 		],
 		"description": "addpropagator"
 	},
 	"addproperty": {
 		"prefix": "addproperty",
 		"body": [
-			"addproperty"
+			"addproperty($1)"
 		],
 		"description": "addproperty"
 	},
 	"addpyramid": {
 		"prefix": "addpyramid",
 		"body": [
-			"addpyramid"
+			"addpyramid($1)"
 		],
 		"description": "addpyramid"
 	},
 	"addradiationbc": {
 		"prefix": "addradiationbc",
 		"body": [
-			"addradiationbc"
+			"addradiationbc($1)"
 		],
 		"description": "addradiationbc"
 	},
 	"addrect": {
 		"prefix": "addrect",
 		"body": [
-			"addrect"
+			"addrect($1)"
 		],
 		"description": "addrect"
 	},
 	"addresource": {
 		"prefix": "addresource",
 		"body": [
-			"addresource"
+			"addresource($1)"
 		],
 		"description": "addresource"
 	},
 	"addring": {
 		"prefix": "addring",
 		"body": [
-			"addring"
+			"addring($1)"
 		],
 		"description": "addring"
 	},
 	"addsimulationregion": {
 		"prefix": "addsimulationregion",
 		"body": [
-			"addsimulationregion"
+			"addsimulationregion($1)"
 		],
 		"description": "addsimulationregion"
 	},
 	"addsphere": {
 		"prefix": "addsphere",
 		"body": [
-			"addsphere"
+			"addsphere($1)"
 		],
 		"description": "addsphere"
 	},
 	"addstructuregroup": {
 		"prefix": "addstructuregroup",
 		"body": [
-			"addstructuregroup"
+			"addstructuregroup($1)"
 		],
 		"description": "addstructuregroup"
 	},
 	"addsurface": {
 		"prefix": "addsurface",
 		"body": [
-			"addsurface"
+			"addsurface($1)"
 		],
 		"description": "addsurface"
 	},
 	"addsurfacechargebc": {
 		"prefix": "addsurfacechargebc",
 		"body": [
-			"addsurfacechargebc"
+			"addsurfacechargebc($1)"
 		],
 		"description": "addsurfacechargebc"
 	},
 	"addsurfacerecombinationbc": {
 		"prefix": "addsurfacerecombinationbc",
 		"body": [
-			"addsurfacerecombinationbc"
+			"addsurfacerecombinationbc($1)"
 		],
 		"description": "addsurfacerecombinationbc"
 	},
 	"addsweep": {
 		"prefix": "addsweep",
 		"body": [
-			"addsweep"
+			"addsweep($1)"
 		],
 		"description": "addsweep"
 	},
 	"addsweepparameter": {
 		"prefix": "addsweepparameter",
 		"body": [
-			"addsweepparameter"
+			"addsweepparameter($1)"
 		],
 		"description": "addsweepparameter"
 	},
 	"addsweepresult": {
 		"prefix": "addsweepresult",
 		"body": [
-			"addsweepresult"
+			"addsweepresult($1)"
 		],
 		"description": "addsweepresult"
 	},
 	"addtemperaturebc": {
 		"prefix": "addtemperaturebc",
 		"body": [
-			"addtemperaturebc"
+			"addtemperaturebc($1)"
 		],
 		"description": "addtemperaturebc"
 	},
 	"addtemperaturemonitor": {
 		"prefix": "addtemperaturemonitor",
 		"body": [
-			"addtemperaturemonitor"
+			"addtemperaturemonitor($1)"
 		],
 		"description": "addtemperaturemonitor"
 	},
 	"addtfsf": {
 		"prefix": "addtfsf",
 		"body": [
-			"addtfsf"
+			"addtfsf($1)"
 		],
 		"description": "addtfsf"
 	},
 	"addthermalinsulatingbc": {
 		"prefix": "addthermalinsulatingbc",
 		"body": [
-			"addthermalinsulatingbc"
+			"addthermalinsulatingbc($1)"
 		],
 		"description": "addthermalinsulatingbc"
 	},
 	"addthermalpowerbc": {
 		"prefix": "addthermalpowerbc",
 		"body": [
-			"addthermalpowerbc"
+			"addthermalpowerbc($1)"
 		],
 		"description": "addthermalpowerbc"
 	},
 	"addtime": {
 		"prefix": "addtime",
 		"body": [
-			"addtime"
+			"addtime($1)"
 		],
 		"description": "addtime"
 	},
 	"addtogroup": {
 		"prefix": "addtogroup",
 		"body": [
-			"addtogroup"
+			"addtogroup($1)"
 		],
 		"description": "addtogroup"
 	},
 	"addtolibrary": {
 		"prefix": "addtolibrary",
 		"body": [
-			"addtolibrary"
+			"addtolibrary($1)"
 		],
 		"description": "addtolibrary"
 	},
 	"addtriangle": {
 		"prefix": "addtriangle",
 		"body": [
-			"addtriangle"
+			"addtriangle($1)"
 		],
 		"description": "addtriangle"
 	},
 	"adduniformheat": {
 		"prefix": "adduniformheat",
 		"body": [
-			"adduniformheat"
+			"adduniformheat($1)"
 		],
 		"description": "adduniformheat"
 	},
 	"adduserprop": {
 		"prefix": "adduserprop",
 		"body": [
-			"adduserprop"
+			"adduserprop($1)"
 		],
 		"description": "adduserprop"
 	},
 	"addvarfdtd": {
 		"prefix": "addvarfdtd",
 		"body": [
-			"addvarfdtd"
+			"addvarfdtd($1)"
 		],
 		"description": "addvarfdtd"
 	},
 	"addvoltagebc": {
 		"prefix": "addvoltagebc",
 		"body": [
-			"addvoltagebc"
+			"addvoltagebc($1)"
 		],
 		"description": "addvoltagebc"
 	},
 	"addwaveguide": {
 		"prefix": "addwaveguide",
 		"body": [
-			"addwaveguide"
+			"addwaveguide($1)"
 		],
 		"description": "addwaveguide"
 	},
 	"all": {
 		"prefix": "all",
 		"body": [
-			"all"
+			"all($1)"
 		],
 		"description": "all"
 	},
 	"almostequal": {
 		"prefix": "almostequal",
 		"body": [
-			"almostequal"
+			"almostequal($1)"
 		],
 		"description": "almostequal"
 	},
 	"amax": {
 		"prefix": "amax",
 		"body": [
-			"amax"
+			"amax($1)"
 		],
 		"description": "amax"
 	},
 	"amin": {
 		"prefix": "amin",
 		"body": [
-			"amin"
+			"amin($1)"
 		],
 		"description": "amin"
 	},
 	"analysis": {
 		"prefix": "analysis",
 		"body": [
-			"analysis"
+			"analysis($1)"
 		],
 		"description": "analysis"
 	},
 	"and": {
 		"prefix": "and",
 		"body": [
-			"and"
+			"and($1)"
 		],
 		"description": "and"
 	},
 	"angle": {
 		"prefix": "angle",
 		"body": [
-			"angle"
+			"angle($1)"
 		],
 		"description": "angle"
 	},
 	"annotateproperty": {
 		"prefix": "annotateproperty",
 		"body": [
-			"annotateproperty"
+			"annotateproperty($1)"
 		],
 		"description": "annotateproperty"
 	},
 	"any": {
 		"prefix": "any",
 		"body": [
-			"any"
+			"any($1)"
 		],
 		"description": "any"
 	},
 	"arrayperiodicdata": {
 		"prefix": "arrayperiodicdata",
 		"body": [
-			"arrayperiodicdata"
+			"arrayperiodicdata($1)"
 		],
 		"description": "arrayperiodicdata"
 	},
 	"asapexport": {
 		"prefix": "asapexport",
 		"body": [
-			"asapexport"
+			"asapexport($1)"
 		],
 		"description": "asapexport"
 	},
 	"asapimport": {
 		"prefix": "asapimport",
 		"body": [
-			"asapimport"
+			"asapimport($1)"
 		],
 		"description": "asapimport"
 	},
 	"asapload": {
 		"prefix": "asapload",
 		"body": [
-			"asapload"
+			"asapload($1)"
 		],
 		"description": "asapload"
 	},
 	"asin": {
 		"prefix": "asin",
 		"body": [
-			"asin"
+			"asin($1)"
 		],
 		"description": "asin"
 	},
 	"assert": {
 		"prefix": "assert",
 		"body": [
-			"assert"
+			"assert($1)"
 		],
 		"description": "assert"
 	},
 	"atan": {
 		"prefix": "atan",
 		"body": [
-			"atan"
+			"atan($1)"
 		],
 		"description": "atan"
 	},
 	"atan2": {
 		"prefix": "atan2",
 		"body": [
-			"atan2"
+			"atan2($1)"
 		],
 		"description": "atan2"
 	},
 	"autoarrange": {
 		"prefix": "autoarrange",
 		"body": [
-			"autoarrange"
+			"autoarrange($1)"
 		],
 		"description": "autoarrange"
 	},
 	"autosaveoff": {
 		"prefix": "autosaveoff",
 		"body": [
-			"autosaveoff"
+			"autosaveoff($1)"
 		],
 		"description": "autosaveoff"
 	},
 	"autosaveon": {
 		"prefix": "autosaveon",
 		"body": [
-			"autosaveon"
+			"autosaveon($1)"
 		],
 		"description": "autosaveon"
 	},
 	"bar": {
 		"prefix": "bar",
 		"body": [
-			"bar"
+			"bar($1)"
 		],
 		"description": "bar"
 	},
 	"besseli": {
 		"prefix": "besseli",
 		"body": [
-			"besseli"
+			"besseli($1)"
 		],
 		"description": "besseli"
 	},
 	"besselj": {
 		"prefix": "besselj",
 		"body": [
-			"besselj"
+			"besselj($1)"
 		],
 		"description": "besselj"
 	},
 	"besselk": {
 		"prefix": "besselk",
 		"body": [
-			"besselk"
+			"besselk($1)"
 		],
 		"description": "besselk"
 	},
 	"bessely": {
 		"prefix": "bessely",
 		"body": [
-			"bessely"
+			"bessely($1)"
 		],
 		"description": "bessely"
 	},
 	"bestoverlap": {
 		"prefix": "bestoverlap",
 		"body": [
-			"bestoverlap"
+			"bestoverlap($1)"
 		],
 		"description": "bestoverlap"
 	},
 	"bestoverlap2": {
 		"prefix": "bestoverlap2",
 		"body": [
-			"bestoverlap2"
+			"bestoverlap2($1)"
 		],
 		"description": "bestoverlap2"
 	},
 	"break": {
 		"prefix": "break",
 		"body": [
-			"break"
+			"break($1)"
 		],
 		"description": "break"
 	},
 	"buildmqwmaterial": {
 		"prefix": "buildmqwmaterial",
 		"body": [
-			"buildmqwmaterial"
+			"buildmqwmaterial($1)"
 		],
 		"description": "buildmqwmaterial"
 	},
 	"cd": {
 		"prefix": "cd",
 		"body": [
-			"cd"
+			"cd($1)"
 		],
 		"description": "cd"
 	},
 	"ceil": {
 		"prefix": "ceil",
 		"body": [
-			"ceil"
+			"ceil($1)"
 		],
 		"description": "ceil"
 	},
 	"cell": {
 		"prefix": "cell",
 		"body": [
-			"cell"
+			"cell($1)"
 		],
 		"description": "cell"
 	},
 	"centroid": {
 		"prefix": "centroid",
 		"body": [
-			"centroid"
+			"centroid($1)"
 		],
 		"description": "centroid"
 	},
 	"chebin": {
 		"prefix": "chebin",
 		"body": [
-			"chebin"
+			"chebin($1)"
 		],
 		"description": "chebin"
 	},
 	"chebpol": {
 		"prefix": "chebpol",
 		"body": [
-			"chebpol"
+			"chebpol($1)"
 		],
 		"description": "chebpol"
 	},
 	"chebpol1": {
 		"prefix": "chebpol1",
 		"body": [
-			"chebpol1"
+			"chebpol1($1)"
 		],
 		"description": "chebpol1"
 	},
 	"checkout": {
 		"prefix": "checkout",
 		"body": [
-			"checkout"
+			"checkout($1)"
 		],
 		"description": "checkout"
 	},
 	"chol": {
 		"prefix": "chol",
 		"body": [
-			"chol"
+			"chol($1)"
 		],
 		"description": "chol"
 	},
 	"chpts": {
 		"prefix": "chpts",
 		"body": [
-			"chpts"
+			"chpts($1)"
 		],
 		"description": "chpts"
 	},
 	"cls/clc": {
 		"prefix": "cls/clc",
 		"body": [
-			"cls/clc"
+			"cls/clc($1)"
 		],
 		"description": "cls/clc"
 	},
 	"clear": {
 		"prefix": "clear",
 		"body": [
-			"clear"
+			"clear($1)"
 		],
 		"description": "clear"
 	},
 	"clearanalysis": {
 		"prefix": "clearanalysis",
 		"body": [
-			"clearanalysis"
+			"clearanalysis($1)"
 		],
 		"description": "clearanalysis"
 	},
 	"cleardataset": {
 		"prefix": "cleardataset",
 		"body": [
-			"cleardataset"
+			"cleardataset($1)"
 		],
 		"description": "cleardataset"
 	},
 	"cleardcard": {
 		"prefix": "cleardcard",
 		"body": [
-			"cleardcard"
+			"cleardcard($1)"
 		],
 		"description": "cleardcard"
 	},
 	"clearexcept": {
 		"prefix": "clearexcept",
 		"body": [
-			"clearexcept"
+			"clearexcept($1)"
 		],
 		"description": "clearexcept"
 	},
 	"clearfunctions": {
 		"prefix": "clearfunctions",
 		"body": [
-			"clearfunctions"
+			"clearfunctions($1)"
 		],
 		"description": "clearfunctions"
 	},
 	"clearjobs": {
 		"prefix": "clearjobs",
 		"body": [
-			"clearjobs"
+			"clearjobs($1)"
 		],
 		"description": "clearjobs"
 	},
 	"clearlogwindow": {
 		"prefix": "clearlogwindow",
 		"body": [
-			"clearlogwindow"
+			"clearlogwindow($1)"
 		],
 		"description": "clearlogwindow"
 	},
 	"clearmodedata": {
 		"prefix": "clearmodedata",
 		"body": [
-			"clearmodedata"
+			"clearmodedata($1)"
 		],
 		"description": "clearmodedata"
 	},
 	"clearpath": {
 		"prefix": "clearpath",
 		"body": [
-			"clearpath"
+			"clearpath($1)"
 		],
 		"description": "clearpath"
 	},
 	"clearportmodedata": {
 		"prefix": "clearportmodedata",
 		"body": [
-			"clearportmodedata"
+			"clearportmodedata($1)"
 		],
 		"description": "clearportmodedata"
 	},
 	"clearsourcedata": {
 		"prefix": "clearsourcedata",
 		"body": [
-			"clearsourcedata"
+			"clearsourcedata($1)"
 		],
 		"description": "clearsourcedata"
 	},
 	"closeall": {
 		"prefix": "closeall",
 		"body": [
-			"closeall"
+			"closeall($1)"
 		],
 		"description": "closeall"
 	},
 	"closesession": {
 		"prefix": "closesession",
 		"body": [
-			"closesession"
+			"closesession($1)"
 		],
 		"description": "closesession"
 	},
 	"colormatch": {
 		"prefix": "colormatch",
 		"body": [
-			"colormatch"
+			"colormatch($1)"
 		],
 		"description": "colormatch"
 	},
 	"colormatchfunction": {
 		"prefix": "colormatchfunction",
 		"body": [
-			"colormatchfunction"
+			"colormatchfunction($1)"
 		],
 		"description": "colormatchfunction"
 	},
 	"colormatchuv": {
 		"prefix": "colormatchuv",
 		"body": [
-			"colormatchuv"
+			"colormatchuv($1)"
 		],
 		"description": "colormatchuv"
 	},
 	"colormatchxy": {
 		"prefix": "colormatchxy",
 		"body": [
-			"colormatchxy"
+			"colormatchxy($1)"
 		],
 		"description": "colormatchxy"
 	},
 	"conj": {
 		"prefix": "conj",
 		"body": [
-			"conj"
+			"conj($1)"
 		],
 		"description": "conj"
 	},
 	"connect": {
 		"prefix": "connect",
 		"body": [
-			"connect"
+			"connect($1)"
 		],
 		"description": "connect"
 	},
 	"constructgeneratormatrix": {
 		"prefix": "constructgeneratormatrix",
 		"body": [
-			"constructgeneratormatrix"
+			"constructgeneratormatrix($1)"
 		],
 		"description": "constructgeneratormatrix"
 	},
 	"conv2": {
 		"prefix": "conv2",
 		"body": [
-			"conv2"
+			"conv2($1)"
 		],
 		"description": "conv2"
 	},
 	"convertnportsparametersweep": {
 		"prefix": "convertnportsparametersweep",
 		"body": [
-			"convertnportsparametersweep"
+			"convertnportsparametersweep($1)"
 		],
 		"description": "convertnportsparametersweep"
 	},
 	"copy": {
 		"prefix": "copy",
 		"body": [
-			"copy"
+			"copy($1)"
 		],
 		"description": "copy"
 	},
 	"copydcard": {
 		"prefix": "copydcard",
 		"body": [
-			"copydcard"
+			"copydcard($1)"
 		],
 		"description": "copydcard"
 	},
 	"copymaterial": {
 		"prefix": "copymaterial",
 		"body": [
-			"copymaterial"
+			"copymaterial($1)"
 		],
 		"description": "copymaterial"
 	},
 	"copysweep": {
 		"prefix": "copysweep",
 		"body": [
-			"copysweep"
+			"copysweep($1)"
 		],
 		"description": "copysweep"
 	},
 	"copytoclipboard": {
 		"prefix": "copytoclipboard",
 		"body": [
-			"copytoclipboard"
+			"copytoclipboard($1)"
 		],
 		"description": "copytoclipboard"
 	},
 	"corrcoef": {
 		"prefix": "corrcoef",
 		"body": [
-			"corrcoef"
+			"corrcoef($1)"
 		],
 		"description": "corrcoef"
 	},
 	"corrtransf": {
 		"prefix": "corrtransf",
 		"body": [
-			"corrtransf"
+			"corrtransf($1)"
 		],
 		"description": "corrtransf"
 	},
 	"cos": {
 		"prefix": "cos",
 		"body": [
-			"cos"
+			"cos($1)"
 		],
 		"description": "cos"
 	},
 	"coupling": {
 		"prefix": "coupling",
 		"body": [
-			"coupling"
+			"coupling($1)"
 		],
 		"description": "coupling"
 	},
 	"cov": {
 		"prefix": "cov",
 		"body": [
-			"cov"
+			"cov($1)"
 		],
 		"description": "cov"
 	},
 	"cp": {
 		"prefix": "cp",
 		"body": [
-			"cp"
+			"cp($1)"
 		],
 		"description": "cp"
 	},
 	"createbeam": {
 		"prefix": "createbeam",
 		"body": [
-			"createbeam"
+			"createbeam($1)"
 		],
 		"description": "createbeam"
 	},
 	"createcompound": {
 		"prefix": "createcompound",
 		"body": [
-			"createcompound"
+			"createcompound($1)"
 		],
 		"description": "createcompound"
 	},
 	"createpropertydependency": {
 		"prefix": "createpropertydependency",
 		"body": [
-			"createpropertydependency"
+			"createpropertydependency($1)"
 		],
 		"description": "createpropertydependency"
 	},
 	"createsphericalsurface": {
 		"prefix": "createsphericalsurface",
 		"body": [
-			"createsphericalsurface"
+			"createsphericalsurface($1)"
 		],
 		"description": "createsphericalsurface"
 	},
 	"cross": {
 		"prefix": "cross",
 		"body": [
-			"cross"
+			"cross($1)"
 		],
 		"description": "cross"
 	},
 	"crosscorrelation": {
 		"prefix": "crosscorrelation",
 		"body": [
-			"crosscorrelation"
+			"crosscorrelation($1)"
 		],
 		"description": "crosscorrelation"
 	},
 	"ctranspose": {
 		"prefix": "ctranspose",
 		"body": [
-			"ctranspose"
+			"ctranspose($1)"
 		],
 		"description": "ctranspose"
 	},
 	"currentfilename": {
 		"prefix": "currentfilename",
 		"body": [
-			"currentfilename"
+			"currentfilename($1)"
 		],
 		"description": "currentfilename"
 	},
 	"currentscriptname": {
 		"prefix": "currentscriptname",
 		"body": [
-			"currentscriptname"
+			"currentscriptname($1)"
 		],
 		"description": "currentscriptname"
 	},
 	"customlibrary": {
 		"prefix": "customlibrary",
 		"body": [
-			"customlibrary"
+			"customlibrary($1)"
 		],
 		"description": "customlibrary"
 	},
 	"cwnorm": {
 		"prefix": "cwnorm",
 		"body": [
-			"cwnorm"
+			"cwnorm($1)"
 		],
 		"description": "cwnorm"
 	},
 	"czt": {
 		"prefix": "czt",
 		"body": [
-			"czt"
+			"czt($1)"
 		],
 		"description": "czt"
 	},
 	"dcht": {
 		"prefix": "dcht",
 		"body": [
-			"dcht"
+			"dcht($1)"
 		],
 		"description": "dcht"
 	},
 	"debug": {
 		"prefix": "debug",
 		"body": [
-			"debug"
+			"debug($1)"
 		],
 		"description": "debug"
 	},
 	"decompose": {
 		"prefix": "decompose",
 		"body": [
-			"decompose"
+			"decompose($1)"
 		],
 		"description": "decompose"
 	},
 	"del": {
 		"prefix": "del",
 		"body": [
-			"del"
+			"del($1)"
 		],
 		"description": "del"
 	},
 	"delete": {
 		"prefix": "delete",
 		"body": [
-			"delete"
+			"delete($1)"
 		],
 		"description": "delete"
 	},
 	"deleteall": {
 		"prefix": "deleteall",
 		"body": [
-			"deleteall"
+			"deleteall($1)"
 		],
 		"description": "deleteall"
 	},
 	"deleteattribute": {
 		"prefix": "deleteattribute",
 		"body": [
-			"deleteattribute"
+			"deleteattribute($1)"
 		],
 		"description": "deleteattribute"
 	},
 	"deleteallbc": {
 		"prefix": "deleteallbc",
 		"body": [
-			"deleteallbc"
+			"deleteallbc($1)"
 		],
 		"description": "deleteallbc"
 	},
 	"deletebc": {
 		"prefix": "deletebc",
 		"body": [
-			"deletebc"
+			"deletebc($1)"
 		],
 		"description": "deletebc"
 	},
 	"deletematerial": {
 		"prefix": "deletematerial",
 		"body": [
-			"deletematerial"
+			"deletematerial($1)"
 		],
 		"description": "deletematerial"
 	},
 	"deleteresource": {
 		"prefix": "deleteresource",
 		"body": [
-			"deleteresource"
+			"deleteresource($1)"
 		],
 		"description": "deleteresource"
 	},
 	"deletesweep": {
 		"prefix": "deletesweep",
 		"body": [
-			"deletesweep"
+			"deletesweep($1)"
 		],
 		"description": "deletesweep"
 	},
 	"designmode": {
 		"prefix": "designmode",
 		"body": [
-			"designmode"
+			"designmode($1)"
 		],
 		"description": "designmode"
 	},
 	"dipolepower": {
 		"prefix": "dipolepower",
 		"body": [
-			"dipolepower"
+			"dipolepower($1)"
 		],
 		"description": "dipolepower"
 	},
 	"dir": {
 		"prefix": "dir",
 		"body": [
-			"dir"
+			"dir($1)"
 		],
 		"description": "dir"
 	},
 	"disabledesignkit": {
 		"prefix": "disabledesignkit",
 		"body": [
-			"disabledesignkit"
+			"disabledesignkit($1)"
 		],
 		"description": "disabledesignkit"
 	},
 	"disconnect": {
 		"prefix": "disconnect",
 		"body": [
-			"disconnect"
+			"disconnect($1)"
 		],
 		"description": "disconnect"
 	},
 	"dot": {
 		"prefix": "dot",
 		"body": [
-			"dot"
+			"dot($1)"
 		],
 		"description": "dot"
 	},
 	"eig": {
 		"prefix": "eig",
 		"body": [
-			"eig"
+			"eig($1)"
 		],
 		"description": "eig"
 	},
 	"emepropagate": {
 		"prefix": "emepropagate",
 		"body": [
-			"emepropagate"
+			"emepropagate($1)"
 		],
 		"description": "emepropagate"
 	},
 	"emesweep": {
 		"prefix": "emesweep",
 		"body": [
-			"emesweep"
+			"emesweep($1)"
 		],
 		"description": "emesweep"
 	},
 	"enabledesignkit": {
 		"prefix": "enabledesignkit",
 		"body": [
-			"enabledesignkit"
+			"enabledesignkit($1)"
 		],
 		"description": "enabledesignkit"
 	},
 	"encryptscript": {
 		"prefix": "encryptscript",
 		"body": [
-			"encryptscript"
+			"encryptscript($1)"
 		],
 		"description": "encryptscript"
 	},
 	"end": {
 		"prefix": "end",
 		"body": [
-			"end"
+			"end($1)"
 		],
 		"description": "end"
 	},
 	"endl": {
 		"prefix": "endl",
 		"body": [
-			"endl"
+			"endl($1)"
 		],
 		"description": "endl"
 	},
 	"erf": {
 		"prefix": "erf",
 		"body": [
-			"erf"
+			"erf($1)"
 		],
 		"description": "erf"
 	},
 	"erfc": {
 		"prefix": "erfc",
 		"body": [
-			"erfc"
+			"erfc($1)"
 		],
 		"description": "erfc"
 	},
 	"erfcinv": {
 		"prefix": "erfcinv",
 		"body": [
-			"erfcinv"
+			"erfcinv($1)"
 		],
 		"description": "erfcinv"
 	},
 	"erfinv": {
 		"prefix": "erfinv",
 		"body": [
-			"erfinv"
+			"erfinv($1)"
 		],
 		"description": "erfinv"
 	},
 	"eval": {
 		"prefix": "eval",
 		"body": [
-			"eval"
+			"eval($1)"
 		],
 		"description": "eval"
 	},
 	"evalremote": {
 		"prefix": "evalremote",
 		"body": [
-			"evalremote"
+			"evalremote($1)"
 		],
 		"description": "evalremote"
 	},
 	"exist": {
 		"prefix": "exist",
 		"body": [
-			"exist"
+			"exist($1)"
 		],
 		"description": "exist"
 	},
 	"exit": {
 		"prefix": "exit",
 		"body": [
-			"exit"
+			"exit($1)"
 		],
 		"description": "exit"
 	},
 	"exp": {
 		"prefix": "exp",
 		"body": [
-			"exp"
+			"exp($1)"
 		],
 		"description": "exp"
 	},
 	"expand": {
 		"prefix": "expand",
 		"body": [
-			"expand"
+			"expand($1)"
 		],
 		"description": "expand"
 	},
 	"expand2": {
 		"prefix": "expand2",
 		"body": [
-			"expand2"
+			"expand2($1)"
 		],
 		"description": "expand2"
 	},
 	"exportcsvresults": {
 		"prefix": "exportcsvresults",
 		"body": [
-			"exportcsvresults"
+			"exportcsvresults($1)"
 		],
 		"description": "exportcsvresults"
 	},
 	"exportemesweep": {
 		"prefix": "exportemesweep",
 		"body": [
-			"exportemesweep"
+			"exportemesweep($1)"
 		],
 		"description": "exportemesweep"
 	},
 	"exportfigure": {
 		"prefix": "exportfigure",
 		"body": [
-			"exportfigure"
+			"exportfigure($1)"
 		],
 		"description": "exportfigure"
 	},
 	"exporthtml": {
 		"prefix": "exporthtml",
 		"body": [
-			"exporthtml"
+			"exporthtml($1)"
 		],
 		"description": "exporthtml"
 	},
 	"exportimage": {
 		"prefix": "exportimage",
 		"body": [
-			"exportimage"
+			"exportimage($1)"
 		],
 		"description": "exportimage"
 	},
 	"exportlib": {
 		"prefix": "exportlib",
 		"body": [
-			"exportlib"
+			"exportlib($1)"
 		],
 		"description": "exportlib"
 	},
 	"exportmaterialdb": {
 		"prefix": "exportmaterialdb",
 		"body": [
-			"exportmaterialdb"
+			"exportmaterialdb($1)"
 		],
 		"description": "exportmaterialdb"
 	},
 	"exportnetlist": {
 		"prefix": "exportnetlist",
 		"body": [
-			"exportnetlist"
+			"exportnetlist($1)"
 		],
 		"description": "exportnetlist"
 	},
 	"exportsweep": {
 		"prefix": "exportsweep",
 		"body": [
-			"exportsweep"
+			"exportsweep($1)"
 		],
 		"description": "exportsweep"
 	},
 	"exportview": {
 		"prefix": "exportview",
 		"body": [
-			"exportview"
+			"exportview($1)"
 		],
 		"description": "exportview"
 	},
 	"extractstructure": {
 		"prefix": "extractstructure",
 		"body": [
-			"extractstructure"
+			"extractstructure($1)"
 		],
 		"description": "extractstructure"
 	},
 	"eye": {
 		"prefix": "eye",
 		"body": [
-			"eye"
+			"eye($1)"
 		],
 		"description": "eye"
 	},
 	"farfield2d": {
 		"prefix": "farfield2d",
 		"body": [
-			"farfield2d"
+			"farfield2d($1)"
 		],
 		"description": "farfield2d"
 	},
 	"farfield2dintegrate": {
 		"prefix": "farfield2dintegrate",
 		"body": [
-			"farfield2dintegrate"
+			"farfield2dintegrate($1)"
 		],
 		"description": "farfield2dintegrate"
 	},
 	"farfield3d": {
 		"prefix": "farfield3d",
 		"body": [
-			"farfield3d"
+			"farfield3d($1)"
 		],
 		"description": "farfield3d"
 	},
 	"farfield3dintegrate": {
 		"prefix": "farfield3dintegrate",
 		"body": [
-			"farfield3dintegrate"
+			"farfield3dintegrate($1)"
 		],
 		"description": "farfield3dintegrate"
 	},
 	"farfieldangle": {
 		"prefix": "farfieldangle",
 		"body": [
-			"farfieldangle"
+			"farfieldangle($1)"
 		],
 		"description": "farfieldangle"
 	},
 	"farfieldexact": {
 		"prefix": "farfieldexact",
 		"body": [
-			"farfieldexact"
+			"farfieldexact($1)"
 		],
 		"description": "farfieldexact"
 	},
 	"farfieldexact2d": {
 		"prefix": "farfieldexact2d",
 		"body": [
-			"farfieldexact2d"
+			"farfieldexact2d($1)"
 		],
 		"description": "farfieldexact2d"
 	},
 	"farfieldexact3d": {
 		"prefix": "farfieldexact3d",
 		"body": [
-			"farfieldexact3d"
+			"farfieldexact3d($1)"
 		],
 		"description": "farfieldexact3d"
 	},
 	"farfieldfilter": {
 		"prefix": "farfieldfilter",
 		"body": [
-			"farfieldfilter"
+			"farfieldfilter($1)"
 		],
 		"description": "farfieldfilter"
 	},
 	"farfieldpolar2d": {
 		"prefix": "farfieldpolar2d",
 		"body": [
-			"farfieldpolar2d"
+			"farfieldpolar2d($1)"
 		],
 		"description": "farfieldpolar2d"
 	},
 	"farfieldpolar3d": {
 		"prefix": "farfieldpolar3d",
 		"body": [
-			"farfieldpolar3d"
+			"farfieldpolar3d($1)"
 		],
 		"description": "farfieldpolar3d"
 	},
 	"farfieldsettings": {
 		"prefix": "farfieldsettings",
 		"body": [
-			"farfieldsettings"
+			"farfieldsettings($1)"
 		],
 		"description": "farfieldsettings"
 	},
 	"farfieldspherical": {
 		"prefix": "farfieldspherical",
 		"body": [
-			"farfieldspherical"
+			"farfieldspherical($1)"
 		],
 		"description": "farfieldspherical"
 	},
 	"farfieldux": {
 		"prefix": "farfieldux",
 		"body": [
-			"farfieldux"
+			"farfieldux($1)"
 		],
 		"description": "farfieldux"
 	},
 	"farfielduy": {
 		"prefix": "farfielduy",
 		"body": [
-			"farfielduy"
+			"farfielduy($1)"
 		],
 		"description": "farfielduy"
 	},
 	"farfieldvector2d": {
 		"prefix": "farfieldvector2d",
 		"body": [
-			"farfieldvector2d"
+			"farfieldvector2d($1)"
 		],
 		"description": "farfieldvector2d"
 	},
 	"farfieldvector3d": {
 		"prefix": "farfieldvector3d",
 		"body": [
-			"farfieldvector3d"
+			"farfieldvector3d($1)"
 		],
 		"description": "farfieldvector3d"
 	},
 	"feval": {
 		"prefix": "feval",
 		"body": [
-			"feval"
+			"feval($1)"
 		],
 		"description": "feval"
 	},
 	"fft": {
 		"prefix": "fft",
 		"body": [
-			"fft"
+			"fft($1)"
 		],
 		"description": "fft"
 	},
 	"fftk": {
 		"prefix": "fftk",
 		"body": [
-			"fftk"
+			"fftk($1)"
 		],
 		"description": "fftk"
 	},
 	"fftw": {
 		"prefix": "fftw",
 		"body": [
-			"fftw"
+			"fftw($1)"
 		],
 		"description": "fftw"
 	},
 	"filebasename": {
 		"prefix": "filebasename",
 		"body": [
-			"filebasename"
+			"filebasename($1)"
 		],
 		"description": "filebasename"
 	},
 	"filedirectory": {
 		"prefix": "filedirectory",
 		"body": [
-			"filedirectory"
+			"filedirectory($1)"
 		],
 		"description": "filedirectory"
 	},
 	"fileexists": {
 		"prefix": "fileexists",
 		"body": [
-			"fileexists"
+			"fileexists($1)"
 		],
 		"description": "fileexists"
 	},
 	"fileexpand": {
 		"prefix": "fileexpand",
 		"body": [
-			"fileexpand"
+			"fileexpand($1)"
 		],
 		"description": "fileexpand"
 	},
 	"fileextension": {
 		"prefix": "fileextension",
 		"body": [
-			"fileextension"
+			"fileextension($1)"
 		],
 		"description": "fileextension"
 	},
 	"fileopendialog": {
 		"prefix": "fileopendialog",
 		"body": [
-			"fileopendialog"
+			"fileopendialog($1)"
 		],
 		"description": "fileopendialog"
 	},
 	"filesavedialog": {
 		"prefix": "filesavedialog",
 		"body": [
-			"filesavedialog"
+			"filesavedialog($1)"
 		],
 		"description": "filesavedialog"
 	},
 	"find": {
 		"prefix": "find",
 		"body": [
-			"find"
+			"find($1)"
 		],
 		"description": "find"
 	},
 	"findmodes": {
 		"prefix": "findmodes",
 		"body": [
-			"findmodes"
+			"findmodes($1)"
 		],
 		"description": "findmodes"
 	},
 	"findpeaks": {
 		"prefix": "findpeaks",
 		"body": [
-			"findpeaks"
+			"findpeaks($1)"
 		],
 		"description": "findpeaks"
 	},
 	"findproperty": {
 		"prefix": "findproperty",
 		"body": [
-			"findproperty"
+			"findproperty($1)"
 		],
 		"description": "findproperty"
 	},
 	"findpropertyvalue": {
 		"prefix": "findpropertyvalue",
 		"body": [
-			"findpropertyvalue"
+			"findpropertyvalue($1)"
 		],
 		"description": "findpropertyvalue"
 	},
 	"findresonances": {
 		"prefix": "findresonances",
 		"body": [
-			"findresonances"
+			"findresonances($1)"
 		],
 		"description": "findresonances"
 	},
 	"findstring": {
 		"prefix": "findstring",
 		"body": [
-			"findstring"
+			"findstring($1)"
 		],
 		"description": "findstring"
 	},
 	"finite": {
 		"prefix": "finite",
 		"body": [
-			"finite"
+			"finite($1)"
 		],
 		"description": "finite"
 	},
 	"fitlorentzpdf": {
 		"prefix": "fitlorentzpdf",
 		"body": [
-			"fitlorentzpdf"
+			"fitlorentzpdf($1)"
 		],
 		"description": "fitlorentzpdf"
 	},
 	"fitnormpdf": {
 		"prefix": "fitnormpdf",
 		"body": [
-			"fitnormpdf"
+			"fitnormpdf($1)"
 		],
 		"description": "fitnormpdf"
 	},
 	"fitpearson4pdf": {
 		"prefix": "fitpearson4pdf",
 		"body": [
-			"fitpearson4pdf"
+			"fitpearson4pdf($1)"
 		],
 		"description": "fitpearson4pdf"
 	},
 	"flip": {
 		"prefix": "flip",
 		"body": [
-			"flip"
+			"flip($1)"
 		],
 		"description": "flip"
 	},
 	"flipelement": {
 		"prefix": "flipelement",
 		"body": [
-			"flipelement"
+			"flipelement($1)"
 		],
 		"description": "flipelement"
 	},
 	"floor": {
 		"prefix": "floor",
 		"body": [
-			"floor"
+			"floor($1)"
 		],
 		"description": "floor"
 	},
 	"for": {
 		"prefix": "for",
 		"body": [
-			"for"
+			"for($1)"
 		],
 		"description": "for"
 	},
 	"framerate": {
 		"prefix": "framerate",
 		"body": [
-			"framerate"
+			"framerate($1)"
 		],
 		"description": "framerate"
 	},
 	"frequencysweep": {
 		"prefix": "frequencysweep",
 		"body": [
-			"frequencysweep"
+			"frequencysweep($1)"
 		],
 		"description": "frequencysweep"
 	},
 	"function": {
 		"prefix": "function",
 		"body": [
-			"function"
+			"function($1)"
 		],
 		"description": "function"
 	},
 	"gdsaddcircle": {
 		"prefix": "gdsaddcircle",
 		"body": [
-			"gdsaddcircle"
+			"gdsaddcircle($1)"
 		],
 		"description": "gdsaddcircle"
 	},
 	"gdsaddpath": {
 		"prefix": "gdsaddpath",
 		"body": [
-			"gdsaddpath"
+			"gdsaddpath($1)"
 		],
 		"description": "gdsaddpath"
 	},
 	"gdsaddpoly": {
 		"prefix": "gdsaddpoly",
 		"body": [
-			"gdsaddpoly"
+			"gdsaddpoly($1)"
 		],
 		"description": "gdsaddpoly"
 	},
 	"gdsaddrect": {
 		"prefix": "gdsaddrect",
 		"body": [
-			"gdsaddrect"
+			"gdsaddrect($1)"
 		],
 		"description": "gdsaddrect"
 	},
 	"gdsaddref": {
 		"prefix": "gdsaddref",
 		"body": [
-			"gdsaddref"
+			"gdsaddref($1)"
 		],
 		"description": "gdsaddref"
 	},
 	"gdsaddtext": {
 		"prefix": "gdsaddtext",
 		"body": [
-			"gdsaddtext"
+			"gdsaddtext($1)"
 		],
 		"description": "gdsaddtext"
 	},
 	"gdsbegincell": {
 		"prefix": "gdsbegincell",
 		"body": [
-			"gdsbegincell"
+			"gdsbegincell($1)"
 		],
 		"description": "gdsbegincell"
 	},
 	"gdsclose": {
 		"prefix": "gdsclose",
 		"body": [
-			"gdsclose"
+			"gdsclose($1)"
 		],
 		"description": "gdsclose"
 	},
 	"gdsendcell": {
 		"prefix": "gdsendcell",
 		"body": [
-			"gdsendcell"
+			"gdsendcell($1)"
 		],
 		"description": "gdsendcell"
 	},
 	"gdsimport": {
 		"prefix": "gdsimport",
 		"body": [
-			"gdsimport"
+			"gdsimport($1)"
 		],
 		"description": "gdsimport"
 	},
 	"gdsopen": {
 		"prefix": "gdsopen",
 		"body": [
-			"gdsopen"
+			"gdsopen($1)"
 		],
 		"description": "gdsopen"
 	},
 	"get": {
 		"prefix": "get",
 		"body": [
-			"get"
+			"get($1)"
 		],
 		"description": "get"
 	},
 	"getactivesolver": {
 		"prefix": "getactivesolver",
 		"body": [
-			"getactivesolver"
+			"getactivesolver($1)"
 		],
 		"description": "getactivesolver"
 	},
 	"getanalysis": {
 		"prefix": "getanalysis",
 		"body": [
-			"getanalysis"
+			"getanalysis($1)"
 		],
 		"description": "getanalysis"
 	},
 	"getasapdata": {
 		"prefix": "getasapdata",
 		"body": [
-			"getasapdata"
+			"getasapdata($1)"
 		],
 		"description": "getasapdata"
 	},
 	"getattribute": {
 		"prefix": "getattribute",
 		"body": [
-			"getattribute"
+			"getattribute($1)"
 		],
 		"description": "getattribute"
 	},
 	"getbc": {
 		"prefix": "getbc",
 		"body": [
-			"getbc"
+			"getbc($1)"
 		],
 		"description": "getbc"
 	},
 	"getcelllist": {
 		"prefix": "getcelllist",
 		"body": [
-			"getcelllist"
+			"getcelllist($1)"
 		],
 		"description": "getcelllist"
 	},
 	"getcommands": {
 		"prefix": "getcommands",
 		"body": [
-			"getcommands"
+			"getcommands($1)"
 		],
 		"description": "getcommands"
 	},
 	"getcompositionfraction": {
 		"prefix": "getcompositionfraction",
 		"body": [
-			"getcompositionfraction"
+			"getcompositionfraction($1)"
 		],
 		"description": "getcompositionfraction"
 	},
 	"getcontact": {
 		"prefix": "getcontact",
 		"body": [
-			"getcontact"
+			"getcontact($1)"
 		],
 		"description": "getcontact"
 	},
 	"getcontour": {
 		"prefix": "getcontour",
 		"body": [
-			"getcontour"
+			"getcontour($1)"
 		],
 		"description": "getcontour"
 	},
 	"getdata": {
 		"prefix": "getdata",
 		"body": [
-			"getdata"
+			"getdata($1)"
 		],
 		"description": "getdata"
 	},
 	"getdgtdindex": {
 		"prefix": "getdgtdindex",
 		"body": [
-			"getdgtdindex"
+			"getdgtdindex($1)"
 		],
 		"description": "getdgtdindex"
 	},
 	"geteigensolver": {
 		"prefix": "geteigensolver",
 		"body": [
-			"geteigensolver"
+			"geteigensolver($1)"
 		],
 		"description": "geteigensolver"
 	},
 	"getelectric": {
 		"prefix": "getelectric",
 		"body": [
-			"getelectric"
+			"getelectric($1)"
 		],
 		"description": "getelectric"
 	},
 	"getemeanalysis": {
 		"prefix": "getemeanalysis",
 		"body": [
-			"getemeanalysis"
+			"getemeanalysis($1)"
 		],
 		"description": "getemeanalysis"
 	},
 	"getemesweep": {
 		"prefix": "getemesweep",
 		"body": [
-			"getemesweep"
+			"getemesweep($1)"
 		],
 		"description": "getemesweep"
 	},
 	"getfdtdindex": {
 		"prefix": "getfdtdindex",
 		"body": [
-			"getfdtdindex"
+			"getfdtdindex($1)"
 		],
 		"description": "getfdtdindex"
 	},
 	"getfdtdsurfaceconductivity": {
 		"prefix": "getfdtdsurfaceconductivity",
 		"body": [
-			"getfdtdsurfaceconductivity"
+			"getfdtdsurfaceconductivity($1)"
 		],
 		"description": "getfdtdsurfaceconductivity"
 	},
 	"getfield": {
 		"prefix": "getfield",
 		"body": [
-			"getfield"
+			"getfield($1)"
 		],
 		"description": "getfield"
 	},
 	"getglobal": {
 		"prefix": "getglobal",
 		"body": [
-			"getglobal"
+			"getglobal($1)"
 		],
 		"description": "getglobal"
 	},
 	"getglobalmonitor": {
 		"prefix": "getglobalmonitor",
 		"body": [
-			"getglobalmonitor"
+			"getglobalmonitor($1)"
 		],
 		"description": "getglobalmonitor"
 	},
 	"getglobalsource": {
 		"prefix": "getglobalsource",
 		"body": [
-			"getglobalsource"
+			"getglobalsource($1)"
 		],
 		"description": "getglobalsource"
 	},
 	"getindex": {
 		"prefix": "getindex",
 		"body": [
-			"getindex"
+			"getindex($1)"
 		],
 		"description": "getindex"
 	},
 	"getlayer": {
 		"prefix": "getlayer",
 		"body": [
-			"getlayer"
+			"getlayer($1)"
 		],
 		"description": "getlayer"
 	},
 	"getlayerlist": {
 		"prefix": "getlayerlist",
 		"body": [
-			"getlayerlist"
+			"getlayerlist($1)"
 		],
 		"description": "getlayerlist"
 	},
 	"getmagnetic": {
 		"prefix": "getmagnetic",
 		"body": [
-			"getmagnetic"
+			"getmagnetic($1)"
 		],
 		"description": "getmagnetic"
 	},
 	"getmaterial": {
 		"prefix": "getmaterial",
 		"body": [
-			"getmaterial"
+			"getmaterial($1)"
 		],
 		"description": "getmaterial"
 	},
 	"getmeshcontours": {
 		"prefix": "getmeshcontours",
 		"body": [
-			"getmeshcontours"
+			"getmeshcontours($1)"
 		],
 		"description": "getmeshcontours"
 	},
 	"getmodeindex": {
 		"prefix": "getmodeindex",
 		"body": [
-			"getmodeindex"
+			"getmodeindex($1)"
 		],
 		"description": "getmodeindex"
 	},
 	"getname": {
 		"prefix": "getname",
 		"body": [
-			"getname"
+			"getname($1)"
 		],
 		"description": "getname"
 	},
 	"getnamed": {
 		"prefix": "getnamed",
 		"body": [
-			"getnamed"
+			"getnamed($1)"
 		],
 		"description": "getnamed"
 	},
 	"getnamednumber": {
 		"prefix": "getnamednumber",
 		"body": [
-			"getnamednumber"
+			"getnamednumber($1)"
 		],
 		"description": "getnamednumber"
 	},
 	"getnumber": {
 		"prefix": "getnumber",
 		"body": [
-			"getnumber"
+			"getnumber($1)"
 		],
 		"description": "getnumber"
 	},
 	"getnumericalpermittivity": {
 		"prefix": "getnumericalpermittivity",
 		"body": [
-			"getnumericalpermittivity"
+			"getnumericalpermittivity($1)"
 		],
 		"description": "getnumericalpermittivity"
 	},
 	"getparameter": {
 		"prefix": "getparameter",
 		"body": [
-			"getparameter"
+			"getparameter($1)"
 		],
 		"description": "getparameter"
 	},
 	"getpath": {
 		"prefix": "getpath",
 		"body": [
-			"getpath"
+			"getpath($1)"
 		],
 		"description": "getpath"
 	},
 	"getperiodicity": {
 		"prefix": "getperiodicity",
 		"body": [
-			"getperiodicity"
+			"getperiodicity($1)"
 		],
 		"description": "getperiodicity"
 	},
 	"getports": {
 		"prefix": "getports",
 		"body": [
-			"getports"
+			"getports($1)"
 		],
 		"description": "getports"
 	},
 	"getposition": {
 		"prefix": "getposition",
 		"body": [
-			"getposition"
+			"getposition($1)"
 		],
 		"description": "getposition"
 	},
 	"getrectangle": {
 		"prefix": "getrectangle",
 		"body": [
-			"getrectangle"
+			"getrectangle($1)"
 		],
 		"description": "getrectangle"
 	},
 	"getremotedata": {
 		"prefix": "getremotedata",
 		"body": [
-			"getremotedata"
+			"getremotedata($1)"
 		],
 		"description": "getremotedata"
 	},
 	"getresource": {
 		"prefix": "getresource",
 		"body": [
-			"getresource"
+			"getresource($1)"
 		],
 		"description": "getresource"
 	},
 	"getresult": {
 		"prefix": "getresult",
 		"body": [
-			"getresult"
+			"getresult($1)"
 		],
 		"description": "getresult"
 	},
 	"getresultdata": {
 		"prefix": "getresultdata",
 		"body": [
-			"getresultdata"
+			"getresultdata($1)"
 		],
 		"description": "getresultdata"
 	},
 	"getsetting": {
 		"prefix": "getsetting",
 		"body": [
-			"getsetting"
+			"getsetting($1)"
 		],
 		"description": "getsetting"
 	},
 	"getsolver": {
 		"prefix": "getsolver",
 		"body": [
-			"getsolver"
+			"getsolver($1)"
 		],
 		"description": "getsolver"
 	},
 	"getsourceangle": {
 		"prefix": "getsourceangle",
 		"body": [
-			"getsourceangle"
+			"getsourceangle($1)"
 		],
 		"description": "getsourceangle"
 	},
 	"getsourcedirection": {
 		"prefix": "getsourcedirection",
 		"body": [
-			"getsourcedirection"
+			"getsourcedirection($1)"
 		],
 		"description": "getsourcedirection"
 	},
 	"getsurfaceconductivity": {
 		"prefix": "getsurfaceconductivity",
 		"body": [
-			"getsurfaceconductivity"
+			"getsurfaceconductivity($1)"
 		],
 		"description": "getsurfaceconductivity"
 	},
 	"getsweep": {
 		"prefix": "getsweep",
 		"body": [
-			"getsweep"
+			"getsweep($1)"
 		],
 		"description": "getsweep"
 	},
 	"getsweepdata": {
 		"prefix": "getsweepdata",
 		"body": [
-			"getsweepdata"
+			"getsweepdata($1)"
 		],
 		"description": "getsweepdata"
 	},
 	"getsweepresult": {
 		"prefix": "getsweepresult",
 		"body": [
-			"getsweepresult"
+			"getsweepresult($1)"
 		],
 		"description": "getsweepresult"
 	},
 	"getvalue": {
 		"prefix": "getvalue",
 		"body": [
-			"getvalue"
+			"getvalue($1)"
 		],
 		"description": "getvalue"
 	},
 	"getvariable": {
 		"prefix": "getvariable",
 		"body": [
-			"getvariable"
+			"getvariable($1)"
 		],
 		"description": "getvariable"
 	},
 	"getview": {
 		"prefix": "getview",
 		"body": [
-			"getview"
+			"getview($1)"
 		],
 		"description": "getview"
 	},
 	"grating": {
 		"prefix": "grating",
 		"body": [
-			"grating"
+			"grating($1)"
 		],
 		"description": "grating"
 	},
 	"gratingangle": {
 		"prefix": "gratingangle",
 		"body": [
-			"gratingangle"
+			"gratingangle($1)"
 		],
 		"description": "gratingangle"
 	},
 	"gratingbloch1": {
 		"prefix": "gratingbloch1",
 		"body": [
-			"gratingbloch1"
+			"gratingbloch1($1)"
 		],
 		"description": "gratingbloch1"
 	},
 	"gratingbloch2": {
 		"prefix": "gratingbloch2",
 		"body": [
-			"gratingbloch2"
+			"gratingbloch2($1)"
 		],
 		"description": "gratingbloch2"
 	},
 	"gratingm": {
 		"prefix": "gratingm",
 		"body": [
-			"gratingm"
+			"gratingm($1)"
 		],
 		"description": "gratingm"
 	},
 	"gratingn": {
 		"prefix": "gratingn",
 		"body": [
-			"gratingn"
+			"gratingn($1)"
 		],
 		"description": "gratingn"
 	},
 	"gratingordercount": {
 		"prefix": "gratingordercount",
 		"body": [
-			"gratingordercount"
+			"gratingordercount($1)"
 		],
 		"description": "gratingordercount"
 	},
 	"gratingorders": {
 		"prefix": "gratingorders",
 		"body": [
-			"gratingorders"
+			"gratingorders($1)"
 		],
 		"description": "gratingorders"
 	},
 	"gratingperiod1": {
 		"prefix": "gratingperiod1",
 		"body": [
-			"gratingperiod1"
+			"gratingperiod1($1)"
 		],
 		"description": "gratingperiod1"
 	},
 	"gratingperiod2": {
 		"prefix": "gratingperiod2",
 		"body": [
-			"gratingperiod2"
+			"gratingperiod2($1)"
 		],
 		"description": "gratingperiod2"
 	},
 	"gratingpolar": {
 		"prefix": "gratingpolar",
 		"body": [
-			"gratingpolar"
+			"gratingpolar($1)"
 		],
 		"description": "gratingpolar"
 	},
 	"gratingprojection": {
 		"prefix": "gratingprojection",
 		"body": [
-			"gratingprojection"
+			"gratingprojection($1)"
 		],
 		"description": "gratingprojection"
 	},
 	"gratingu1": {
 		"prefix": "gratingu1",
 		"body": [
-			"gratingu1"
+			"gratingu1($1)"
 		],
 		"description": "gratingu1"
 	},
 	"gratingu2": {
 		"prefix": "gratingu2",
 		"body": [
-			"gratingu2"
+			"gratingu2($1)"
 		],
 		"description": "gratingu2"
 	},
 	"gratingvector": {
 		"prefix": "gratingvector",
 		"body": [
-			"gratingvector"
+			"gratingvector($1)"
 		],
 		"description": "gratingvector"
 	},
 	"groupscope": {
 		"prefix": "groupscope",
 		"body": [
-			"groupscope"
+			"groupscope($1)"
 		],
 		"description": "groupscope"
 	},
 	"h5info": {
 		"prefix": "h5info",
 		"body": [
-			"h5info"
+			"h5info($1)"
 		],
 		"description": "h5info"
 	},
 	"h5read": {
 		"prefix": "h5read",
 		"body": [
-			"h5read"
+			"h5read($1)"
 		],
 		"description": "h5read"
 	},
 	"h5readattr": {
 		"prefix": "h5readattr",
 		"body": [
-			"h5readattr"
+			"h5readattr($1)"
 		],
 		"description": "h5readattr"
 	},
 	"havedata": {
 		"prefix": "havedata",
 		"body": [
-			"havedata"
+			"havedata($1)"
 		],
 		"description": "havedata"
 	},
 	"haveproperty": {
 		"prefix": "haveproperty",
 		"body": [
-			"haveproperty"
+			"haveproperty($1)"
 		],
 		"description": "haveproperty"
 	},
 	"haveresult": {
 		"prefix": "haveresult",
 		"body": [
-			"haveresult"
+			"haveresult($1)"
 		],
 		"description": "haveresult"
 	},
 	"havesweepdata": {
 		"prefix": "havesweepdata",
 		"body": [
-			"havesweepdata"
+			"havesweepdata($1)"
 		],
 		"description": "havesweepdata"
 	},
 	"havesweepresult": {
 		"prefix": "havesweepresult",
 		"body": [
-			"havesweepresult"
+			"havesweepresult($1)"
 		],
 		"description": "havesweepresult"
 	},
 	"help": {
 		"prefix": "help",
 		"body": [
-			"help"
+			"help($1)"
 		],
 		"description": "help"
 	},
 	"hide": {
 		"prefix": "hide",
 		"body": [
-			"hide"
+			"hide($1)"
 		],
 		"description": "hide"
 	},
 	"hidecategory": {
 		"prefix": "hidecategory",
 		"body": [
-			"hidecategory"
+			"hidecategory($1)"
 		],
 		"description": "hidecategory"
 	},
 	"hideproperty": {
 		"prefix": "hideproperty",
 		"body": [
-			"hideproperty"
+			"hideproperty($1)"
 		],
 		"description": "hideproperty"
 	},
 	"histc": {
 		"prefix": "histc",
 		"body": [
-			"histc"
+			"histc($1)"
 		],
 		"description": "histc"
 	},
 	"histogram": {
 		"prefix": "histogram",
 		"body": [
-			"histogram"
+			"histogram($1)"
 		],
 		"description": "histogram"
 	},
 	"history": {
 		"prefix": "history",
 		"body": [
-			"history"
+			"history($1)"
 		],
 		"description": "history"
 	},
 	"historyoff": {
 		"prefix": "historyoff",
 		"body": [
-			"historyoff"
+			"historyoff($1)"
 		],
 		"description": "historyoff"
 	},
 	"historyon": {
 		"prefix": "historyon",
 		"body": [
-			"historyon"
+			"historyon($1)"
 		],
 		"description": "historyon"
 	},
 	"holdoff": {
 		"prefix": "holdoff",
 		"body": [
-			"holdoff"
+			"holdoff($1)"
 		],
 		"description": "holdoff"
 	},
 	"holdon": {
 		"prefix": "holdon",
 		"body": [
-			"holdon"
+			"holdon($1)"
 		],
 		"description": "holdon"
 	},
 	"icht": {
 		"prefix": "icht",
 		"body": [
-			"icht"
+			"icht($1)"
 		],
 		"description": "icht"
 	},
 	"if": {
 		"prefix": "if",
 		"body": [
-			"if"
+			"if($1)"
 		],
 		"description": "if"
 	},
 	"imag": {
 		"prefix": "imag",
 		"body": [
-			"imag"
+			"imag($1)"
 		],
 		"description": "imag"
 	},
 	"image": {
 		"prefix": "image",
 		"body": [
-			"image"
+			"image($1)"
 		],
 		"description": "image"
 	},
 	"implantkurtosis": {
 		"prefix": "implantkurtosis",
 		"body": [
-			"implantkurtosis"
+			"implantkurtosis($1)"
 		],
 		"description": "implantkurtosis"
 	},
 	"implantlateralscatter": {
 		"prefix": "implantlateralscatter",
 		"body": [
-			"implantlateralscatter"
+			"implantlateralscatter($1)"
 		],
 		"description": "implantlateralscatter"
 	},
 	"implantrange": {
 		"prefix": "implantrange",
 		"body": [
-			"implantrange"
+			"implantrange($1)"
 		],
 		"description": "implantrange"
 	},
 	"implantskewness": {
 		"prefix": "implantskewness",
 		"body": [
-			"implantskewness"
+			"implantskewness($1)"
 		],
 		"description": "implantskewness"
 	},
 	"implantstraggle": {
 		"prefix": "implantstraggle",
 		"body": [
-			"implantstraggle"
+			"implantstraggle($1)"
 		],
 		"description": "implantstraggle"
 	},
 	"importbinary": {
 		"prefix": "importbinary",
 		"body": [
-			"importbinary"
+			"importbinary($1)"
 		],
 		"description": "importbinary"
 	},
 	"importbinary2": {
 		"prefix": "importbinary2",
 		"body": [
-			"importbinary2"
+			"importbinary2($1)"
 		],
 		"description": "importbinary2"
 	},
 	"importbinaryobfuscated": {
 		"prefix": "importbinaryobfuscated",
 		"body": [
-			"importbinaryobfuscated"
+			"importbinaryobfuscated($1)"
 		],
 		"description": "importbinaryobfuscated"
 	},
 	"importcsvlc": {
 		"prefix": "importcsvlc",
 		"body": [
-			"importcsvlc"
+			"importcsvlc($1)"
 		],
 		"description": "importcsvlc"
 	},
 	"importdataset": {
 		"prefix": "importdataset",
 		"body": [
-			"importdataset"
+			"importdataset($1)"
 		],
 		"description": "importdataset"
 	},
 	"importdoping": {
 		"prefix": "importdoping",
 		"body": [
-			"importdoping"
+			"importdoping($1)"
 		],
 		"description": "importdoping"
 	},
 	"importlib": {
 		"prefix": "importlib",
 		"body": [
-			"importlib"
+			"importlib($1)"
 		],
 		"description": "importlib"
 	},
 	"importmaterialdb": {
 		"prefix": "importmaterialdb",
 		"body": [
-			"importmaterialdb"
+			"importmaterialdb($1)"
 		],
 		"description": "importmaterialdb"
 	},
 	"importnetlist": {
 		"prefix": "importnetlist",
 		"body": [
-			"importnetlist"
+			"importnetlist($1)"
 		],
 		"description": "importnetlist"
 	},
 	"importnk": {
 		"prefix": "importnk",
 		"body": [
-			"importnk"
+			"importnk($1)"
 		],
 		"description": "importnk"
 	},
 	"importnk2": {
 		"prefix": "importnk2",
 		"body": [
-			"importnk2"
+			"importnk2($1)"
 		],
 		"description": "importnk2"
 	},
 	"importnkobfuscated": {
 		"prefix": "importnkobfuscated",
 		"body": [
-			"importnkobfuscated"
+			"importnkobfuscated($1)"
 		],
 		"description": "importnkobfuscated"
 	},
 	"importsparameter": {
 		"prefix": "importsparameter",
 		"body": [
-			"importsparameter"
+			"importsparameter($1)"
 		],
 		"description": "importsparameter"
 	},
 	"importsurface": {
 		"prefix": "importsurface",
 		"body": [
-			"importsurface"
+			"importsurface($1)"
 		],
 		"description": "importsurface"
 	},
 	"importsurface2": {
 		"prefix": "importsurface2",
 		"body": [
-			"importsurface2"
+			"importsurface2($1)"
 		],
 		"description": "importsurface2"
 	},
 	"importtemperaturemap": {
 		"prefix": "importtemperaturemap",
 		"body": [
-			"importtemperaturemap"
+			"importtemperaturemap($1)"
 		],
 		"description": "importtemperaturemap"
 	},
 	"inpoly": {
 		"prefix": "inpoly",
 		"body": [
-			"inpoly"
+			"inpoly($1)"
 		],
 		"description": "inpoly"
 	},
 	"insert": {
 		"prefix": "insert",
 		"body": [
-			"insert"
+			"insert($1)"
 		],
 		"description": "insert"
 	},
 	"insertsweep": {
 		"prefix": "insertsweep",
 		"body": [
-			"insertsweep"
+			"insertsweep($1)"
 		],
 		"description": "insertsweep"
 	},
 	"installdesignkit": {
 		"prefix": "installdesignkit",
 		"body": [
-			"installdesignkit"
+			"installdesignkit($1)"
 		],
 		"description": "installdesignkit"
 	},
 	"integrate": {
 		"prefix": "integrate",
 		"body": [
-			"integrate"
+			"integrate($1)"
 		],
 		"description": "integrate"
 	},
 	"integrate2": {
 		"prefix": "integrate2",
 		"body": [
-			"integrate2"
+			"integrate2($1)"
 		],
 		"description": "integrate2"
 	},
 	"interp": {
 		"prefix": "interp",
 		"body": [
-			"interp"
+			"interp($1)"
 		],
 		"description": "interp"
 	},
 	"interptet": {
 		"prefix": "interptet",
 		"body": [
-			"interptet"
+			"interptet($1)"
 		],
 		"description": "interptet"
 	},
 	"interptri": {
 		"prefix": "interptri",
 		"body": [
-			"interptri"
+			"interptri($1)"
 		],
 		"description": "interptri"
 	},
 	"inv": {
 		"prefix": "inv",
 		"body": [
-			"inv"
+			"inv($1)"
 		],
 		"description": "inv"
 	},
 	"invfft": {
 		"prefix": "invfft",
 		"body": [
-			"invfft"
+			"invfft($1)"
 		],
 		"description": "invfft"
 	},
 	"iscell": {
 		"prefix": "iscell",
 		"body": [
-			"iscell"
+			"iscell($1)"
 		],
 		"description": "iscell"
 	},
 	"isfield": {
 		"prefix": "isfield",
 		"body": [
-			"isfield"
+			"isfield($1)"
 		],
 		"description": "isfield"
 	},
 	"ispropertyactive": {
 		"prefix": "ispropertyactive",
 		"body": [
-			"ispropertyactive"
+			"ispropertyactive($1)"
 		],
 		"description": "ispropertyactive"
 	},
 	"isstruct": {
 		"prefix": "isstruct",
 		"body": [
-			"isstruct"
+			"isstruct($1)"
 		],
 		"description": "isstruct"
 	},
 	"issweep": {
 		"prefix": "issweep",
 		"body": [
-			"issweep"
+			"issweep($1)"
 		],
 		"description": "issweep"
 	},
 	"jsonload": {
 		"prefix": "jsonload",
 		"body": [
-			"jsonload"
+			"jsonload($1)"
 		],
 		"description": "jsonload"
 	},
 	"jsonloads": {
 		"prefix": "jsonloads",
 		"body": [
-			"jsonloads"
+			"jsonloads($1)"
 		],
 		"description": "jsonloads"
 	},
 	"jsonread": {
 		"prefix": "jsonread",
 		"body": [
-			"jsonread"
+			"jsonread($1)"
 		],
 		"description": "jsonread"
 	},
 	"jsonreads": {
 		"prefix": "jsonreads",
 		"body": [
-			"jsonreads"
+			"jsonreads($1)"
 		],
 		"description": "jsonreads"
 	},
 	"jsonsave": {
 		"prefix": "jsonsave",
 		"body": [
-			"jsonsave"
+			"jsonsave($1)"
 		],
 		"description": "jsonsave"
 	},
 	"jsonsaves": {
 		"prefix": "jsonsaves",
 		"body": [
-			"jsonsaves"
+			"jsonsaves($1)"
 		],
 		"description": "jsonsaves"
 	},
 	"jsonvalidate": {
 		"prefix": "jsonvalidate",
 		"body": [
-			"jsonvalidate"
+			"jsonvalidate($1)"
 		],
 		"description": "jsonvalidate"
 	},
 	"jsonwrite": {
 		"prefix": "jsonwrite",
 		"body": [
-			"jsonwrite"
+			"jsonwrite($1)"
 		],
 		"description": "jsonwrite"
 	},
 	"jsonwrites": {
 		"prefix": "jsonwrites",
 		"body": [
-			"jsonwrites"
+			"jsonwrites($1)"
 		],
 		"description": "jsonwrites"
 	},
 	"killwizard": {
 		"prefix": "killwizard",
 		"body": [
-			"killwizard"
+			"killwizard($1)"
 		],
 		"description": "killwizard"
 	},
 	"layoutmode": {
 		"prefix": "layoutmode",
 		"body": [
-			"layoutmode"
+			"layoutmode($1)"
 		],
 		"description": "layoutmode"
 	},
 	"legend": {
 		"prefix": "legend",
 		"body": [
-			"legend"
+			"legend($1)"
 		],
 		"description": "legend"
 	},
 	"length": {
 		"prefix": "length",
 		"body": [
-			"length"
+			"length($1)"
 		],
 		"description": "length"
 	},
 	"library": {
 		"prefix": "library",
 		"body": [
-			"library"
+			"library($1)"
 		],
 		"description": "library"
 	},
 	"linecross": {
 		"prefix": "linecross",
 		"body": [
-			"linecross"
+			"linecross($1)"
 		],
 		"description": "linecross"
 	},
 	"lineintersect": {
 		"prefix": "lineintersect",
 		"body": [
-			"lineintersect"
+			"lineintersect($1)"
 		],
 		"description": "lineintersect"
 	},
 	"linspace": {
 		"prefix": "linspace",
 		"body": [
-			"linspace"
+			"linspace($1)"
 		],
 		"description": "linspace"
 	},
 	"listjobs": {
 		"prefix": "listjobs",
 		"body": [
-			"listjobs"
+			"listjobs($1)"
 		],
 		"description": "listjobs"
 	},
 	"load": {
 		"prefix": "load",
 		"body": [
-			"load"
+			"load($1)"
 		],
 		"description": "load"
 	},
 	"loadcustom": {
 		"prefix": "loadcustom",
 		"body": [
-			"loadcustom"
+			"loadcustom($1)"
 		],
 		"description": "loadcustom"
 	},
 	"loaddata": {
 		"prefix": "loaddata",
 		"body": [
-			"loaddata"
+			"loaddata($1)"
 		],
 		"description": "loaddata"
 	},
 	"loaddesignkit": {
 		"prefix": "loaddesignkit",
 		"body": [
-			"loaddesignkit"
+			"loaddesignkit($1)"
 		],
 		"description": "loaddesignkit"
 	},
 	"loadelement": {
 		"prefix": "loadelement",
 		"body": [
-			"loadelement"
+			"loadelement($1)"
 		],
 		"description": "loadelement"
 	},
 	"loadgdsfile": {
 		"prefix": "loadgdsfile",
 		"body": [
-			"loadgdsfile"
+			"loadgdsfile($1)"
 		],
 		"description": "loadgdsfile"
 	},
 	"loadprocessfile": {
 		"prefix": "loadprocessfile",
 		"body": [
-			"loadprocessfile"
+			"loadprocessfile($1)"
 		],
 		"description": "loadprocessfile"
 	},
 	"loadsweep": {
 		"prefix": "loadsweep",
 		"body": [
-			"loadsweep"
+			"loadsweep($1)"
 		],
 		"description": "loadsweep"
 	},
 	"log": {
 		"prefix": "log",
 		"body": [
-			"log"
+			"log($1)"
 		],
 		"description": "log"
 	},
 	"log10": {
 		"prefix": "log10",
 		"body": [
-			"log10"
+			"log10($1)"
 		],
 		"description": "log10"
 	},
 	"logmessage": {
 		"prefix": "logmessage",
 		"body": [
-			"logmessage"
+			"logmessage($1)"
 		],
 		"description": "logmessage"
 	},
 	"lognrnd": {
 		"prefix": "lognrnd",
 		"body": [
-			"lognrnd"
+			"lognrnd($1)"
 		],
 		"description": "lognrnd"
 	},
 	"lookupappend": {
 		"prefix": "lookupappend",
 		"body": [
-			"lookupappend"
+			"lookupappend($1)"
 		],
 		"description": "lookupappend"
 	},
 	"lookupclose": {
 		"prefix": "lookupclose",
 		"body": [
-			"lookupclose"
+			"lookupclose($1)"
 		],
 		"description": "lookupclose"
 	},
 	"lookupopen": {
 		"prefix": "lookupopen",
 		"body": [
-			"lookupopen"
+			"lookupopen($1)"
 		],
 		"description": "lookupopen"
 	},
 	"lookupread": {
 		"prefix": "lookupread",
 		"body": [
-			"lookupread"
+			"lookupread($1)"
 		],
 		"description": "lookupread"
 	},
 	"lookupreadnportsparameter": {
 		"prefix": "lookupreadnportsparameter",
 		"body": [
-			"lookupreadnportsparameter"
+			"lookupreadnportsparameter($1)"
 		],
 		"description": "lookupreadnportsparameter"
 	},
 	"lookupreadtable": {
 		"prefix": "lookupreadtable",
 		"body": [
-			"lookupreadtable"
+			"lookupreadtable($1)"
 		],
 		"description": "lookupreadtable"
 	},
 	"lookupreadvalue": {
 		"prefix": "lookupreadvalue",
 		"body": [
-			"lookupreadvalue"
+			"lookupreadvalue($1)"
 		],
 		"description": "lookupreadvalue"
 	},
 	"lookupwrite": {
 		"prefix": "lookupwrite",
 		"body": [
-			"lookupwrite"
+			"lookupwrite($1)"
 		],
 		"description": "lookupwrite"
 	},
 	"lorentzpdf": {
 		"prefix": "lorentzpdf",
 		"body": [
-			"lorentzpdf"
+			"lorentzpdf($1)"
 		],
 		"description": "lorentzpdf"
 	},
 	"lower": {
 		"prefix": "lower",
 		"body": [
-			"lower"
+			"lower($1)"
 		],
 		"description": "lower"
 	},
 	"ls": {
 		"prefix": "ls",
 		"body": [
-			"ls"
+			"ls($1)"
 		],
 		"description": "ls"
 	},
 	"lum2mat": {
 		"prefix": "lum2mat",
 		"body": [
-			"lum2mat"
+			"lum2mat($1)"
 		],
 		"description": "lum2mat"
 	},
 	"mapfind": {
 		"prefix": "mapfind",
 		"body": [
-			"mapfind"
+			"mapfind($1)"
 		],
 		"description": "mapfind"
 	},
 	"materialexists": {
 		"prefix": "materialexists",
 		"body": [
-			"materialexists"
+			"materialexists($1)"
 		],
 		"description": "materialexists"
 	},
 	"matlab": {
 		"prefix": "matlab",
 		"body": [
-			"matlab"
+			"matlab($1)"
 		],
 		"description": "matlab"
 	},
 	"matlabget": {
 		"prefix": "matlabget",
 		"body": [
-			"matlabget"
+			"matlabget($1)"
 		],
 		"description": "matlabget"
 	},
 	"matlabload": {
 		"prefix": "matlabload",
 		"body": [
-			"matlabload"
+			"matlabload($1)"
 		],
 		"description": "matlabload"
 	},
 	"matlabput": {
 		"prefix": "matlabput",
 		"body": [
-			"matlabput"
+			"matlabput($1)"
 		],
 		"description": "matlabput"
 	},
 	"matlabsave": {
 		"prefix": "matlabsave",
 		"body": [
-			"matlabsave"
+			"matlabsave($1)"
 		],
 		"description": "matlabsave"
 	},
 	"matrix": {
 		"prefix": "matrix",
 		"body": [
-			"matrix"
+			"matrix($1)"
 		],
 		"description": "matrix"
 	},
 	"matrixdataset": {
 		"prefix": "matrixdataset",
 		"body": [
-			"matrixdataset"
+			"matrixdataset($1)"
 		],
 		"description": "matrixdataset"
 	},
 	"max": {
 		"prefix": "max",
 		"body": [
-			"max"
+			"max($1)"
 		],
 		"description": "max"
 	},
 	"mcfit": {
 		"prefix": "mcfit",
 		"body": [
-			"mcfit"
+			"mcfit($1)"
 		],
 		"description": "mcfit"
 	},
 	"mczfit": {
 		"prefix": "mczfit",
 		"body": [
-			"mczfit"
+			"mczfit($1)"
 		],
 		"description": "mczfit"
 	},
 	"mean": {
 		"prefix": "mean",
 		"body": [
-			"mean"
+			"mean($1)"
 		],
 		"description": "mean"
 	},
 	"median": {
 		"prefix": "median",
 		"body": [
-			"median"
+			"median($1)"
 		],
 		"description": "median"
 	},
 	"mesh": {
 		"prefix": "mesh",
 		"body": [
-			"mesh"
+			"mesh($1)"
 		],
 		"description": "mesh"
 	},
 	"meshgrid3dx": {
 		"prefix": "meshgrid3dx",
 		"body": [
-			"meshgrid3dx"
+			"meshgrid3dx($1)"
 		],
 		"description": "meshgrid3dx"
 	},
 	"meshgrid3dy": {
 		"prefix": "meshgrid3dy",
 		"body": [
-			"meshgrid3dy"
+			"meshgrid3dy($1)"
 		],
 		"description": "meshgrid3dy"
 	},
 	"meshgrid3dz": {
 		"prefix": "meshgrid3dz",
 		"body": [
-			"meshgrid3dz"
+			"meshgrid3dz($1)"
 		],
 		"description": "meshgrid3dz"
 	},
 	"meshgrid4d": {
 		"prefix": "meshgrid4d",
 		"body": [
-			"meshgrid4d"
+			"meshgrid4d($1)"
 		],
 		"description": "meshgrid4d"
 	},
 	"meshgridx": {
 		"prefix": "meshgridx",
 		"body": [
-			"meshgridx"
+			"meshgridx($1)"
 		],
 		"description": "meshgridx"
 	},
 	"meshgridy": {
 		"prefix": "meshgridy",
 		"body": [
-			"meshgridy"
+			"meshgridy($1)"
 		],
 		"description": "meshgridy"
 	},
 	"message": {
 		"prefix": "message",
 		"body": [
-			"message"
+			"message($1)"
 		],
 		"description": "message"
 	},
 	"mie3d": {
 		"prefix": "mie3d",
 		"body": [
-			"mie3d"
+			"mie3d($1)"
 		],
 		"description": "mie3d"
 	},
 	"mie3ds12": {
 		"prefix": "mie3ds12",
 		"body": [
-			"mie3ds12"
+			"mie3ds12($1)"
 		],
 		"description": "mie3ds12"
 	},
 	"min": {
 		"prefix": "min",
 		"body": [
-			"min"
+			"min($1)"
 		],
 		"description": "min"
 	},
 	"mod": {
 		"prefix": "mod",
 		"body": [
-			"mod"
+			"mod($1)"
 		],
 		"description": "mod"
 	},
 	"monitors": {
 		"prefix": "monitors",
 		"body": [
-			"monitors"
+			"monitors($1)"
 		],
 		"description": "monitors"
 	},
 	"move": {
 		"prefix": "move",
 		"body": [
-			"move"
+			"move($1)"
 		],
 		"description": "move"
 	},
 	"mqwgain": {
 		"prefix": "mqwgain",
 		"body": [
-			"mqwgain"
+			"mqwgain($1)"
 		],
 		"description": "mqwgain"
 	},
 	"mqwindex": {
 		"prefix": "mqwindex",
 		"body": [
-			"mqwindex"
+			"mqwindex($1)"
 		],
 		"description": "mqwindex"
 	},
 	"mult": {
 		"prefix": "mult",
 		"body": [
-			"mult"
+			"mult($1)"
 		],
 		"description": "mult"
 	},
 	"mv": {
 		"prefix": "mv",
 		"body": [
-			"mv"
+			"mv($1)"
 		],
 		"description": "mv"
 	},
 	"near2far": {
 		"prefix": "near2far",
 		"body": [
-			"near2far"
+			"near2far($1)"
 		],
 		"description": "near2far"
 	},
 	"new": {
 		"prefix": "new",
 		"body": [
-			"new"
+			"new($1)"
 		],
 		"description": "new"
 	},
 	"new2d": {
 		"prefix": "new2d",
 		"body": [
-			"new2d"
+			"new2d($1)"
 		],
 		"description": "new2d"
 	},
 	"new3d": {
 		"prefix": "new3d",
 		"body": [
-			"new3d"
+			"new3d($1)"
 		],
 		"description": "new3d"
 	},
 	"newmode": {
 		"prefix": "newmode",
 		"body": [
-			"newmode"
+			"newmode($1)"
 		],
 		"description": "newmode"
 	},
 	"newproject": {
 		"prefix": "newproject",
 		"body": [
-			"newproject"
+			"newproject($1)"
 		],
 		"description": "newproject"
 	},
 	"newwizard": {
 		"prefix": "newwizard",
 		"body": [
-			"newwizard"
+			"newwizard($1)"
 		],
 		"description": "newwizard"
 	},
 	"newwizardpage": {
 		"prefix": "newwizardpage",
 		"body": [
-			"newwizardpage"
+			"newwizardpage($1)"
 		],
 		"description": "newwizardpage"
 	},
 	"nonorm": {
 		"prefix": "nonorm",
 		"body": [
-			"nonorm"
+			"nonorm($1)"
 		],
 		"description": "nonorm"
 	},
 	"norm": {
 		"prefix": "norm",
 		"body": [
-			"norm"
+			"norm($1)"
 		],
 		"description": "norm"
 	},
 	"normpdf": {
 		"prefix": "normpdf",
 		"body": [
-			"normpdf"
+			"normpdf($1)"
 		],
 		"description": "normpdf"
 	},
 	"now": {
 		"prefix": "now",
 		"body": [
-			"now"
+			"now($1)"
 		],
 		"description": "now"
 	},
 	"num2str": {
 		"prefix": "num2str",
 		"body": [
-			"num2str"
+			"num2str($1)"
 		],
 		"description": "num2str"
 	},
 	"nummodes": {
 		"prefix": "nummodes",
 		"body": [
-			"nummodes"
+			"nummodes($1)"
 		],
 		"description": "nummodes"
 	},
 	"ones": {
 		"prefix": "ones",
 		"body": [
-			"ones"
+			"ones($1)"
 		],
 		"description": "ones"
 	},
 	"opensession": {
 		"prefix": "opensession",
 		"body": [
-			"opensession"
+			"opensession($1)"
 		],
 		"description": "opensession"
 	},
 	"operatingsystem": {
 		"prefix": "operatingsystem",
 		"body": [
-			"operatingsystem"
+			"operatingsystem($1)"
 		],
 		"description": "operatingsystem"
 	},
 	"optimizeposition": {
 		"prefix": "optimizeposition",
 		"body": [
-			"optimizeposition"
+			"optimizeposition($1)"
 		],
 		"description": "optimizeposition"
 	},
 	"or": {
 		"prefix": "or",
 		"body": [
-			"or"
+			"or($1)"
 		],
 		"description": "or"
 	},
 	"orbit": {
 		"prefix": "orbit",
 		"body": [
-			"orbit"
+			"orbit($1)"
 		],
 		"description": "orbit"
 	},
 	"outeroma": {
 		"prefix": "outeroma",
 		"body": [
-			"outeroma"
+			"outeroma($1)"
 		],
 		"description": "outeroma"
 	},
 	"overlap": {
 		"prefix": "overlap",
 		"body": [
-			"overlap"
+			"overlap($1)"
 		],
 		"description": "overlap"
 	},
 	"packagedesignkit": {
 		"prefix": "packagedesignkit",
 		"body": [
-			"packagedesignkit"
+			"packagedesignkit($1)"
 		],
 		"description": "packagedesignkit"
 	},
 	"parsebackannotation": {
 		"prefix": "parsebackannotation",
 		"body": [
-			"parsebackannotation"
+			"parsebackannotation($1)"
 		],
 		"description": "parsebackannotation"
 	},
 	"parsewaveguidebackannotation": {
 		"prefix": "parsewaveguidebackannotation",
 		"body": [
-			"parsewaveguidebackannotation"
+			"parsewaveguidebackannotation($1)"
 		],
 		"description": "parsewaveguidebackannotation"
 	},
 	"partitionvolume": {
 		"prefix": "partitionvolume",
 		"body": [
-			"partitionvolume"
+			"partitionvolume($1)"
 		],
 		"description": "partitionvolume"
 	},
 	"pastefromclipboard": {
 		"prefix": "pastefromclipboard",
 		"body": [
-			"pastefromclipboard"
+			"pastefromclipboard($1)"
 		],
 		"description": "pastefromclipboard"
 	},
 	"pastesweep": {
 		"prefix": "pastesweep",
 		"body": [
-			"pastesweep"
+			"pastesweep($1)"
 		],
 		"description": "pastesweep"
 	},
 	"pause": {
 		"prefix": "pause",
 		"body": [
-			"pause"
+			"pause($1)"
 		],
 		"description": "pause"
 	},
 	"pearson4pdf": {
 		"prefix": "pearson4pdf",
 		"body": [
-			"pearson4pdf"
+			"pearson4pdf($1)"
 		],
 		"description": "pearson4pdf"
 	},
 	"permute": {
 		"prefix": "permute",
 		"body": [
-			"permute"
+			"permute($1)"
 		],
 		"description": "permute"
 	},
 	"pinch": {
 		"prefix": "pinch",
 		"body": [
-			"pinch"
+			"pinch($1)"
 		],
 		"description": "pinch"
 	},
 	"plot": {
 		"prefix": "plot",
 		"body": [
-			"plot"
+			"plot($1)"
 		],
 		"description": "plot"
 	},
 	"plotxy": {
 		"prefix": "plotxy",
 		"body": [
-			"plotxy"
+			"plotxy($1)"
 		],
 		"description": "plotxy"
 	},
 	"polar": {
 		"prefix": "polar",
 		"body": [
-			"polar"
+			"polar($1)"
 		],
 		"description": "polar"
 	},
 	"polar2": {
 		"prefix": "polar2",
 		"body": [
-			"polar2"
+			"polar2($1)"
 		],
 		"description": "polar2"
 	},
 	"polarimage": {
 		"prefix": "polarimage",
 		"body": [
-			"polarimage"
+			"polarimage($1)"
 		],
 		"description": "polarimage"
 	},
 	"polyand": {
 		"prefix": "polyand",
 		"body": [
-			"polyand"
+			"polyand($1)"
 		],
 		"description": "polyand"
 	},
 	"polyarea": {
 		"prefix": "polyarea",
 		"body": [
-			"polyarea"
+			"polyarea($1)"
 		],
 		"description": "polyarea"
 	},
 	"polyclean": {
 		"prefix": "polyclean",
 		"body": [
-			"polyclean"
+			"polyclean($1)"
 		],
 		"description": "polyclean"
 	},
 	"polydft": {
 		"prefix": "polydft",
 		"body": [
-			"polydft"
+			"polydft($1)"
 		],
 		"description": "polydft"
 	},
 	"polydiff": {
 		"prefix": "polydiff",
 		"body": [
-			"polydiff"
+			"polydiff($1)"
 		],
 		"description": "polydiff"
 	},
 	"polyfit": {
 		"prefix": "polyfit",
 		"body": [
-			"polyfit"
+			"polyfit($1)"
 		],
 		"description": "polyfit"
 	},
 	"polygrow": {
 		"prefix": "polygrow",
 		"body": [
-			"polygrow"
+			"polygrow($1)"
 		],
 		"description": "polygrow"
 	},
 	"polyintersect": {
 		"prefix": "polyintersect",
 		"body": [
-			"polyintersect"
+			"polyintersect($1)"
 		],
 		"description": "polyintersect"
 	},
 	"polyor": {
 		"prefix": "polyor",
 		"body": [
-			"polyor"
+			"polyor($1)"
 		],
 		"description": "polyor"
 	},
 	"polypieces": {
 		"prefix": "polypieces",
 		"body": [
-			"polypieces"
+			"polypieces($1)"
 		],
 		"description": "polypieces"
 	},
 	"polystencil": {
 		"prefix": "polystencil",
 		"body": [
-			"polystencil"
+			"polystencil($1)"
 		],
 		"description": "polystencil"
 	},
 	"polyxor": {
 		"prefix": "polyxor",
 		"body": [
-			"polyxor"
+			"polyxor($1)"
 		],
 		"description": "polyxor"
 	},
 	"precision": {
 		"prefix": "precision",
 		"body": [
-			"precision"
+			"precision($1)"
 		],
 		"description": "precision"
 	},
 	"print": {
 		"prefix": "print",
 		"body": [
-			"print"
+			"print($1)"
 		],
 		"description": "print"
 	},
 	"probe": {
 		"prefix": "probe",
 		"body": [
-			"probe"
+			"probe($1)"
 		],
 		"description": "probe"
 	},
 	"prod": {
 		"prefix": "prod",
 		"body": [
-			"prod"
+			"prod($1)"
 		],
 		"description": "prod"
 	},
 	"propagate": {
 		"prefix": "propagate",
 		"body": [
-			"propagate"
+			"propagate($1)"
 		],
 		"description": "propagate"
 	},
 	"protectproperty": {
 		"prefix": "protectproperty",
 		"body": [
-			"protectproperty"
+			"protectproperty($1)"
 		],
 		"description": "protectproperty"
 	},
 	"putremotedata": {
 		"prefix": "putremotedata",
 		"body": [
-			"putremotedata"
+			"putremotedata($1)"
 		],
 		"description": "putremotedata"
 	},
 	"pwd": {
 		"prefix": "pwd",
 		"body": [
-			"pwd"
+			"pwd($1)"
 		],
 		"description": "pwd"
 	},
 	"quadtet": {
 		"prefix": "quadtet",
 		"body": [
-			"quadtet"
+			"quadtet($1)"
 		],
 		"description": "quadtet"
 	},
 	"quadtri": {
 		"prefix": "quadtri",
 		"body": [
-			"quadtri"
+			"quadtri($1)"
 		],
 		"description": "quadtri"
 	},
 	"queryanalysisprop": {
 		"prefix": "queryanalysisprop",
 		"body": [
-			"queryanalysisprop"
+			"queryanalysisprop($1)"
 		],
 		"description": "queryanalysisprop"
 	},
 	"queryanalysisresult": {
 		"prefix": "queryanalysisresult",
 		"body": [
-			"queryanalysisresult"
+			"queryanalysisresult($1)"
 		],
 		"description": "queryanalysisresult"
 	},
 	"querynamed": {
 		"prefix": "querynamed",
 		"body": [
-			"querynamed"
+			"querynamed($1)"
 		],
 		"description": "querynamed"
 	},
 	"queryuserprop": {
 		"prefix": "queryuserprop",
 		"body": [
-			"queryuserprop"
+			"queryuserprop($1)"
 		],
 		"description": "queryuserprop"
 	},
 	"rand": {
 		"prefix": "rand",
 		"body": [
-			"rand"
+			"rand($1)"
 		],
 		"description": "rand"
 	},
 	"randmatrix": {
 		"prefix": "randmatrix",
 		"body": [
-			"randmatrix"
+			"randmatrix($1)"
 		],
 		"description": "randmatrix"
 	},
 	"randn": {
 		"prefix": "randn",
 		"body": [
-			"randn"
+			"randn($1)"
 		],
 		"description": "randn"
 	},
 	"randnmatrix": {
 		"prefix": "randnmatrix",
 		"body": [
-			"randnmatrix"
+			"randnmatrix($1)"
 		],
 		"description": "randnmatrix"
 	},
 	"randpearson4": {
 		"prefix": "randpearson4",
 		"body": [
-			"randpearson4"
+			"randpearson4($1)"
 		],
 		"description": "randpearson4"
 	},
 	"randreset": {
 		"prefix": "randreset",
 		"body": [
-			"randreset"
+			"randreset($1)"
 		],
 		"description": "randreset"
 	},
 	"rcwa": {
 		"prefix": "rcwa",
 		"body": [
-			"rcwa"
+			"rcwa($1)"
 		],
 		"description": "rcwa"
 	},
 	"read": {
 		"prefix": "read",
 		"body": [
-			"read"
+			"read($1)"
 		],
 		"description": "read"
 	},
 	"readdata": {
 		"prefix": "readdata",
 		"body": [
-			"readdata"
+			"readdata($1)"
 		],
 		"description": "readdata"
 	},
 	"readnportsparameterat": {
 		"prefix": "readnportsparameterat",
 		"body": [
-			"readnportsparameterat"
+			"readnportsparameterat($1)"
 		],
 		"description": "readnportsparameterat"
 	},
 	"readstltriangles": {
 		"prefix": "readstltriangles",
 		"body": [
-			"readstltriangles"
+			"readstltriangles($1)"
 		],
 		"description": "readstltriangles"
 	},
 	"real": {
 		"prefix": "real",
 		"body": [
-			"real"
+			"real($1)"
 		],
 		"description": "real"
 	},
 	"rectilineardataset": {
 		"prefix": "rectilineardataset",
 		"body": [
-			"rectilineardataset"
+			"rectilineardataset($1)"
 		],
 		"description": "rectilineardataset"
 	},
 	"redo": {
 		"prefix": "redo",
 		"body": [
-			"redo"
+			"redo($1)"
 		],
 		"description": "redo"
 	},
 	"redraw": {
 		"prefix": "redraw",
 		"body": [
-			"redraw"
+			"redraw($1)"
 		],
 		"description": "redraw"
 	},
 	"redrawmode": {
 		"prefix": "redrawmode",
 		"body": [
-			"redrawmode"
+			"redrawmode($1)"
 		],
 		"description": "redrawmode"
 	},
 	"redrawoff": {
 		"prefix": "redrawoff",
 		"body": [
-			"redrawoff"
+			"redrawoff($1)"
 		],
 		"description": "redrawoff"
 	},
 	"redrawon": {
 		"prefix": "redrawon",
 		"body": [
-			"redrawon"
+			"redrawon($1)"
 		],
 		"description": "redrawon"
 	},
 	"refresh": {
 		"prefix": "refresh",
 		"body": [
-			"refresh"
+			"refresh($1)"
 		],
 		"description": "refresh"
 	},
 	"reloaddesignkit": {
 		"prefix": "reloaddesignkit",
 		"body": [
-			"reloaddesignkit"
+			"reloaddesignkit($1)"
 		],
 		"description": "reloaddesignkit"
 	},
 	"removecustom": {
 		"prefix": "removecustom",
 		"body": [
-			"removecustom"
+			"removecustom($1)"
 		],
 		"description": "removecustom"
 	},
 	"removedesignkit": {
 		"prefix": "removedesignkit",
 		"body": [
-			"removedesignkit"
+			"removedesignkit($1)"
 		],
 		"description": "removedesignkit"
 	},
 	"removeexpansion": {
 		"prefix": "removeexpansion",
 		"body": [
-			"removeexpansion"
+			"removeexpansion($1)"
 		],
 		"description": "removeexpansion"
 	},
 	"removeport": {
 		"prefix": "removeport",
 		"body": [
-			"removeport"
+			"removeport($1)"
 		],
 		"description": "removeport"
 	},
 	"removepropertydependency": {
 		"prefix": "removepropertydependency",
 		"body": [
-			"removepropertydependency"
+			"removepropertydependency($1)"
 		],
 		"description": "removepropertydependency"
 	},
 	"removesweepparameter": {
 		"prefix": "removesweepparameter",
 		"body": [
-			"removesweepparameter"
+			"removesweepparameter($1)"
 		],
 		"description": "removesweepparameter"
 	},
 	"removesweepresult": {
 		"prefix": "removesweepresult",
 		"body": [
-			"removesweepresult"
+			"removesweepresult($1)"
 		],
 		"description": "removesweepresult"
 	},
 	"renameport": {
 		"prefix": "renameport",
 		"body": [
-			"renameport"
+			"renameport($1)"
 		],
 		"description": "renameport"
 	},
 	"replace": {
 		"prefix": "replace",
 		"body": [
-			"replace"
+			"replace($1)"
 		],
 		"description": "replace"
 	},
 	"replacelibrary": {
 		"prefix": "replacelibrary",
 		"body": [
-			"replacelibrary"
+			"replacelibrary($1)"
 		],
 		"description": "replacelibrary"
 	},
 	"replacestring": {
 		"prefix": "replacestring",
 		"body": [
-			"replacestring"
+			"replacestring($1)"
 		],
 		"description": "replacestring"
 	},
 	"reportmeshstatistics": {
 		"prefix": "reportmeshstatistics",
 		"body": [
-			"reportmeshstatistics"
+			"reportmeshstatistics($1)"
 		],
 		"description": "reportmeshstatistics"
 	},
 	"reshape": {
 		"prefix": "reshape",
 		"body": [
-			"reshape"
+			"reshape($1)"
 		],
 		"description": "reshape"
 	},
 	"resume": {
 		"prefix": "resume",
 		"body": [
-			"resume"
+			"resume($1)"
 		],
 		"description": "resume"
 	},
 	"resumejobs": {
 		"prefix": "resumejobs",
 		"body": [
-			"resumejobs"
+			"resumejobs($1)"
 		],
 		"description": "resumejobs"
 	},
 	"rm": {
 		"prefix": "rm",
 		"body": [
-			"rm"
+			"rm($1)"
 		],
 		"description": "rm"
 	},
 	"rotateelement": {
 		"prefix": "rotateelement",
 		"body": [
-			"rotateelement"
+			"rotateelement($1)"
 		],
 		"description": "rotateelement"
 	},
 	"round": {
 		"prefix": "round",
 		"body": [
-			"round"
+			"round($1)"
 		],
 		"description": "round"
 	},
 	"run": {
 		"prefix": "run",
 		"body": [
-			"run"
+			"run($1)"
 		],
 		"description": "run"
 	},
 	"runanalysis": {
 		"prefix": "runanalysis",
 		"body": [
-			"runanalysis"
+			"runanalysis($1)"
 		],
 		"description": "runanalysis"
 	},
 	"runfinalize": {
 		"prefix": "runfinalize",
 		"body": [
-			"runfinalize"
+			"runfinalize($1)"
 		],
 		"description": "runfinalize"
 	},
 	"runinitialize": {
 		"prefix": "runinitialize",
 		"body": [
-			"runinitialize"
+			"runinitialize($1)"
 		],
 		"description": "runinitialize"
 	},
 	"runjobs": {
 		"prefix": "runjobs",
 		"body": [
-			"runjobs"
+			"runjobs($1)"
 		],
 		"description": "runjobs"
 	},
 	"runoptimization": {
 		"prefix": "runoptimization",
 		"body": [
-			"runoptimization"
+			"runoptimization($1)"
 		],
 		"description": "runoptimization"
 	},
 	"runparallel": {
 		"prefix": "runparallel",
 		"body": [
-			"runparallel"
+			"runparallel($1)"
 		],
 		"description": "runparallel"
 	},
 	"runsetup": {
 		"prefix": "runsetup",
 		"body": [
-			"runsetup"
+			"runsetup($1)"
 		],
 		"description": "runsetup"
 	},
 	"runstartupscripts": {
 		"prefix": "runstartupscripts",
 		"body": [
-			"runstartupscripts"
+			"runstartupscripts($1)"
 		],
 		"description": "runstartupscripts"
 	},
 	"runstep": {
 		"prefix": "runstep",
 		"body": [
-			"runstep"
+			"runstep($1)"
 		],
 		"description": "runstep"
 	},
 	"runsweep": {
 		"prefix": "runsweep",
 		"body": [
-			"runsweep"
+			"runsweep($1)"
 		],
 		"description": "runsweep"
 	},
 	"runwizard": {
 		"prefix": "runwizard",
 		"body": [
-			"runwizard"
+			"runwizard($1)"
 		],
 		"description": "runwizard"
 	},
 	"save": {
 		"prefix": "save",
 		"body": [
-			"save"
+			"save($1)"
 		],
 		"description": "save"
 	},
 	"savedata": {
 		"prefix": "savedata",
 		"body": [
-			"savedata"
+			"savedata($1)"
 		],
 		"description": "savedata"
 	},
 	"savedcard": {
 		"prefix": "savedcard",
 		"body": [
-			"savedcard"
+			"savedcard($1)"
 		],
 		"description": "savedcard"
 	},
 	"saveelement": {
 		"prefix": "saveelement",
 		"body": [
-			"saveelement"
+			"saveelement($1)"
 		],
 		"description": "saveelement"
 	},
 	"savegdsfile": {
 		"prefix": "savegdsfile",
 		"body": [
-			"savegdsfile"
+			"savegdsfile($1)"
 		],
 		"description": "savegdsfile"
 	},
 	"saveprocessfile": {
 		"prefix": "saveprocessfile",
 		"body": [
-			"saveprocessfile"
+			"saveprocessfile($1)"
 		],
 		"description": "saveprocessfile"
 	},
 	"savesweep": {
 		"prefix": "savesweep",
 		"body": [
-			"savesweep"
+			"savesweep($1)"
 		],
 		"description": "savesweep"
 	},
 	"scorrcoef": {
 		"prefix": "scorrcoef",
 		"body": [
-			"scorrcoef"
+			"scorrcoef($1)"
 		],
 		"description": "scorrcoef"
 	},
 	"scriptautorun": {
 		"prefix": "scriptautorun",
 		"body": [
-			"scriptautorun"
+			"scriptautorun($1)"
 		],
 		"description": "scriptautorun"
 	},
 	"select": {
 		"prefix": "select",
 		"body": [
-			"select"
+			"select($1)"
 		],
 		"description": "select"
 	},
 	"selectall": {
 		"prefix": "selectall",
 		"body": [
-			"selectall"
+			"selectall($1)"
 		],
 		"description": "selectall"
 	},
 	"selectfigure": {
 		"prefix": "selectfigure",
 		"body": [
-			"selectfigure"
+			"selectfigure($1)"
 		],
 		"description": "selectfigure"
 	},
 	"selectmode": {
 		"prefix": "selectmode",
 		"body": [
-			"selectmode"
+			"selectmode($1)"
 		],
 		"description": "selectmode"
 	},
 	"selectpartial": {
 		"prefix": "selectpartial",
 		"body": [
-			"selectpartial"
+			"selectpartial($1)"
 		],
 		"description": "selectpartial"
 	},
 	"set": {
 		"prefix": "set",
 		"body": [
-			"set"
+			"set($1)"
 		],
 		"description": "set"
 	},
 	"setactivesolver": {
 		"prefix": "setactivesolver",
 		"body": [
-			"setactivesolver"
+			"setactivesolver($1)"
 		],
 		"description": "setactivesolver"
 	},
 	"setanalysis": {
 		"prefix": "setanalysis",
 		"body": [
-			"setanalysis"
+			"setanalysis($1)"
 		],
 		"description": "setanalysis"
 	},
 	"setbc": {
 		"prefix": "setbc",
 		"body": [
-			"setbc"
+			"setbc($1)"
 		],
 		"description": "setbc"
 	},
 	"setcompositionfraction": {
 		"prefix": "setcompositionfraction",
 		"body": [
-			"setcompositionfraction"
+			"setcompositionfraction($1)"
 		],
 		"description": "setcompositionfraction"
 	},
 	"setconnectionrouting": {
 		"prefix": "setconnectionrouting",
 		"body": [
-			"setconnectionrouting"
+			"setconnectionrouting($1)"
 		],
 		"description": "setconnectionrouting"
 	},
 	"setcontact": {
 		"prefix": "setcontact",
 		"body": [
-			"setcontact"
+			"setcontact($1)"
 		],
 		"description": "setcontact"
 	},
 	"seteigensolver": {
 		"prefix": "seteigensolver",
 		"body": [
-			"seteigensolver"
+			"seteigensolver($1)"
 		],
 		"description": "seteigensolver"
 	},
 	"setemeanalysis": {
 		"prefix": "setemeanalysis",
 		"body": [
-			"setemeanalysis"
+			"setemeanalysis($1)"
 		],
 		"description": "setemeanalysis"
 	},
 	"setexpansion": {
 		"prefix": "setexpansion",
 		"body": [
-			"setexpansion"
+			"setexpansion($1)"
 		],
 		"description": "setexpansion"
 	},
 	"setexpression": {
 		"prefix": "setexpression",
 		"body": [
-			"setexpression"
+			"setexpression($1)"
 		],
 		"description": "setexpression"
 	},
 	"setfield": {
 		"prefix": "setfield",
 		"body": [
-			"setfield"
+			"setfield($1)"
 		],
 		"description": "setfield"
 	},
 	"setglobal": {
 		"prefix": "setglobal",
 		"body": [
-			"setglobal"
+			"setglobal($1)"
 		],
 		"description": "setglobal"
 	},
 	"setglobalmonitor": {
 		"prefix": "setglobalmonitor",
 		"body": [
-			"setglobalmonitor"
+			"setglobalmonitor($1)"
 		],
 		"description": "setglobalmonitor"
 	},
 	"setglobalsource": {
 		"prefix": "setglobalsource",
 		"body": [
-			"setglobalsource"
+			"setglobalsource($1)"
 		],
 		"description": "setglobalsource"
 	},
 	"seticon": {
 		"prefix": "seticon",
 		"body": [
-			"seticon"
+			"seticon($1)"
 		],
 		"description": "seticon"
 	},
 	"setlayer": {
 		"prefix": "setlayer",
 		"body": [
-			"setlayer"
+			"setlayer($1)"
 		],
 		"description": "setlayer"
 	},
 	"setmaterial": {
 		"prefix": "setmaterial",
 		"body": [
-			"setmaterial"
+			"setmaterial($1)"
 		],
 		"description": "setmaterial"
 	},
 	"setname": {
 		"prefix": "setname",
 		"body": [
-			"setname"
+			"setname($1)"
 		],
 		"description": "setname"
 	},
 	"setnamed": {
 		"prefix": "setnamed",
 		"body": [
-			"setnamed"
+			"setnamed($1)"
 		],
 		"description": "setnamed"
 	},
 	"setparallel": {
 		"prefix": "setparallel",
 		"body": [
-			"setparallel"
+			"setparallel($1)"
 		],
 		"description": "setparallel"
 	},
 	"setplot": {
 		"prefix": "setplot",
 		"body": [
-			"setplot"
+			"setplot($1)"
 		],
 		"description": "setplot"
 	},
 	"setposition": {
 		"prefix": "setposition",
 		"body": [
-			"setposition"
+			"setposition($1)"
 		],
 		"description": "setposition"
 	},
 	"setpsfoutput": {
 		"prefix": "setpsfoutput",
 		"body": [
-			"setpsfoutput"
+			"setpsfoutput($1)"
 		],
 		"description": "setpsfoutput"
 	},
 	"setrectangle": {
 		"prefix": "setrectangle",
 		"body": [
-			"setrectangle"
+			"setrectangle($1)"
 		],
 		"description": "setrectangle"
 	},
 	"setresource": {
 		"prefix": "setresource",
 		"body": [
-			"setresource"
+			"setresource($1)"
 		],
 		"description": "setresource"
 	},
 	"setresult": {
 		"prefix": "setresult",
 		"body": [
-			"setresult"
+			"setresult($1)"
 		],
 		"description": "setresult"
 	},
 	"setsetting": {
 		"prefix": "setsetting",
 		"body": [
-			"setsetting"
+			"setsetting($1)"
 		],
 		"description": "setsetting"
 	},
 	"setsourcesignal": {
 		"prefix": "setsourcesignal",
 		"body": [
-			"setsourcesignal"
+			"setsourcesignal($1)"
 		],
 		"description": "setsourcesignal"
 	},
 	"setsparameter": {
 		"prefix": "setsparameter",
 		"body": [
-			"setsparameter"
+			"setsparameter($1)"
 		],
 		"description": "setsparameter"
 	},
 	"setsweep": {
 		"prefix": "setsweep",
 		"body": [
-			"setsweep"
+			"setsweep($1)"
 		],
 		"description": "setsweep"
 	},
 	"setvalue": {
 		"prefix": "setvalue",
 		"body": [
-			"setvalue"
+			"setvalue($1)"
 		],
 		"description": "setvalue"
 	},
 	"setview": {
 		"prefix": "setview",
 		"body": [
-			"setview"
+			"setview($1)"
 		],
 		"description": "setview"
 	},
 	"shiftselect": {
 		"prefix": "shiftselect",
 		"body": [
-			"shiftselect"
+			"shiftselect($1)"
 		],
 		"description": "shiftselect"
 	},
 	"shiftselectpartial": {
 		"prefix": "shiftselectpartial",
 		"body": [
-			"shiftselectpartial"
+			"shiftselectpartial($1)"
 		],
 		"description": "shiftselectpartial"
 	},
 	"show": {
 		"prefix": "show",
 		"body": [
-			"show"
+			"show($1)"
 		],
 		"description": "show"
 	},
 	"showdata": {
 		"prefix": "showdata",
 		"body": [
-			"showdata"
+			"showdata($1)"
 		],
 		"description": "showdata"
 	},
 	"showmenubar": {
 		"prefix": "showmenubar",
 		"body": [
-			"showmenubar"
+			"showmenubar($1)"
 		],
 		"description": "showmenubar"
 	},
 	"sign": {
 		"prefix": "sign",
 		"body": [
-			"sign"
+			"sign($1)"
 		],
 		"description": "sign"
 	},
 	"simulation": {
 		"prefix": "simulation",
 		"body": [
-			"simulation"
+			"simulation($1)"
 		],
 		"description": "simulation"
 	},
 	"simulationdiverged": {
 		"prefix": "simulationdiverged",
 		"body": [
-			"simulationdiverged"
+			"simulationdiverged($1)"
 		],
 		"description": "simulationdiverged"
 	},
 	"sin": {
 		"prefix": "sin",
 		"body": [
-			"sin"
+			"sin($1)"
 		],
 		"description": "sin"
 	},
 	"size": {
 		"prefix": "size",
 		"body": [
-			"size"
+			"size($1)"
 		],
 		"description": "size"
 	},
 	"skewness": {
 		"prefix": "skewness",
 		"body": [
-			"skewness"
+			"skewness($1)"
 		],
 		"description": "skewness"
 	},
 	"smithchart": {
 		"prefix": "smithchart",
 		"body": [
-			"smithchart"
+			"smithchart($1)"
 		],
 		"description": "smithchart"
 	},
 	"solar": {
 		"prefix": "solar",
 		"body": [
-			"solar"
+			"solar($1)"
 		],
 		"description": "solar"
 	},
 	"solve": {
 		"prefix": "solve",
 		"body": [
-			"solve"
+			"solve($1)"
 		],
 		"description": "solve"
 	},
 	"sort": {
 		"prefix": "sort",
 		"body": [
-			"sort"
+			"sort($1)"
 		],
 		"description": "sort"
 	},
 	"sortmap": {
 		"prefix": "sortmap",
 		"body": [
-			"sortmap"
+			"sortmap($1)"
 		],
 		"description": "sortmap"
 	},
 	"sourceintensity": {
 		"prefix": "sourceintensity",
 		"body": [
-			"sourceintensity"
+			"sourceintensity($1)"
 		],
 		"description": "sourceintensity"
 	},
 	"sourceintensity_avg": {
 		"prefix": "sourceintensity_avg",
 		"body": [
-			"sourceintensity_avg"
+			"sourceintensity_avg($1)"
 		],
 		"description": "sourceintensity_avg"
 	},
 	"sourceintensity_pavg": {
 		"prefix": "sourceintensity_pavg",
 		"body": [
-			"sourceintensity_pavg"
+			"sourceintensity_pavg($1)"
 		],
 		"description": "sourceintensity_pavg"
 	},
 	"sourcenorm": {
 		"prefix": "sourcenorm",
 		"body": [
-			"sourcenorm"
+			"sourcenorm($1)"
 		],
 		"description": "sourcenorm"
 	},
 	"sourcenorm2_avg": {
 		"prefix": "sourcenorm2_avg",
 		"body": [
-			"sourcenorm2_avg"
+			"sourcenorm2_avg($1)"
 		],
 		"description": "sourcenorm2_avg"
 	},
 	"sourcenorm2_pavg": {
 		"prefix": "sourcenorm2_pavg",
 		"body": [
-			"sourcenorm2_pavg"
+			"sourcenorm2_pavg($1)"
 		],
 		"description": "sourcenorm2_pavg"
 	},
 	"sourcepower": {
 		"prefix": "sourcepower",
 		"body": [
-			"sourcepower"
+			"sourcepower($1)"
 		],
 		"description": "sourcepower"
 	},
 	"sourcepower_avg": {
 		"prefix": "sourcepower_avg",
 		"body": [
-			"sourcepower_avg"
+			"sourcepower_avg($1)"
 		],
 		"description": "sourcepower_avg"
 	},
 	"sourcepower_pavg": {
 		"prefix": "sourcepower_pavg",
 		"body": [
-			"sourcepower_pavg"
+			"sourcepower_pavg($1)"
 		],
 		"description": "sourcepower_pavg"
 	},
 	"sources": {
 		"prefix": "sources",
 		"body": [
-			"sources"
+			"sources($1)"
 		],
 		"description": "sources"
 	},
 	"spline": {
 		"prefix": "spline",
 		"body": [
-			"spline"
+			"spline($1)"
 		],
 		"description": "spline"
 	},
 	"splitstring": {
 		"prefix": "splitstring",
 		"body": [
-			"splitstring"
+			"splitstring($1)"
 		],
 		"description": "splitstring"
 	},
 	"sqrt": {
 		"prefix": "sqrt",
 		"body": [
-			"sqrt"
+			"sqrt($1)"
 		],
 		"description": "sqrt"
 	},
 	"sroughness": {
 		"prefix": "sroughness",
 		"body": [
-			"sroughness"
+			"sroughness($1)"
 		],
 		"description": "sroughness"
 	},
 	"stackdipole": {
 		"prefix": "stackdipole",
 		"body": [
-			"stackdipole"
+			"stackdipole($1)"
 		],
 		"description": "stackdipole"
 	},
 	"stackfield": {
 		"prefix": "stackfield",
 		"body": [
-			"stackfield"
+			"stackfield($1)"
 		],
 		"description": "stackfield"
 	},
 	"stackpurcell": {
 		"prefix": "stackpurcell",
 		"body": [
-			"stackpurcell"
+			"stackpurcell($1)"
 		],
 		"description": "stackpurcell"
 	},
 	"stackrt": {
 		"prefix": "stackrt",
 		"body": [
-			"stackrt"
+			"stackrt($1)"
 		],
 		"description": "stackrt"
 	},
 	"std": {
 		"prefix": "std",
 		"body": [
-			"std"
+			"std($1)"
 		],
 		"description": "std"
 	},
 	"stepimport": {
 		"prefix": "stepimport",
 		"body": [
-			"stepimport"
+			"stepimport($1)"
 		],
 		"description": "stepimport"
 	},
 	"stlimport": {
 		"prefix": "stlimport",
 		"body": [
-			"stlimport"
+			"stlimport($1)"
 		],
 		"description": "stlimport"
 	},
 	"str2num": {
 		"prefix": "str2num",
 		"body": [
-			"str2num"
+			"str2num($1)"
 		],
 		"description": "str2num"
 	},
 	"struct": {
 		"prefix": "struct",
 		"body": [
-			"struct"
+			"struct($1)"
 		],
 		"description": "struct"
 	},
 	"structures": {
 		"prefix": "structures",
 		"body": [
-			"structures"
+			"structures($1)"
 		],
 		"description": "structures"
 	},
 	"substring": {
 		"prefix": "substring",
 		"body": [
-			"substring"
+			"substring($1)"
 		],
 		"description": "substring"
 	},
 	"sum": {
 		"prefix": "sum",
 		"body": [
-			"sum"
+			"sum($1)"
 		],
 		"description": "sum"
 	},
 	"svd": {
 		"prefix": "svd",
 		"body": [
-			"svd"
+			"svd($1)"
 		],
 		"description": "svd"
 	},
 	"switchtodesign": {
 		"prefix": "switchtodesign",
 		"body": [
-			"switchtodesign"
+			"switchtodesign($1)"
 		],
 		"description": "switchtodesign"
 	},
 	"switchtolayout": {
 		"prefix": "switchtolayout",
 		"body": [
-			"switchtolayout"
+			"switchtolayout($1)"
 		],
 		"description": "switchtolayout"
 	},
 	"system": {
 		"prefix": "system",
 		"body": [
-			"system"
+			"system($1)"
 		],
 		"description": "system"
 	},
 	"tan": {
 		"prefix": "tan",
 		"body": [
-			"tan"
+			"tan($1)"
 		],
 		"description": "tan"
 	},
 	"tdecq": {
 		"prefix": "tdecq",
 		"body": [
-			"tdecq"
+			"tdecq($1)"
 		],
 		"description": "tdecq"
 	},
 	"tecplotread": {
 		"prefix": "tecplotread",
 		"body": [
-			"tecplotread"
+			"tecplotread($1)"
 		],
 		"description": "tecplotread"
 	},
 	"toscript": {
 		"prefix": "toscript",
 		"body": [
-			"toscript"
+			"toscript($1)"
 		],
 		"description": "toscript"
 	},
 	"touchstoneload": {
 		"prefix": "touchstoneload",
 		"body": [
-			"touchstoneload"
+			"touchstoneload($1)"
 		],
 		"description": "touchstoneload"
 	},
 	"transmission": {
 		"prefix": "transmission",
 		"body": [
-			"transmission"
+			"transmission($1)"
 		],
 		"description": "transmission"
 	},
 	"transmission_avg": {
 		"prefix": "transmission_avg",
 		"body": [
-			"transmission_avg"
+			"transmission_avg($1)"
 		],
 		"description": "transmission_avg"
 	},
 	"transmission_pavg": {
 		"prefix": "transmission_pavg",
 		"body": [
-			"transmission_pavg"
+			"transmission_pavg($1)"
 		],
 		"description": "transmission_pavg"
 	},
 	"transpose": {
 		"prefix": "transpose",
 		"body": [
-			"transpose"
+			"transpose($1)"
 		],
 		"description": "transpose"
 	},
 	"try": {
 		"prefix": "try",
 		"body": [
-			"try"
+			"try($1)"
 		],
 		"description": "try"
 	},
 	"undo": {
 		"prefix": "undo",
 		"body": [
-			"undo"
+			"undo($1)"
 		],
 		"description": "undo"
 	},
 	"unfoldsymmetricdata": {
 		"prefix": "unfoldsymmetricdata",
 		"body": [
-			"unfoldsymmetricdata"
+			"unfoldsymmetricdata($1)"
 		],
 		"description": "unfoldsymmetricdata"
 	},
 	"uninstalldesignkit": {
 		"prefix": "uninstalldesignkit",
 		"body": [
-			"uninstalldesignkit"
+			"uninstalldesignkit($1)"
 		],
 		"description": "uninstalldesignkit"
 	},
 	"unique": {
 		"prefix": "unique",
 		"body": [
-			"unique"
+			"unique($1)"
 		],
 		"description": "unique"
 	},
 	"uniquevertices": {
 		"prefix": "uniquevertices",
 		"body": [
-			"uniquevertices"
+			"uniquevertices($1)"
 		],
 		"description": "uniquevertices"
 	},
 	"unselectall": {
 		"prefix": "unselectall",
 		"body": [
-			"unselectall"
+			"unselectall($1)"
 		],
 		"description": "unselectall"
 	},
 	"unstructureddataset": {
 		"prefix": "unstructureddataset",
 		"body": [
-			"unstructureddataset"
+			"unstructureddataset($1)"
 		],
 		"description": "unstructureddataset"
 	},
 	"unwrap": {
 		"prefix": "unwrap",
 		"body": [
-			"unwrap"
+			"unwrap($1)"
 		],
 		"description": "unwrap"
 	},
 	"updatemodes": {
 		"prefix": "updatemodes",
 		"body": [
-			"updatemodes"
+			"updatemodes($1)"
 		],
 		"description": "updatemodes"
 	},
 	"updateportmodes": {
 		"prefix": "updateportmodes",
 		"body": [
-			"updateportmodes"
+			"updateportmodes($1)"
 		],
 		"description": "updateportmodes"
 	},
 	"updatesourcemode": {
 		"prefix": "updatesourcemode",
 		"body": [
-			"updatesourcemode"
+			"updatesourcemode($1)"
 		],
 		"description": "updatesourcemode"
 	},
 	"upper": {
 		"prefix": "upper",
 		"body": [
-			"upper"
+			"upper($1)"
 		],
 		"description": "upper"
 	},
 	"validate": {
 		"prefix": "validate",
 		"body": [
-			"validate"
+			"validate($1)"
 		],
 		"description": "validate"
 	},
 	"validateall": {
 		"prefix": "validateall",
 		"body": [
-			"validateall"
+			"validateall($1)"
 		],
 		"description": "validateall"
 	},
 	"var": {
 		"prefix": "var",
 		"body": [
-			"var"
+			"var($1)"
 		],
 		"description": "var"
 	},
 	"vectorplot": {
 		"prefix": "vectorplot",
 		"body": [
-			"vectorplot"
+			"vectorplot($1)"
 		],
 		"description": "vectorplot"
 	},
 	"version": {
 		"prefix": "version",
 		"body": [
-			"version"
+			"version($1)"
 		],
 		"description": "version"
 	},
 	"versionfile": {
 		"prefix": "versionfile",
 		"body": [
-			"versionfile"
+			"versionfile($1)"
 		],
 		"description": "versionfile"
 	},
 	"visualize": {
 		"prefix": "visualize",
 		"body": [
-			"visualize"
+			"visualize($1)"
 		],
 		"description": "visualize"
 	},
 	"vtksave": {
 		"prefix": "vtksave",
 		"body": [
-			"vtksave"
+			"vtksave($1)"
 		],
 		"description": "vtksave"
 	},
 	"waituntildone": {
 		"prefix": "waituntildone",
 		"body": [
-			"waituntildone"
+			"waituntildone($1)"
 		],
 		"description": "waituntildone"
 	},
 	"which": {
 		"prefix": "which",
 		"body": [
-			"which"
+			"which($1)"
 		],
 		"description": "which"
 	},
 	"wizarddata": {
 		"prefix": "wizarddata",
 		"body": [
-			"wizarddata"
+			"wizarddata($1)"
 		],
 		"description": "wizarddata"
 	},
 	"wizardgetdata": {
 		"prefix": "wizardgetdata",
 		"body": [
-			"wizardgetdata"
+			"wizardgetdata($1)"
 		],
 		"description": "wizardgetdata"
 	},
 	"wizardoption": {
 		"prefix": "wizardoption",
 		"body": [
-			"wizardoption"
+			"wizardoption($1)"
 		],
 		"description": "wizardoption"
 	},
 	"wizardwidget": {
 		"prefix": "wizardwidget",
 		"body": [
-			"wizardwidget"
+			"wizardwidget($1)"
 		],
 		"description": "wizardwidget"
 	},
 	"workspace": {
 		"prefix": "workspace",
 		"body": [
-			"workspace"
+			"workspace($1)"
 		],
 		"description": "workspace"
 	},
 	"write": {
 		"prefix": "write",
 		"body": [
-			"write"
+			"write($1)"
 		],
 		"description": "write"
 	},
 	"zbfexport": {
 		"prefix": "zbfexport",
 		"body": [
-			"zbfexport"
+			"zbfexport($1)"
 		],
 		"description": "zbfexport"
 	},
 	"zbfload": {
 		"prefix": "zbfload",
 		"body": [
-			"zbfload"
+			"zbfload($1)"
 		],
 		"description": "zbfload"
 	},
 	"zbfread": {
 		"prefix": "zbfread",
 		"body": [
-			"zbfread"
+			"zbfread($1)"
 		],
 		"description": "zbfread"
 	},
 	"zbfwrite": {
 		"prefix": "zbfwrite",
 		"body": [
-			"zbfwrite"
+			"zbfwrite($1)"
 		],
 		"description": "zbfwrite"
 	},
 	"zeros": {
 		"prefix": "zeros",
 		"body": [
-			"zeros"
+			"zeros($1)"
 		],
 		"description": "zeros"
 	}

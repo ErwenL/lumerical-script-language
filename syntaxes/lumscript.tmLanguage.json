@@ -11,6 +11,12 @@
             "include": "#function_call"
         },
         {
+            "include": "#matrix_brackets"
+        },
+        {
+            "include": "#cell_braces"
+        },
+        {
             "include": "#strings"
         },
         {
@@ -34,7 +40,15 @@
             "patterns": [
                 {
                     "name": "keyword.control.lumscript",
-                    "match": "\\b(if|else|for|break)\\b"
+                    "match": "\\b(if|else|elseif|for|while|switch|case|otherwise|try|catch|break|continue|return|end)\\b"
+                },
+                {
+                    "name": "keyword.function.lumscript",
+                    "match": "\\b(function)\\b"
+                },
+                {
+                    "name": "keyword.storage.modifier.lumscript",
+                    "match": "\\b(global|persistent|parfor|spmd)\\b"
                 }
             ]
         },
@@ -90,7 +104,7 @@
         },
         "constant": {
             "name": "constant.language.lumscript",
-            "match": "\\b(1i|1j|e|pi|eps0|um)\\b"
+            "match": "\\b(1i|1j|e|pi|eps0|um|inf|Inf|nan|NaN|true|false|i|j|eps|realmax|realmin)\\b"
         },
         "number": {
             "name": "constant.numeric.lumscript",
@@ -127,6 +141,36 @@
                     "comment": "Comparative operators",
                     "name": "keyword.operator.relational.lumscript",
                     "match": "(?<=[a-zA-Z0-9\\s])(>|>=|<|<=)(?=[a-zA-Z0-9\\s])"
+                },
+                {
+                    "comment": "Transpose operator",
+                    "name": "keyword.operator.transpose.lumscript",
+                    "match": "(?<=[a-zA-Z0-9_)\\]}])\\'(?!\\w)"
+                },
+                {
+                    "comment": "Non-conjugate transpose operator",
+                    "name": "keyword.operator.transpose.nonconjugate.lumscript",
+                    "match": "(?<=[a-zA-Z0-9_)\\]}])\\.\\'(?!\\w)"
+                },
+                {
+                    "comment": "Field access operator",
+                    "name": "keyword.operator.field.access.lumscript",
+                    "match": "\\.(?=[a-zA-Z])"
+                },
+                {
+                    "comment": "Line continuation",
+                    "name": "keyword.operator.line.continuation.lumscript",
+                    "match": "\\.\\.\\."
+                },
+                {
+                    "comment": "Logical NOT operator",
+                    "name": "keyword.operator.logical.not.lumscript",
+                    "match": "~(?!=)"
+                },
+                {
+                    "comment": "Not equals operator",
+                    "name": "keyword.operator.relational.not.equals.lumscript",
+                    "match": "~="
                 }
             ]
         },
@@ -138,6 +182,60 @@
             "comment": "Top-level workspace variable highlighting",
             "name": "variable.other.readwrite.matlab",
             "match": "(?<![a-zA-Z0-9_]|\\.)[a-zA-Z][a-zA-Z0-9_]*(?![a-zA-Z0-9_](?:\\(|\\{|\\.\\())"
+        },
+        "data_types": {
+            "name": "storage.type.lumscript",
+            "match": "\\b(double|single|int8|uint8|int16|uint16|int32|uint32|int64|uint64|logical|char|string|struct|cell|table)\\b"
+        },
+        "matrix_brackets": {
+            "name": "meta.matrix.literal.lumscript",
+            "begin": "\\[",
+            "end": "\\]",
+            "patterns": [
+                {
+                    "include": "#strings"
+                },
+                {
+                    "include": "#constant"
+                },
+                {
+                    "include": "#number"
+                },
+                {
+                    "include": "#operators"
+                },
+                {
+                    "include": "#comment"
+                },
+                {
+                    "include": "#readwrite_variable"
+                }
+            ]
+        },
+        "cell_braces": {
+            "name": "meta.cell.literal.lumscript",
+            "begin": "\\{",
+            "end": "\\}",
+            "patterns": [
+                {
+                    "include": "#strings"
+                },
+                {
+                    "include": "#constant"
+                },
+                {
+                    "include": "#number"
+                },
+                {
+                    "include": "#operators"
+                },
+                {
+                    "include": "#comment"
+                },
+                {
+                    "include": "#readwrite_variable"
+                }
+            ]
         }
     },
     "scopeName": "source.lumscript"
