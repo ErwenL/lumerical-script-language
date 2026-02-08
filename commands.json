@@ -1,0 +1,4208 @@
+[
+  {
+    "name": "abs",
+    "description": "Lumerical command: abs",
+    "usage": "abs();",
+    "category": "general"
+  },
+  {
+    "name": "acos",
+    "description": "Lumerical command: acos",
+    "usage": "acos();",
+    "category": "general"
+  },
+  {
+    "name": "add2dpoly",
+    "description": "Lumerical command: add2dpoly",
+    "usage": "add2dpoly();",
+    "category": "general"
+  },
+  {
+    "name": "add2drect",
+    "description": "Lumerical command: add2drect",
+    "usage": "add2drect();",
+    "category": "general"
+  },
+  {
+    "name": "add2visualizer",
+    "description": "Lumerical command: add2visualizer",
+    "usage": "add2visualizer();",
+    "category": "general"
+  },
+  {
+    "name": "addabsorbing",
+    "description": "Lumerical command: addabsorbing",
+    "usage": "addabsorbing();",
+    "category": "general"
+  },
+  {
+    "name": "addanalysisgroup",
+    "description": "Lumerical command: addanalysisgroup",
+    "usage": "addanalysisgroup();",
+    "category": "general"
+  },
+  {
+    "name": "addanalysisprop",
+    "description": "Lumerical command: addanalysisprop",
+    "usage": "addanalysisprop();",
+    "category": "general"
+  },
+  {
+    "name": "addanalysisresult",
+    "description": "Lumerical command: addanalysisresult",
+    "usage": "addanalysisresult();",
+    "category": "general"
+  },
+  {
+    "name": "addattribute",
+    "description": "Lumerical command: addattribute",
+    "usage": "addattribute();",
+    "category": "general"
+  },
+  {
+    "name": "addbandstructuremonitor",
+    "description": "Lumerical command: addbandstructuremonitor",
+    "usage": "addbandstructuremonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addbulkgen",
+    "description": "Lumerical command: addbulkgen",
+    "usage": "addbulkgen();",
+    "category": "general"
+  },
+  {
+    "name": "addchargemesh",
+    "description": "Lumerical command: addchargemesh",
+    "usage": "addchargemesh();",
+    "category": "general"
+  },
+  {
+    "name": "addchargemonitor",
+    "description": "Lumerical command: addchargemonitor",
+    "usage": "addchargemonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addchargesolver",
+    "description": "Lumerical command: addchargesolver",
+    "usage": "addchargesolver();",
+    "category": "general"
+  },
+  {
+    "name": "addcircle",
+    "description": "Lumerical command: addcircle",
+    "usage": "addcircle();",
+    "category": "general"
+  },
+  {
+    "name": "addconvectionbc",
+    "description": "Lumerical command: addconvectionbc",
+    "usage": "addconvectionbc();",
+    "category": "general"
+  },
+  {
+    "name": "addctmaterialproperty",
+    "description": "Lumerical command: addctmaterialproperty",
+    "usage": "addctmaterialproperty();",
+    "category": "general"
+  },
+  {
+    "name": "addcustom",
+    "description": "Lumerical command: addcustom",
+    "usage": "addcustom();",
+    "category": "general"
+  },
+  {
+    "name": "adddeltachargesource",
+    "description": "Lumerical command: adddeltachargesource",
+    "usage": "adddeltachargesource();",
+    "category": "general"
+  },
+  {
+    "name": "adddevice",
+    "description": "Lumerical command: adddevice",
+    "usage": "adddevice();",
+    "category": "general"
+  },
+  {
+    "name": "adddftmonitor",
+    "description": "Lumerical command: adddftmonitor",
+    "usage": "adddftmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "adddgtdmesh",
+    "description": "Lumerical command: adddgtdmesh",
+    "usage": "adddgtdmesh();",
+    "category": "general"
+  },
+  {
+    "name": "adddgtdsolver",
+    "description": "Lumerical command: adddgtdsolver",
+    "usage": "adddgtdsolver();",
+    "category": "general"
+  },
+  {
+    "name": "adddiffusion",
+    "description": "Lumerical command: adddiffusion",
+    "usage": "adddiffusion();",
+    "category": "general"
+  },
+  {
+    "name": "adddipole",
+    "description": "Lumerical command: adddipole",
+    "usage": "adddipole();",
+    "category": "general"
+  },
+  {
+    "name": "adddope",
+    "description": "Lumerical command: adddope",
+    "usage": "adddope();",
+    "category": "general"
+  },
+  {
+    "name": "addeffectiveindex",
+    "description": "Lumerical command: addeffectiveindex",
+    "usage": "addeffectiveindex();",
+    "category": "general"
+  },
+  {
+    "name": "addefieldmonitor",
+    "description": "Lumerical command: addefieldmonitor",
+    "usage": "addefieldmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addelectricalcontact",
+    "description": "Lumerical command: addelectricalcontact",
+    "usage": "addelectricalcontact();",
+    "category": "general"
+  },
+  {
+    "name": "addelement",
+    "description": "Lumerical command: addelement",
+    "usage": "addelement();",
+    "category": "general"
+  },
+  {
+    "name": "addemabsorptionmonitor",
+    "description": "Lumerical command: addemabsorptionmonitor",
+    "usage": "addemabsorptionmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addeme",
+    "description": "Lumerical command: addeme",
+    "usage": "addeme();",
+    "category": "general"
+  },
+  {
+    "name": "addemeindex",
+    "description": "Lumerical command: addemeindex",
+    "usage": "addemeindex();",
+    "category": "general"
+  },
+  {
+    "name": "addemeport",
+    "description": "Lumerical command: addemeport",
+    "usage": "addemeport();",
+    "category": "general"
+  },
+  {
+    "name": "addemeprofile",
+    "description": "Lumerical command: addemeprofile",
+    "usage": "addemeprofile();",
+    "category": "general"
+  },
+  {
+    "name": "addemfieldmonitor",
+    "description": "Lumerical command: addemfieldmonitor",
+    "usage": "addemfieldmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addemfieldtimemonitor",
+    "description": "Lumerical command: addemfieldtimemonitor",
+    "usage": "addemfieldtimemonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addemmaterialproperty",
+    "description": "Lumerical command: addemmaterialproperty",
+    "usage": "addemmaterialproperty();",
+    "category": "general"
+  },
+  {
+    "name": "addfde",
+    "description": "Lumerical command: addfde",
+    "usage": "addfde();",
+    "category": "general"
+  },
+  {
+    "name": "addfdtd",
+    "description": "Lumerical command: addfdtd",
+    "usage": "addfdtd();",
+    "category": "general"
+  },
+  {
+    "name": "addfeemmesh",
+    "description": "Lumerical command: addfeemmesh",
+    "usage": "addfeemmesh();",
+    "category": "general"
+  },
+  {
+    "name": "addfeemsolver",
+    "description": "Lumerical command: addfeemsolver",
+    "usage": "addfeemsolver();",
+    "category": "general"
+  },
+  {
+    "name": "addfieldregion",
+    "description": "Lumerical command: addfieldregion",
+    "usage": "addfieldregion();",
+    "category": "general"
+  },
+  {
+    "name": "addgaussian",
+    "description": "Lumerical command: addgaussian",
+    "usage": "addgaussian();",
+    "category": "general"
+  },
+  {
+    "name": "addgridattribute",
+    "description": "Lumerical command: addgridattribute",
+    "usage": "addgridattribute();",
+    "category": "general"
+  },
+  {
+    "name": "addgroup",
+    "description": "Lumerical command: addgroup",
+    "usage": "addgroup();",
+    "category": "general"
+  },
+  {
+    "name": "addheatfluxbc",
+    "description": "Lumerical command: addheatfluxbc",
+    "usage": "addheatfluxbc();",
+    "category": "general"
+  },
+  {
+    "name": "addheatfluxmonitor",
+    "description": "Lumerical command: addheatfluxmonitor",
+    "usage": "addheatfluxmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addheatmesh",
+    "description": "Lumerical command: addheatmesh",
+    "usage": "addheatmesh();",
+    "category": "general"
+  },
+  {
+    "name": "addheatsolver",
+    "description": "Lumerical command: addheatsolver",
+    "usage": "addheatsolver();",
+    "category": "general"
+  },
+  {
+    "name": "addhtmaterialproperty",
+    "description": "Lumerical command: addhtmaterialproperty",
+    "usage": "addhtmaterialproperty();",
+    "category": "general"
+  },
+  {
+    "name": "addimplant",
+    "description": "Lumerical command: addimplant",
+    "usage": "addimplant();",
+    "category": "general"
+  },
+  {
+    "name": "addimport",
+    "description": "Lumerical command: addimport",
+    "usage": "addimport();",
+    "category": "general"
+  },
+  {
+    "name": "addimportdope",
+    "description": "Lumerical command: addimportdope",
+    "usage": "addimportdope();",
+    "category": "general"
+  },
+  {
+    "name": "addimportedsource",
+    "description": "Lumerical command: addimportedsource",
+    "usage": "addimportedsource();",
+    "category": "general"
+  },
+  {
+    "name": "addimportgen",
+    "description": "Lumerical command: addimportgen",
+    "usage": "addimportgen();",
+    "category": "general"
+  },
+  {
+    "name": "addimportheat",
+    "description": "Lumerical command: addimportheat",
+    "usage": "addimportheat();",
+    "category": "general"
+  },
+  {
+    "name": "addimportnk",
+    "description": "Lumerical command: addimportnk",
+    "usage": "addimportnk();",
+    "category": "general"
+  },
+  {
+    "name": "addimporttemperature",
+    "description": "Lumerical command: addimporttemperature",
+    "usage": "addimporttemperature();",
+    "category": "general"
+  },
+  {
+    "name": "addindex",
+    "description": "Lumerical command: addindex",
+    "usage": "addindex();",
+    "category": "general"
+  },
+  {
+    "name": "addjfluxmonitor",
+    "description": "Lumerical command: addjfluxmonitor",
+    "usage": "addjfluxmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addjob",
+    "description": "Lumerical command: addjob",
+    "usage": "addjob();",
+    "category": "general"
+  },
+  {
+    "name": "addlayer",
+    "description": "Lumerical command: addlayer",
+    "usage": "addlayer();",
+    "category": "general"
+  },
+  {
+    "name": "addlayerbuilder",
+    "description": "Lumerical command: addlayerbuilder",
+    "usage": "addlayerbuilder();",
+    "category": "general"
+  },
+  {
+    "name": "addmaterial",
+    "description": "Lumerical command: addmaterial",
+    "usage": "addmaterial();",
+    "category": "general"
+  },
+  {
+    "name": "addmaterialproperties",
+    "description": "Lumerical command: addmaterialproperties",
+    "usage": "addmaterialproperties();",
+    "category": "general"
+  },
+  {
+    "name": "addmesh",
+    "description": "Lumerical command: addmesh",
+    "usage": "addmesh();",
+    "category": "general"
+  },
+  {
+    "name": "addmode",
+    "description": "Lumerical command: addmode",
+    "usage": "addmode();",
+    "category": "general"
+  },
+  {
+    "name": "addmodeexpansion",
+    "description": "Lumerical command: addmodeexpansion",
+    "usage": "addmodeexpansion();",
+    "category": "general"
+  },
+  {
+    "name": "addmodelmaterial",
+    "description": "Lumerical command: addmodelmaterial",
+    "usage": "addmodelmaterial();",
+    "category": "general"
+  },
+  {
+    "name": "addmodesource",
+    "description": "Lumerical command: addmodesource",
+    "usage": "addmodesource();",
+    "category": "general"
+  },
+  {
+    "name": "addmovie",
+    "description": "Lumerical command: addmovie",
+    "usage": "addmovie();",
+    "category": "general"
+  },
+  {
+    "name": "addobject",
+    "description": "Lumerical command: addobject",
+    "usage": "addobject();",
+    "category": "general"
+  },
+  {
+    "name": "addparameter",
+    "description": "Lumerical command: addparameter",
+    "usage": "addparameter();",
+    "category": "general"
+  },
+  {
+    "name": "addpath",
+    "description": "Lumerical command: addpath",
+    "usage": "addpath();",
+    "category": "general"
+  },
+  {
+    "name": "addpec",
+    "description": "Lumerical command: addpec",
+    "usage": "addpec();",
+    "category": "general"
+  },
+  {
+    "name": "addperiodic",
+    "description": "Lumerical command: addperiodic",
+    "usage": "addperiodic();",
+    "category": "general"
+  },
+  {
+    "name": "addplanarsolid",
+    "description": "Lumerical command: addplanarsolid",
+    "usage": "addplanarsolid();",
+    "category": "general"
+  },
+  {
+    "name": "addplane",
+    "description": "Lumerical command: addplane",
+    "usage": "addplane();",
+    "category": "general"
+  },
+  {
+    "name": "addpmc",
+    "description": "Lumerical command: addpmc",
+    "usage": "addpmc();",
+    "category": "general"
+  },
+  {
+    "name": "addpml",
+    "description": "Lumerical command: addpml",
+    "usage": "addpml();",
+    "category": "general"
+  },
+  {
+    "name": "addpoly",
+    "description": "Lumerical command: addpoly",
+    "usage": "addpoly();",
+    "category": "general"
+  },
+  {
+    "name": "addport",
+    "description": "Lumerical command: addport",
+    "usage": "addport();",
+    "category": "general"
+  },
+  {
+    "name": "addproperty",
+    "description": "Lumerical command: addproperty",
+    "usage": "addproperty();",
+    "category": "general"
+  },
+  {
+    "name": "addpyramid",
+    "description": "Lumerical command: addpyramid",
+    "usage": "addpyramid();",
+    "category": "general"
+  },
+  {
+    "name": "addradiationbc",
+    "description": "Lumerical command: addradiationbc",
+    "usage": "addradiationbc();",
+    "category": "general"
+  },
+  {
+    "name": "addrect",
+    "description": "Lumerical command: addrect",
+    "usage": "addrect();",
+    "category": "general"
+  },
+  {
+    "name": "addresource",
+    "description": "Lumerical command: addresource",
+    "usage": "addresource();",
+    "category": "general"
+  },
+  {
+    "name": "addring",
+    "description": "Lumerical command: addring",
+    "usage": "addring();",
+    "category": "general"
+  },
+  {
+    "name": "addsemiconductorfromalloy",
+    "description": "Lumerical command: addsemiconductorfromalloy",
+    "usage": "addsemiconductorfromalloy();",
+    "category": "general"
+  },
+  {
+    "name": "addsimulationregion",
+    "description": "Lumerical command: addsimulationregion",
+    "usage": "addsimulationregion();",
+    "category": "general"
+  },
+  {
+    "name": "addsphere",
+    "description": "Lumerical command: addsphere",
+    "usage": "addsphere();",
+    "category": "general"
+  },
+  {
+    "name": "addstructuregroup",
+    "description": "Lumerical command: addstructuregroup",
+    "usage": "addstructuregroup();",
+    "category": "general"
+  },
+  {
+    "name": "addsurface",
+    "description": "Lumerical command: addsurface",
+    "usage": "addsurface();",
+    "category": "general"
+  },
+  {
+    "name": "addsurfacerecombinationbc",
+    "description": "Lumerical command: addsurfacerecombinationbc",
+    "usage": "addsurfacerecombinationbc();",
+    "category": "general"
+  },
+  {
+    "name": "addsweep",
+    "description": "Lumerical command: addsweep",
+    "usage": "addsweep();",
+    "category": "general"
+  },
+  {
+    "name": "addsweepparameter",
+    "description": "Lumerical command: addsweepparameter",
+    "usage": "addsweepparameter();",
+    "category": "general"
+  },
+  {
+    "name": "addsweepresult",
+    "description": "Lumerical command: addsweepresult",
+    "usage": "addsweepresult();",
+    "category": "general"
+  },
+  {
+    "name": "addtemperaturebc",
+    "description": "Lumerical command: addtemperaturebc",
+    "usage": "addtemperaturebc();",
+    "category": "general"
+  },
+  {
+    "name": "addtemperaturemonitor",
+    "description": "Lumerical command: addtemperaturemonitor",
+    "usage": "addtemperaturemonitor();",
+    "category": "general"
+  },
+  {
+    "name": "addtfsf",
+    "description": "Lumerical command: addtfsf",
+    "usage": "addtfsf();",
+    "category": "general"
+  },
+  {
+    "name": "addthermalinsulatingbc",
+    "description": "Lumerical command: addthermalinsulatingbc",
+    "usage": "addthermalinsulatingbc();",
+    "category": "general"
+  },
+  {
+    "name": "addthermalpowerbc",
+    "description": "Lumerical command: addthermalpowerbc",
+    "usage": "addthermalpowerbc();",
+    "category": "general"
+  },
+  {
+    "name": "addtime",
+    "description": "Lumerical command: addtime",
+    "usage": "addtime();",
+    "category": "general"
+  },
+  {
+    "name": "addtogroup",
+    "description": "Lumerical command: addtogroup",
+    "usage": "addtogroup();",
+    "category": "general"
+  },
+  {
+    "name": "addtolibrary",
+    "description": "Lumerical command: addtolibrary",
+    "usage": "addtolibrary();",
+    "category": "general"
+  },
+  {
+    "name": "addtriangle",
+    "description": "Lumerical command: addtriangle",
+    "usage": "addtriangle();",
+    "category": "general"
+  },
+  {
+    "name": "adduniformheat",
+    "description": "Lumerical command: adduniformheat",
+    "usage": "adduniformheat();",
+    "category": "general"
+  },
+  {
+    "name": "adduserprop",
+    "description": "Lumerical command: adduserprop",
+    "usage": "adduserprop();",
+    "category": "general"
+  },
+  {
+    "name": "addvarfdtd",
+    "description": "Lumerical command: addvarfdtd",
+    "usage": "addvarfdtd();",
+    "category": "general"
+  },
+  {
+    "name": "addvoltagebc",
+    "description": "Lumerical command: addvoltagebc",
+    "usage": "addvoltagebc();",
+    "category": "general"
+  },
+  {
+    "name": "addwaveguide",
+    "description": "Lumerical command: addwaveguide",
+    "usage": "addwaveguide();",
+    "category": "general"
+  },
+  {
+    "name": "all",
+    "description": "Lumerical command: all",
+    "usage": "all();",
+    "category": "general"
+  },
+  {
+    "name": "almostequal",
+    "description": "Lumerical command: almostequal",
+    "usage": "almostequal();",
+    "category": "general"
+  },
+  {
+    "name": "amax",
+    "description": "Lumerical command: amax",
+    "usage": "amax();",
+    "category": "general"
+  },
+  {
+    "name": "amin",
+    "description": "Lumerical command: amin",
+    "usage": "amin();",
+    "category": "general"
+  },
+  {
+    "name": "analysis",
+    "description": "Lumerical command: analysis",
+    "usage": "analysis();",
+    "category": "general"
+  },
+  {
+    "name": "and",
+    "description": "Lumerical command: and",
+    "usage": "and();",
+    "category": "general"
+  },
+  {
+    "name": "angle",
+    "description": "Lumerical command: angle",
+    "usage": "angle();",
+    "category": "general"
+  },
+  {
+    "name": "annotateproperty",
+    "description": "Lumerical command: annotateproperty",
+    "usage": "annotateproperty();",
+    "category": "general"
+  },
+  {
+    "name": "any",
+    "description": "Lumerical command: any",
+    "usage": "any();",
+    "category": "general"
+  },
+  {
+    "name": "arrayperiodicdata",
+    "description": "Lumerical command: arrayperiodicdata",
+    "usage": "arrayperiodicdata();",
+    "category": "general"
+  },
+  {
+    "name": "asapexport",
+    "description": "Lumerical command: asapexport",
+    "usage": "asapexport();",
+    "category": "general"
+  },
+  {
+    "name": "asapimport",
+    "description": "Lumerical command: asapimport",
+    "usage": "asapimport();",
+    "category": "general"
+  },
+  {
+    "name": "asapload",
+    "description": "Lumerical command: asapload",
+    "usage": "asapload();",
+    "category": "general"
+  },
+  {
+    "name": "asin",
+    "description": "Lumerical command: asin",
+    "usage": "asin();",
+    "category": "general"
+  },
+  {
+    "name": "atan",
+    "description": "Lumerical command: atan",
+    "usage": "atan();",
+    "category": "general"
+  },
+  {
+    "name": "atan2",
+    "description": "Lumerical command: atan2",
+    "usage": "atan2();",
+    "category": "general"
+  },
+  {
+    "name": "autoarrange",
+    "description": "Lumerical command: autoarrange",
+    "usage": "autoarrange();",
+    "category": "general"
+  },
+  {
+    "name": "autosaveoff",
+    "description": "Lumerical command: autosaveoff",
+    "usage": "autosaveoff();",
+    "category": "general"
+  },
+  {
+    "name": "autosaveon",
+    "description": "Lumerical command: autosaveon",
+    "usage": "autosaveon();",
+    "category": "general"
+  },
+  {
+    "name": "bar",
+    "description": "Lumerical command: bar",
+    "usage": "bar();",
+    "category": "general"
+  },
+  {
+    "name": "besseli",
+    "description": "Lumerical command: besseli",
+    "usage": "besseli();",
+    "category": "general"
+  },
+  {
+    "name": "besselj",
+    "description": "Lumerical command: besselj",
+    "usage": "besselj();",
+    "category": "general"
+  },
+  {
+    "name": "besselk",
+    "description": "Lumerical command: besselk",
+    "usage": "besselk();",
+    "category": "general"
+  },
+  {
+    "name": "bessely",
+    "description": "Lumerical command: bessely",
+    "usage": "bessely();",
+    "category": "general"
+  },
+  {
+    "name": "bestoverlap",
+    "description": "Lumerical command: bestoverlap",
+    "usage": "bestoverlap();",
+    "category": "general"
+  },
+  {
+    "name": "bestoverlap2",
+    "description": "Lumerical command: bestoverlap2",
+    "usage": "bestoverlap2();",
+    "category": "general"
+  },
+  {
+    "name": "break",
+    "description": "Lumerical command: break",
+    "usage": "break();",
+    "category": "general"
+  },
+  {
+    "name": "buildmqwmaterial",
+    "description": "Lumerical command: buildmqwmaterial",
+    "usage": "buildmqwmaterial();",
+    "category": "general"
+  },
+  {
+    "name": "cadimport",
+    "description": "Lumerical command: cadimport",
+    "usage": "cadimport();",
+    "category": "general"
+  },
+  {
+    "name": "cd",
+    "description": "Lumerical command: cd",
+    "usage": "cd();",
+    "category": "general"
+  },
+  {
+    "name": "ceil",
+    "description": "Lumerical command: ceil",
+    "usage": "ceil();",
+    "category": "general"
+  },
+  {
+    "name": "cell",
+    "description": "Lumerical command: cell",
+    "usage": "cell();",
+    "category": "general"
+  },
+  {
+    "name": "centroid",
+    "description": "Lumerical command: centroid",
+    "usage": "centroid();",
+    "category": "general"
+  },
+  {
+    "name": "chebin",
+    "description": "Lumerical command: chebin",
+    "usage": "chebin();",
+    "category": "general"
+  },
+  {
+    "name": "chebpol",
+    "description": "Lumerical command: chebpol",
+    "usage": "chebpol();",
+    "category": "general"
+  },
+  {
+    "name": "chebpol1",
+    "description": "Lumerical command: chebpol1",
+    "usage": "chebpol1();",
+    "category": "general"
+  },
+  {
+    "name": "checkout",
+    "description": "Lumerical command: checkout",
+    "usage": "checkout();",
+    "category": "general"
+  },
+  {
+    "name": "chol",
+    "description": "Lumerical command: chol",
+    "usage": "chol();",
+    "category": "general"
+  },
+  {
+    "name": "chpts",
+    "description": "Lumerical command: chpts",
+    "usage": "chpts();",
+    "category": "general"
+  },
+  {
+    "name": "clear",
+    "description": "Lumerical command: clear",
+    "usage": "clear();",
+    "category": "general"
+  },
+  {
+    "name": "clearanalysis",
+    "description": "Lumerical command: clearanalysis",
+    "usage": "clearanalysis();",
+    "category": "general"
+  },
+  {
+    "name": "cleardataset",
+    "description": "Lumerical command: cleardataset",
+    "usage": "cleardataset();",
+    "category": "general"
+  },
+  {
+    "name": "cleardcard",
+    "description": "Lumerical command: cleardcard",
+    "usage": "cleardcard();",
+    "category": "general"
+  },
+  {
+    "name": "clearexcept",
+    "description": "Lumerical command: clearexcept",
+    "usage": "clearexcept();",
+    "category": "general"
+  },
+  {
+    "name": "clearfunctions",
+    "description": "Lumerical command: clearfunctions",
+    "usage": "clearfunctions();",
+    "category": "general"
+  },
+  {
+    "name": "clearjobs",
+    "description": "Lumerical command: clearjobs",
+    "usage": "clearjobs();",
+    "category": "general"
+  },
+  {
+    "name": "clearlogwindow",
+    "description": "Lumerical command: clearlogwindow",
+    "usage": "clearlogwindow();",
+    "category": "general"
+  },
+  {
+    "name": "clearmodedata",
+    "description": "Lumerical command: clearmodedata",
+    "usage": "clearmodedata();",
+    "category": "general"
+  },
+  {
+    "name": "clearpath",
+    "description": "Lumerical command: clearpath",
+    "usage": "clearpath();",
+    "category": "general"
+  },
+  {
+    "name": "clearportmodedata",
+    "description": "Lumerical command: clearportmodedata",
+    "usage": "clearportmodedata();",
+    "category": "general"
+  },
+  {
+    "name": "clearsourcedata",
+    "description": "Lumerical command: clearsourcedata",
+    "usage": "clearsourcedata();",
+    "category": "general"
+  },
+  {
+    "name": "closeall",
+    "description": "Lumerical command: closeall",
+    "usage": "closeall();",
+    "category": "general"
+  },
+  {
+    "name": "closesession",
+    "description": "Lumerical command: closesession",
+    "usage": "closesession();",
+    "category": "general"
+  },
+  {
+    "name": "colormatch",
+    "description": "Lumerical command: colormatch",
+    "usage": "colormatch();",
+    "category": "general"
+  },
+  {
+    "name": "colormatchfunction",
+    "description": "Lumerical command: colormatchfunction",
+    "usage": "colormatchfunction();",
+    "category": "general"
+  },
+  {
+    "name": "colormatchuv",
+    "description": "Lumerical command: colormatchuv",
+    "usage": "colormatchuv();",
+    "category": "general"
+  },
+  {
+    "name": "colormatchxy",
+    "description": "Lumerical command: colormatchxy",
+    "usage": "colormatchxy();",
+    "category": "general"
+  },
+  {
+    "name": "conj",
+    "description": "Lumerical command: conj",
+    "usage": "conj();",
+    "category": "general"
+  },
+  {
+    "name": "connect",
+    "description": "Lumerical command: connect",
+    "usage": "connect();",
+    "category": "general"
+  },
+  {
+    "name": "constructgeneratormatrix",
+    "description": "Lumerical command: constructgeneratormatrix",
+    "usage": "constructgeneratormatrix();",
+    "category": "general"
+  },
+  {
+    "name": "conv2",
+    "description": "Lumerical command: conv2",
+    "usage": "conv2();",
+    "category": "general"
+  },
+  {
+    "name": "convertnportsparametersweep",
+    "description": "Lumerical command: convertnportsparametersweep",
+    "usage": "convertnportsparametersweep();",
+    "category": "general"
+  },
+  {
+    "name": "copy",
+    "description": "Lumerical command: copy",
+    "usage": "copy();",
+    "category": "general"
+  },
+  {
+    "name": "copydcard",
+    "description": "Lumerical command: copydcard",
+    "usage": "copydcard();",
+    "category": "general"
+  },
+  {
+    "name": "copymaterial",
+    "description": "Lumerical command: copymaterial",
+    "usage": "copymaterial();",
+    "category": "general"
+  },
+  {
+    "name": "copysweep",
+    "description": "Lumerical command: copysweep",
+    "usage": "copysweep();",
+    "category": "general"
+  },
+  {
+    "name": "copytoclipboard",
+    "description": "Lumerical command: copytoclipboard",
+    "usage": "copytoclipboard();",
+    "category": "general"
+  },
+  {
+    "name": "corrcoef",
+    "description": "Lumerical command: corrcoef",
+    "usage": "corrcoef();",
+    "category": "general"
+  },
+  {
+    "name": "corrtransf",
+    "description": "Lumerical command: corrtransf",
+    "usage": "corrtransf();",
+    "category": "general"
+  },
+  {
+    "name": "cos",
+    "description": "Lumerical command: cos",
+    "usage": "cos();",
+    "category": "general"
+  },
+  {
+    "name": "coupling",
+    "description": "Lumerical command: coupling",
+    "usage": "coupling();",
+    "category": "general"
+  },
+  {
+    "name": "cov",
+    "description": "Lumerical command: cov",
+    "usage": "cov();",
+    "category": "general"
+  },
+  {
+    "name": "cp",
+    "description": "Lumerical command: cp",
+    "usage": "cp();",
+    "category": "general"
+  },
+  {
+    "name": "createbeam",
+    "description": "Lumerical command: createbeam",
+    "usage": "createbeam();",
+    "category": "general"
+  },
+  {
+    "name": "createcompound",
+    "description": "Lumerical command: createcompound",
+    "usage": "createcompound();",
+    "category": "general"
+  },
+  {
+    "name": "createsphericalsurface",
+    "description": "Lumerical command: createsphericalsurface",
+    "usage": "createsphericalsurface();",
+    "category": "general"
+  },
+  {
+    "name": "cross",
+    "description": "Lumerical command: cross",
+    "usage": "cross();",
+    "category": "general"
+  },
+  {
+    "name": "ctranspose",
+    "description": "Lumerical command: ctranspose",
+    "usage": "ctranspose();",
+    "category": "general"
+  },
+  {
+    "name": "currentfilename",
+    "description": "Lumerical command: currentfilename",
+    "usage": "currentfilename();",
+    "category": "general"
+  },
+  {
+    "name": "currentscriptname",
+    "description": "Lumerical command: currentscriptname",
+    "usage": "currentscriptname();",
+    "category": "general"
+  },
+  {
+    "name": "customlibrary",
+    "description": "Lumerical command: customlibrary",
+    "usage": "customlibrary();",
+    "category": "general"
+  },
+  {
+    "name": "cwnorm",
+    "description": "Lumerical command: cwnorm",
+    "usage": "cwnorm();",
+    "category": "general"
+  },
+  {
+    "name": "czt",
+    "description": "Lumerical command: czt",
+    "usage": "czt();",
+    "category": "general"
+  },
+  {
+    "name": "dcht",
+    "description": "Lumerical command: dcht",
+    "usage": "dcht();",
+    "category": "general"
+  },
+  {
+    "name": "debug",
+    "description": "Lumerical command: debug",
+    "usage": "debug();",
+    "category": "general"
+  },
+  {
+    "name": "del",
+    "description": "Lumerical command: del",
+    "usage": "del();",
+    "category": "general"
+  },
+  {
+    "name": "delete",
+    "description": "Lumerical command: delete",
+    "usage": "delete();",
+    "category": "general"
+  },
+  {
+    "name": "deleteall",
+    "description": "Lumerical command: deleteall",
+    "usage": "deleteall();",
+    "category": "general"
+  },
+  {
+    "name": "deletematerial",
+    "description": "Lumerical command: deletematerial",
+    "usage": "deletematerial();",
+    "category": "general"
+  },
+  {
+    "name": "deleteresource",
+    "description": "Lumerical command: deleteresource",
+    "usage": "deleteresource();",
+    "category": "general"
+  },
+  {
+    "name": "deletesweep",
+    "description": "Lumerical command: deletesweep",
+    "usage": "deletesweep();",
+    "category": "general"
+  },
+  {
+    "name": "designmode",
+    "description": "Lumerical command: designmode",
+    "usage": "designmode();",
+    "category": "general"
+  },
+  {
+    "name": "dipolepower",
+    "description": "Lumerical command: dipolepower",
+    "usage": "dipolepower();",
+    "category": "general"
+  },
+  {
+    "name": "dir",
+    "description": "Lumerical command: dir",
+    "usage": "dir();",
+    "category": "general"
+  },
+  {
+    "name": "disabledesignkit",
+    "description": "Lumerical command: disabledesignkit",
+    "usage": "disabledesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "disconnect",
+    "description": "Lumerical command: disconnect",
+    "usage": "disconnect();",
+    "category": "general"
+  },
+  {
+    "name": "dot",
+    "description": "Lumerical command: dot",
+    "usage": "dot();",
+    "category": "general"
+  },
+  {
+    "name": "eig",
+    "description": "Lumerical command: eig",
+    "usage": "eig();",
+    "category": "general"
+  },
+  {
+    "name": "emepropagate",
+    "description": "Lumerical command: emepropagate",
+    "usage": "emepropagate();",
+    "category": "general"
+  },
+  {
+    "name": "emesweep",
+    "description": "Lumerical command: emesweep",
+    "usage": "emesweep();",
+    "category": "general"
+  },
+  {
+    "name": "enabledesignkit",
+    "description": "Lumerical command: enabledesignkit",
+    "usage": "enabledesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "encryptscript",
+    "description": "Lumerical command: encryptscript",
+    "usage": "encryptscript();",
+    "category": "general"
+  },
+  {
+    "name": "end",
+    "description": "Lumerical command: end",
+    "usage": "end();",
+    "category": "general"
+  },
+  {
+    "name": "endl",
+    "description": "Lumerical command: endl",
+    "usage": "endl();",
+    "category": "general"
+  },
+  {
+    "name": "erf",
+    "description": "Lumerical command: erf",
+    "usage": "erf();",
+    "category": "general"
+  },
+  {
+    "name": "erfc",
+    "description": "Lumerical command: erfc",
+    "usage": "erfc();",
+    "category": "general"
+  },
+  {
+    "name": "erfcinv",
+    "description": "Lumerical command: erfcinv",
+    "usage": "erfcinv();",
+    "category": "general"
+  },
+  {
+    "name": "erfinv",
+    "description": "Lumerical command: erfinv",
+    "usage": "erfinv();",
+    "category": "general"
+  },
+  {
+    "name": "eval",
+    "description": "Lumerical command: eval",
+    "usage": "eval();",
+    "category": "general"
+  },
+  {
+    "name": "evalremote",
+    "description": "Lumerical command: evalremote",
+    "usage": "evalremote();",
+    "category": "general"
+  },
+  {
+    "name": "exist",
+    "description": "Lumerical command: exist",
+    "usage": "exist();",
+    "category": "general"
+  },
+  {
+    "name": "exit",
+    "description": "Lumerical command: exit",
+    "usage": "exit();",
+    "category": "general"
+  },
+  {
+    "name": "exp",
+    "description": "Lumerical command: exp",
+    "usage": "exp();",
+    "category": "general"
+  },
+  {
+    "name": "expand",
+    "description": "Lumerical command: expand",
+    "usage": "expand();",
+    "category": "general"
+  },
+  {
+    "name": "expand2",
+    "description": "Lumerical command: expand2",
+    "usage": "expand2();",
+    "category": "general"
+  },
+  {
+    "name": "exportcsvresults",
+    "description": "Lumerical command: exportcsvresults",
+    "usage": "exportcsvresults();",
+    "category": "general"
+  },
+  {
+    "name": "exportfigure",
+    "description": "Lumerical command: exportfigure",
+    "usage": "exportfigure();",
+    "category": "general"
+  },
+  {
+    "name": "exporthtml",
+    "description": "Lumerical command: exporthtml",
+    "usage": "exporthtml();",
+    "category": "general"
+  },
+  {
+    "name": "exportimage",
+    "description": "Lumerical command: exportimage",
+    "usage": "exportimage();",
+    "category": "general"
+  },
+  {
+    "name": "exportlib",
+    "description": "Lumerical command: exportlib",
+    "usage": "exportlib();",
+    "category": "general"
+  },
+  {
+    "name": "exportnetlist",
+    "description": "Lumerical command: exportnetlist",
+    "usage": "exportnetlist();",
+    "category": "general"
+  },
+  {
+    "name": "exportsweep",
+    "description": "Lumerical command: exportsweep",
+    "usage": "exportsweep();",
+    "category": "general"
+  },
+  {
+    "name": "exportview",
+    "description": "Lumerical command: exportview",
+    "usage": "exportview();",
+    "category": "general"
+  },
+  {
+    "name": "extractstructure",
+    "description": "Lumerical command: extractstructure",
+    "usage": "extractstructure();",
+    "category": "general"
+  },
+  {
+    "name": "eye",
+    "description": "Lumerical command: eye",
+    "usage": "eye();",
+    "category": "general"
+  },
+  {
+    "name": "farfield2d",
+    "description": "Lumerical command: farfield2d",
+    "usage": "farfield2d();",
+    "category": "general"
+  },
+  {
+    "name": "farfield2dintegrate",
+    "description": "Lumerical command: farfield2dintegrate",
+    "usage": "farfield2dintegrate();",
+    "category": "general"
+  },
+  {
+    "name": "farfield3d",
+    "description": "Lumerical command: farfield3d",
+    "usage": "farfield3d();",
+    "category": "general"
+  },
+  {
+    "name": "farfield3dintegrate",
+    "description": "Lumerical command: farfield3dintegrate",
+    "usage": "farfield3dintegrate();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldangle",
+    "description": "Lumerical command: farfieldangle",
+    "usage": "farfieldangle();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldexact",
+    "description": "Lumerical command: farfieldexact",
+    "usage": "farfieldexact();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldexact2d",
+    "description": "Lumerical command: farfieldexact2d",
+    "usage": "farfieldexact2d();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldexact3d",
+    "description": "Lumerical command: farfieldexact3d",
+    "usage": "farfieldexact3d();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldfilter",
+    "description": "Lumerical command: farfieldfilter",
+    "usage": "farfieldfilter();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldpolar2d",
+    "description": "Lumerical command: farfieldpolar2d",
+    "usage": "farfieldpolar2d();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldpolar3d",
+    "description": "Lumerical command: farfieldpolar3d",
+    "usage": "farfieldpolar3d();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldsettings",
+    "description": "Lumerical command: farfieldsettings",
+    "usage": "farfieldsettings();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldspherical",
+    "description": "Lumerical command: farfieldspherical",
+    "usage": "farfieldspherical();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldux",
+    "description": "Lumerical command: farfieldux",
+    "usage": "farfieldux();",
+    "category": "general"
+  },
+  {
+    "name": "farfielduy",
+    "description": "Lumerical command: farfielduy",
+    "usage": "farfielduy();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldvector2d",
+    "description": "Lumerical command: farfieldvector2d",
+    "usage": "farfieldvector2d();",
+    "category": "general"
+  },
+  {
+    "name": "farfieldvector3d",
+    "description": "Lumerical command: farfieldvector3d",
+    "usage": "farfieldvector3d();",
+    "category": "general"
+  },
+  {
+    "name": "feval",
+    "description": "Lumerical command: feval",
+    "usage": "feval();",
+    "category": "general"
+  },
+  {
+    "name": "fft",
+    "description": "Lumerical command: fft",
+    "usage": "fft();",
+    "category": "general"
+  },
+  {
+    "name": "fftk",
+    "description": "Lumerical command: fftk",
+    "usage": "fftk();",
+    "category": "general"
+  },
+  {
+    "name": "fftw",
+    "description": "Lumerical command: fftw",
+    "usage": "fftw();",
+    "category": "general"
+  },
+  {
+    "name": "filebasename",
+    "description": "Lumerical command: filebasename",
+    "usage": "filebasename();",
+    "category": "general"
+  },
+  {
+    "name": "filedirectory",
+    "description": "Lumerical command: filedirectory",
+    "usage": "filedirectory();",
+    "category": "general"
+  },
+  {
+    "name": "fileexists",
+    "description": "Lumerical command: fileexists",
+    "usage": "fileexists();",
+    "category": "general"
+  },
+  {
+    "name": "fileexpand",
+    "description": "Lumerical command: fileexpand",
+    "usage": "fileexpand();",
+    "category": "general"
+  },
+  {
+    "name": "fileextension",
+    "description": "Lumerical command: fileextension",
+    "usage": "fileextension();",
+    "category": "general"
+  },
+  {
+    "name": "fileopendialog",
+    "description": "Lumerical command: fileopendialog",
+    "usage": "fileopendialog();",
+    "category": "general"
+  },
+  {
+    "name": "filesavedialog",
+    "description": "Lumerical command: filesavedialog",
+    "usage": "filesavedialog();",
+    "category": "general"
+  },
+  {
+    "name": "find",
+    "description": "Lumerical command: find",
+    "usage": "find();",
+    "category": "general"
+  },
+  {
+    "name": "findmodes",
+    "description": "Lumerical command: findmodes",
+    "usage": "findmodes();",
+    "category": "general"
+  },
+  {
+    "name": "findpeaks",
+    "description": "Lumerical command: findpeaks",
+    "usage": "findpeaks();",
+    "category": "general"
+  },
+  {
+    "name": "findproperty",
+    "description": "Lumerical command: findproperty",
+    "usage": "findproperty();",
+    "category": "general"
+  },
+  {
+    "name": "findpropertyvalue",
+    "description": "Lumerical command: findpropertyvalue",
+    "usage": "findpropertyvalue();",
+    "category": "general"
+  },
+  {
+    "name": "findresonances",
+    "description": "Lumerical command: findresonances",
+    "usage": "findresonances();",
+    "category": "general"
+  },
+  {
+    "name": "findstring",
+    "description": "Lumerical command: findstring",
+    "usage": "findstring();",
+    "category": "general"
+  },
+  {
+    "name": "finite",
+    "description": "Lumerical command: finite",
+    "usage": "finite();",
+    "category": "general"
+  },
+  {
+    "name": "fitnormpdf",
+    "description": "Lumerical command: fitnormpdf",
+    "usage": "fitnormpdf();",
+    "category": "general"
+  },
+  {
+    "name": "fitpearson4pdf",
+    "description": "Lumerical command: fitpearson4pdf",
+    "usage": "fitpearson4pdf();",
+    "category": "general"
+  },
+  {
+    "name": "flip",
+    "description": "Lumerical command: flip",
+    "usage": "flip();",
+    "category": "general"
+  },
+  {
+    "name": "flipelement",
+    "description": "Lumerical command: flipelement",
+    "usage": "flipelement();",
+    "category": "general"
+  },
+  {
+    "name": "floor",
+    "description": "Lumerical command: floor",
+    "usage": "floor();",
+    "category": "general"
+  },
+  {
+    "name": "for",
+    "description": "Lumerical command: for",
+    "usage": "for();",
+    "category": "general"
+  },
+  {
+    "name": "framerate",
+    "description": "Lumerical command: framerate",
+    "usage": "framerate();",
+    "category": "general"
+  },
+  {
+    "name": "frequencysweep",
+    "description": "Lumerical command: frequencysweep",
+    "usage": "frequencysweep();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddcircle",
+    "description": "Lumerical command: gdsaddcircle",
+    "usage": "gdsaddcircle();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddpath",
+    "description": "Lumerical command: gdsaddpath",
+    "usage": "gdsaddpath();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddpoly",
+    "description": "Lumerical command: gdsaddpoly",
+    "usage": "gdsaddpoly();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddrect",
+    "description": "Lumerical command: gdsaddrect",
+    "usage": "gdsaddrect();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddref",
+    "description": "Lumerical command: gdsaddref",
+    "usage": "gdsaddref();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddstencil",
+    "description": "Lumerical command: gdsaddstencil",
+    "usage": "gdsaddstencil();",
+    "category": "general"
+  },
+  {
+    "name": "gdsaddtext",
+    "description": "Lumerical command: gdsaddtext",
+    "usage": "gdsaddtext();",
+    "category": "general"
+  },
+  {
+    "name": "gdsbegincell",
+    "description": "Lumerical command: gdsbegincell",
+    "usage": "gdsbegincell();",
+    "category": "general"
+  },
+  {
+    "name": "gdsclose",
+    "description": "Lumerical command: gdsclose",
+    "usage": "gdsclose();",
+    "category": "general"
+  },
+  {
+    "name": "gdsendcell",
+    "description": "Lumerical command: gdsendcell",
+    "usage": "gdsendcell();",
+    "category": "general"
+  },
+  {
+    "name": "gdsimport",
+    "description": "Lumerical command: gdsimport",
+    "usage": "gdsimport();",
+    "category": "general"
+  },
+  {
+    "name": "gdsopen",
+    "description": "Lumerical command: gdsopen",
+    "usage": "gdsopen();",
+    "category": "general"
+  },
+  {
+    "name": "get",
+    "description": "Lumerical command: get",
+    "usage": "get();",
+    "category": "general"
+  },
+  {
+    "name": "getactivesolver",
+    "description": "Lumerical command: getactivesolver",
+    "usage": "getactivesolver();",
+    "category": "general"
+  },
+  {
+    "name": "getanalysis",
+    "description": "Lumerical command: getanalysis",
+    "usage": "getanalysis();",
+    "category": "general"
+  },
+  {
+    "name": "getattribute",
+    "description": "Lumerical command: getattribute",
+    "usage": "getattribute();",
+    "category": "general"
+  },
+  {
+    "name": "getcelllist",
+    "description": "Lumerical command: getcelllist",
+    "usage": "getcelllist();",
+    "category": "general"
+  },
+  {
+    "name": "getcommands",
+    "description": "Lumerical command: getcommands",
+    "usage": "getcommands();",
+    "category": "general"
+  },
+  {
+    "name": "getdata",
+    "description": "Lumerical command: getdata",
+    "usage": "getdata();",
+    "category": "general"
+  },
+  {
+    "name": "getdevice",
+    "description": "Lumerical command: getdevice",
+    "usage": "getdevice();",
+    "category": "general"
+  },
+  {
+    "name": "getdgtdindex",
+    "description": "Lumerical command: getdgtdindex",
+    "usage": "getdgtdindex();",
+    "category": "general"
+  },
+  {
+    "name": "geteigensolver",
+    "description": "Lumerical command: geteigensolver",
+    "usage": "geteigensolver();",
+    "category": "general"
+  },
+  {
+    "name": "getelectric",
+    "description": "Lumerical command: getelectric",
+    "usage": "getelectric();",
+    "category": "general"
+  },
+  {
+    "name": "getemeanalysis",
+    "description": "Lumerical command: getemeanalysis",
+    "usage": "getemeanalysis();",
+    "category": "general"
+  },
+  {
+    "name": "getemesweep",
+    "description": "Lumerical command: getemesweep",
+    "usage": "getemesweep();",
+    "category": "general"
+  },
+  {
+    "name": "getfdtdindex",
+    "description": "Lumerical command: getfdtdindex",
+    "usage": "getfdtdindex();",
+    "category": "general"
+  },
+  {
+    "name": "getfdtdsurfaceconductivity",
+    "description": "Lumerical command: getfdtdsurfaceconductivity",
+    "usage": "getfdtdsurfaceconductivity();",
+    "category": "general"
+  },
+  {
+    "name": "getfield",
+    "description": "Lumerical command: getfield",
+    "usage": "getfield();",
+    "category": "general"
+  },
+  {
+    "name": "getglobalmonitor",
+    "description": "Lumerical command: getglobalmonitor",
+    "usage": "getglobalmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "getglobalsource",
+    "description": "Lumerical command: getglobalsource",
+    "usage": "getglobalsource();",
+    "category": "general"
+  },
+  {
+    "name": "getindex",
+    "description": "Lumerical command: getindex",
+    "usage": "getindex();",
+    "category": "general"
+  },
+  {
+    "name": "getlayerlist",
+    "description": "Lumerical command: getlayerlist",
+    "usage": "getlayerlist();",
+    "category": "general"
+  },
+  {
+    "name": "getlicenseestimate",
+    "description": "Lumerical command: getlicenseestimate",
+    "usage": "getlicenseestimate();",
+    "category": "general"
+  },
+  {
+    "name": "getlicenseestimateallactiveresources",
+    "description": "Lumerical command: getlicenseestimateallactiveresources",
+    "usage": "getlicenseestimateallactiveresources();",
+    "category": "general"
+  },
+  {
+    "name": "getmagnetic",
+    "description": "Lumerical command: getmagnetic",
+    "usage": "getmagnetic();",
+    "category": "general"
+  },
+  {
+    "name": "getmaterial",
+    "description": "Lumerical command: getmaterial",
+    "usage": "getmaterial();",
+    "category": "general"
+  },
+  {
+    "name": "getmeshcontours",
+    "description": "Lumerical command: getmeshcontours",
+    "usage": "getmeshcontours();",
+    "category": "general"
+  },
+  {
+    "name": "getmodeindex",
+    "description": "Lumerical command: getmodeindex",
+    "usage": "getmodeindex();",
+    "category": "general"
+  },
+  {
+    "name": "getname",
+    "description": "Lumerical command: getname",
+    "usage": "getname();",
+    "category": "general"
+  },
+  {
+    "name": "getnamed",
+    "description": "Lumerical command: getnamed",
+    "usage": "getnamed();",
+    "category": "general"
+  },
+  {
+    "name": "getnamednumber",
+    "description": "Lumerical command: getnamednumber",
+    "usage": "getnamednumber();",
+    "category": "general"
+  },
+  {
+    "name": "getnumber",
+    "description": "Lumerical command: getnumber",
+    "usage": "getnumber();",
+    "category": "general"
+  },
+  {
+    "name": "getnumericalpermittivity",
+    "description": "Lumerical command: getnumericalpermittivity",
+    "usage": "getnumericalpermittivity();",
+    "category": "general"
+  },
+  {
+    "name": "getparameter",
+    "description": "Lumerical command: getparameter",
+    "usage": "getparameter();",
+    "category": "general"
+  },
+  {
+    "name": "getpath",
+    "description": "Lumerical command: getpath",
+    "usage": "getpath();",
+    "category": "general"
+  },
+  {
+    "name": "getperiodicity",
+    "description": "Lumerical command: getperiodicity",
+    "usage": "getperiodicity();",
+    "category": "general"
+  },
+  {
+    "name": "getports",
+    "description": "Lumerical command: getports",
+    "usage": "getports();",
+    "category": "general"
+  },
+  {
+    "name": "getposition",
+    "description": "Lumerical command: getposition",
+    "usage": "getposition();",
+    "category": "general"
+  },
+  {
+    "name": "getrectangle",
+    "description": "Lumerical command: getrectangle",
+    "usage": "getrectangle();",
+    "category": "general"
+  },
+  {
+    "name": "getremotedata",
+    "description": "Lumerical command: getremotedata",
+    "usage": "getremotedata();",
+    "category": "general"
+  },
+  {
+    "name": "getresource",
+    "description": "Lumerical command: getresource",
+    "usage": "getresource();",
+    "category": "general"
+  },
+  {
+    "name": "getresult",
+    "description": "Lumerical command: getresult",
+    "usage": "getresult();",
+    "category": "general"
+  },
+  {
+    "name": "getresultdata",
+    "description": "Lumerical command: getresultdata",
+    "usage": "getresultdata();",
+    "category": "general"
+  },
+  {
+    "name": "getsetting",
+    "description": "Lumerical command: getsetting",
+    "usage": "getsetting();",
+    "category": "general"
+  },
+  {
+    "name": "getsolver",
+    "description": "Lumerical command: getsolver",
+    "usage": "getsolver();",
+    "category": "general"
+  },
+  {
+    "name": "getsourceangle",
+    "description": "Lumerical command: getsourceangle",
+    "usage": "getsourceangle();",
+    "category": "general"
+  },
+  {
+    "name": "getsourcedirection",
+    "description": "Lumerical command: getsourcedirection",
+    "usage": "getsourcedirection();",
+    "category": "general"
+  },
+  {
+    "name": "getsurfaceconductivity",
+    "description": "Lumerical command: getsurfaceconductivity",
+    "usage": "getsurfaceconductivity();",
+    "category": "general"
+  },
+  {
+    "name": "getsweep",
+    "description": "Lumerical command: getsweep",
+    "usage": "getsweep();",
+    "category": "general"
+  },
+  {
+    "name": "getsweepdata",
+    "description": "Lumerical command: getsweepdata",
+    "usage": "getsweepdata();",
+    "category": "general"
+  },
+  {
+    "name": "getsweepresult",
+    "description": "Lumerical command: getsweepresult",
+    "usage": "getsweepresult();",
+    "category": "general"
+  },
+  {
+    "name": "getvalue",
+    "description": "Lumerical command: getvalue",
+    "usage": "getvalue();",
+    "category": "general"
+  },
+  {
+    "name": "getvariable",
+    "description": "Lumerical command: getvariable",
+    "usage": "getvariable();",
+    "category": "general"
+  },
+  {
+    "name": "getview",
+    "description": "Lumerical command: getview",
+    "usage": "getview();",
+    "category": "general"
+  },
+  {
+    "name": "gpuspecs",
+    "description": "Lumerical command: gpuspecs",
+    "usage": "gpuspecs();",
+    "category": "general"
+  },
+  {
+    "name": "grating",
+    "description": "Lumerical command: grating",
+    "usage": "grating();",
+    "category": "general"
+  },
+  {
+    "name": "gratingangle",
+    "description": "Lumerical command: gratingangle",
+    "usage": "gratingangle();",
+    "category": "general"
+  },
+  {
+    "name": "gratingbloch1",
+    "description": "Lumerical command: gratingbloch1",
+    "usage": "gratingbloch1();",
+    "category": "general"
+  },
+  {
+    "name": "gratingbloch2",
+    "description": "Lumerical command: gratingbloch2",
+    "usage": "gratingbloch2();",
+    "category": "general"
+  },
+  {
+    "name": "gratingm",
+    "description": "Lumerical command: gratingm",
+    "usage": "gratingm();",
+    "category": "general"
+  },
+  {
+    "name": "gratingn",
+    "description": "Lumerical command: gratingn",
+    "usage": "gratingn();",
+    "category": "general"
+  },
+  {
+    "name": "gratingordercount",
+    "description": "Lumerical command: gratingordercount",
+    "usage": "gratingordercount();",
+    "category": "general"
+  },
+  {
+    "name": "gratingorders",
+    "description": "Lumerical command: gratingorders",
+    "usage": "gratingorders();",
+    "category": "general"
+  },
+  {
+    "name": "gratingperiod1",
+    "description": "Lumerical command: gratingperiod1",
+    "usage": "gratingperiod1();",
+    "category": "general"
+  },
+  {
+    "name": "gratingperiod2",
+    "description": "Lumerical command: gratingperiod2",
+    "usage": "gratingperiod2();",
+    "category": "general"
+  },
+  {
+    "name": "gratingpolar",
+    "description": "Lumerical command: gratingpolar",
+    "usage": "gratingpolar();",
+    "category": "general"
+  },
+  {
+    "name": "gratingprojection",
+    "description": "Lumerical command: gratingprojection",
+    "usage": "gratingprojection();",
+    "category": "general"
+  },
+  {
+    "name": "gratingu1",
+    "description": "Lumerical command: gratingu1",
+    "usage": "gratingu1();",
+    "category": "general"
+  },
+  {
+    "name": "gratingu2",
+    "description": "Lumerical command: gratingu2",
+    "usage": "gratingu2();",
+    "category": "general"
+  },
+  {
+    "name": "gratingvector",
+    "description": "Lumerical command: gratingvector",
+    "usage": "gratingvector();",
+    "category": "general"
+  },
+  {
+    "name": "groupscope",
+    "description": "Lumerical command: groupscope",
+    "usage": "groupscope();",
+    "category": "general"
+  },
+  {
+    "name": "h5info",
+    "description": "Lumerical command: h5info",
+    "usage": "h5info();",
+    "category": "general"
+  },
+  {
+    "name": "h5read",
+    "description": "Lumerical command: h5read",
+    "usage": "h5read();",
+    "category": "general"
+  },
+  {
+    "name": "h5readattr",
+    "description": "Lumerical command: h5readattr",
+    "usage": "h5readattr();",
+    "category": "general"
+  },
+  {
+    "name": "h5writeattr",
+    "description": "Lumerical command: h5writeattr",
+    "usage": "h5writeattr();",
+    "category": "general"
+  },
+  {
+    "name": "havedata",
+    "description": "Lumerical command: havedata",
+    "usage": "havedata();",
+    "category": "general"
+  },
+  {
+    "name": "haveproperty",
+    "description": "Lumerical command: haveproperty",
+    "usage": "haveproperty();",
+    "category": "general"
+  },
+  {
+    "name": "haveresult",
+    "description": "Lumerical command: haveresult",
+    "usage": "haveresult();",
+    "category": "general"
+  },
+  {
+    "name": "havesweepdata",
+    "description": "Lumerical command: havesweepdata",
+    "usage": "havesweepdata();",
+    "category": "general"
+  },
+  {
+    "name": "havesweepresult",
+    "description": "Lumerical command: havesweepresult",
+    "usage": "havesweepresult();",
+    "category": "general"
+  },
+  {
+    "name": "help",
+    "description": "Lumerical command: help",
+    "usage": "help();",
+    "category": "general"
+  },
+  {
+    "name": "hide",
+    "description": "Lumerical command: hide",
+    "usage": "hide();",
+    "category": "general"
+  },
+  {
+    "name": "hidecategory",
+    "description": "Lumerical command: hidecategory",
+    "usage": "hidecategory();",
+    "category": "general"
+  },
+  {
+    "name": "hideproperty",
+    "description": "Lumerical command: hideproperty",
+    "usage": "hideproperty();",
+    "category": "general"
+  },
+  {
+    "name": "histc",
+    "description": "Lumerical command: histc",
+    "usage": "histc();",
+    "category": "general"
+  },
+  {
+    "name": "histogram",
+    "description": "Lumerical command: histogram",
+    "usage": "histogram();",
+    "category": "general"
+  },
+  {
+    "name": "historyoff",
+    "description": "Lumerical command: historyoff",
+    "usage": "historyoff();",
+    "category": "general"
+  },
+  {
+    "name": "historyon",
+    "description": "Lumerical command: historyon",
+    "usage": "historyon();",
+    "category": "general"
+  },
+  {
+    "name": "holdoff",
+    "description": "Lumerical command: holdoff",
+    "usage": "holdoff();",
+    "category": "general"
+  },
+  {
+    "name": "holdon",
+    "description": "Lumerical command: holdon",
+    "usage": "holdon();",
+    "category": "general"
+  },
+  {
+    "name": "icht",
+    "description": "Lumerical command: icht",
+    "usage": "icht();",
+    "category": "general"
+  },
+  {
+    "name": "if",
+    "description": "Lumerical command: if",
+    "usage": "if();",
+    "category": "general"
+  },
+  {
+    "name": "imag",
+    "description": "Lumerical command: imag",
+    "usage": "imag();",
+    "category": "general"
+  },
+  {
+    "name": "image",
+    "description": "Lumerical command: image",
+    "usage": "image();",
+    "category": "general"
+  },
+  {
+    "name": "implantkurtosis",
+    "description": "Lumerical command: implantkurtosis",
+    "usage": "implantkurtosis();",
+    "category": "general"
+  },
+  {
+    "name": "implantlateralscatter",
+    "description": "Lumerical command: implantlateralscatter",
+    "usage": "implantlateralscatter();",
+    "category": "general"
+  },
+  {
+    "name": "implantrange",
+    "description": "Lumerical command: implantrange",
+    "usage": "implantrange();",
+    "category": "general"
+  },
+  {
+    "name": "implantskewness",
+    "description": "Lumerical command: implantskewness",
+    "usage": "implantskewness();",
+    "category": "general"
+  },
+  {
+    "name": "implantstraggle",
+    "description": "Lumerical command: implantstraggle",
+    "usage": "implantstraggle();",
+    "category": "general"
+  },
+  {
+    "name": "importbinary",
+    "description": "Lumerical command: importbinary",
+    "usage": "importbinary();",
+    "category": "general"
+  },
+  {
+    "name": "importbinary2",
+    "description": "Lumerical command: importbinary2",
+    "usage": "importbinary2();",
+    "category": "general"
+  },
+  {
+    "name": "importbinaryobfuscated",
+    "description": "Lumerical command: importbinaryobfuscated",
+    "usage": "importbinaryobfuscated();",
+    "category": "general"
+  },
+  {
+    "name": "importcsvlc",
+    "description": "Lumerical command: importcsvlc",
+    "usage": "importcsvlc();",
+    "category": "general"
+  },
+  {
+    "name": "importdataset",
+    "description": "Lumerical command: importdataset",
+    "usage": "importdataset();",
+    "category": "general"
+  },
+  {
+    "name": "importnetlist",
+    "description": "Lumerical command: importnetlist",
+    "usage": "importnetlist();",
+    "category": "general"
+  },
+  {
+    "name": "importnk",
+    "description": "Lumerical command: importnk",
+    "usage": "importnk();",
+    "category": "general"
+  },
+  {
+    "name": "importnk2",
+    "description": "Lumerical command: importnk2",
+    "usage": "importnk2();",
+    "category": "general"
+  },
+  {
+    "name": "importnkobfuscated",
+    "description": "Lumerical command: importnkobfuscated",
+    "usage": "importnkobfuscated();",
+    "category": "general"
+  },
+  {
+    "name": "importsurface",
+    "description": "Lumerical command: importsurface",
+    "usage": "importsurface();",
+    "category": "general"
+  },
+  {
+    "name": "importsurface2",
+    "description": "Lumerical command: importsurface2",
+    "usage": "importsurface2();",
+    "category": "general"
+  },
+  {
+    "name": "inpoly",
+    "description": "Lumerical command: inpoly",
+    "usage": "inpoly();",
+    "category": "general"
+  },
+  {
+    "name": "insert",
+    "description": "Lumerical command: insert",
+    "usage": "insert();",
+    "category": "general"
+  },
+  {
+    "name": "insertsweep",
+    "description": "Lumerical command: insertsweep",
+    "usage": "insertsweep();",
+    "category": "general"
+  },
+  {
+    "name": "installdesignkit",
+    "description": "Lumerical command: installdesignkit",
+    "usage": "installdesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "integrate",
+    "description": "Lumerical command: integrate",
+    "usage": "integrate();",
+    "category": "general"
+  },
+  {
+    "name": "integrate2",
+    "description": "Lumerical command: integrate2",
+    "usage": "integrate2();",
+    "category": "general"
+  },
+  {
+    "name": "interp",
+    "description": "Lumerical command: interp",
+    "usage": "interp();",
+    "category": "general"
+  },
+  {
+    "name": "interptet",
+    "description": "Lumerical command: interptet",
+    "usage": "interptet();",
+    "category": "general"
+  },
+  {
+    "name": "interptri",
+    "description": "Lumerical command: interptri",
+    "usage": "interptri();",
+    "category": "general"
+  },
+  {
+    "name": "inv",
+    "description": "Lumerical command: inv",
+    "usage": "inv();",
+    "category": "general"
+  },
+  {
+    "name": "invfft",
+    "description": "Lumerical command: invfft",
+    "usage": "invfft();",
+    "category": "general"
+  },
+  {
+    "name": "iscell",
+    "description": "Lumerical command: iscell",
+    "usage": "iscell();",
+    "category": "general"
+  },
+  {
+    "name": "isfield",
+    "description": "Lumerical command: isfield",
+    "usage": "isfield();",
+    "category": "general"
+  },
+  {
+    "name": "islicensestandard",
+    "description": "Lumerical command: islicensestandard",
+    "usage": "islicensestandard();",
+    "category": "general"
+  },
+  {
+    "name": "ispropertyactive",
+    "description": "Lumerical command: ispropertyactive",
+    "usage": "ispropertyactive();",
+    "category": "general"
+  },
+  {
+    "name": "isstruct",
+    "description": "Lumerical command: isstruct",
+    "usage": "isstruct();",
+    "category": "general"
+  },
+  {
+    "name": "issweep",
+    "description": "Lumerical command: issweep",
+    "usage": "issweep();",
+    "category": "general"
+  },
+  {
+    "name": "jsonload",
+    "description": "Lumerical command: jsonload",
+    "usage": "jsonload();",
+    "category": "general"
+  },
+  {
+    "name": "jsonsave",
+    "description": "Lumerical command: jsonsave",
+    "usage": "jsonsave();",
+    "category": "general"
+  },
+  {
+    "name": "killwizard",
+    "description": "Lumerical command: killwizard",
+    "usage": "killwizard();",
+    "category": "general"
+  },
+  {
+    "name": "layoutmode",
+    "description": "Lumerical command: layoutmode",
+    "usage": "layoutmode();",
+    "category": "general"
+  },
+  {
+    "name": "legend",
+    "description": "Lumerical command: legend",
+    "usage": "legend();",
+    "category": "general"
+  },
+  {
+    "name": "length",
+    "description": "Lumerical command: length",
+    "usage": "length();",
+    "category": "general"
+  },
+  {
+    "name": "library",
+    "description": "Lumerical command: library",
+    "usage": "library();",
+    "category": "general"
+  },
+  {
+    "name": "linecross",
+    "description": "Lumerical command: linecross",
+    "usage": "linecross();",
+    "category": "general"
+  },
+  {
+    "name": "lineintersect",
+    "description": "Lumerical command: lineintersect",
+    "usage": "lineintersect();",
+    "category": "general"
+  },
+  {
+    "name": "linspace",
+    "description": "Lumerical command: linspace",
+    "usage": "linspace();",
+    "category": "general"
+  },
+  {
+    "name": "listjobs",
+    "description": "Lumerical command: listjobs",
+    "usage": "listjobs();",
+    "category": "general"
+  },
+  {
+    "name": "load",
+    "description": "Lumerical command: load",
+    "usage": "load();",
+    "category": "general"
+  },
+  {
+    "name": "loadcustom",
+    "description": "Lumerical command: loadcustom",
+    "usage": "loadcustom();",
+    "category": "general"
+  },
+  {
+    "name": "loaddata",
+    "description": "Lumerical command: loaddata",
+    "usage": "loaddata();",
+    "category": "general"
+  },
+  {
+    "name": "loaddesignkit",
+    "description": "Lumerical command: loaddesignkit",
+    "usage": "loaddesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "loadelement",
+    "description": "Lumerical command: loadelement",
+    "usage": "loadelement();",
+    "category": "general"
+  },
+  {
+    "name": "loadgdsfile",
+    "description": "Lumerical command: loadgdsfile",
+    "usage": "loadgdsfile();",
+    "category": "general"
+  },
+  {
+    "name": "loadsweep",
+    "description": "Lumerical command: loadsweep",
+    "usage": "loadsweep();",
+    "category": "general"
+  },
+  {
+    "name": "log",
+    "description": "Lumerical command: log",
+    "usage": "log();",
+    "category": "general"
+  },
+  {
+    "name": "log10",
+    "description": "Lumerical command: log10",
+    "usage": "log10();",
+    "category": "general"
+  },
+  {
+    "name": "logmessage",
+    "description": "Lumerical command: logmessage",
+    "usage": "logmessage();",
+    "category": "general"
+  },
+  {
+    "name": "lognrnd",
+    "description": "Lumerical command: lognrnd",
+    "usage": "lognrnd();",
+    "category": "general"
+  },
+  {
+    "name": "lookupappend",
+    "description": "Lumerical command: lookupappend",
+    "usage": "lookupappend();",
+    "category": "general"
+  },
+  {
+    "name": "lookupclose",
+    "description": "Lumerical command: lookupclose",
+    "usage": "lookupclose();",
+    "category": "general"
+  },
+  {
+    "name": "lookupopen",
+    "description": "Lumerical command: lookupopen",
+    "usage": "lookupopen();",
+    "category": "general"
+  },
+  {
+    "name": "lookupread",
+    "description": "Lumerical command: lookupread",
+    "usage": "lookupread();",
+    "category": "general"
+  },
+  {
+    "name": "lookupreadnportsparameter",
+    "description": "Lumerical command: lookupreadnportsparameter",
+    "usage": "lookupreadnportsparameter();",
+    "category": "general"
+  },
+  {
+    "name": "lookupreadtable",
+    "description": "Lumerical command: lookupreadtable",
+    "usage": "lookupreadtable();",
+    "category": "general"
+  },
+  {
+    "name": "lookupreadvalue",
+    "description": "Lumerical command: lookupreadvalue",
+    "usage": "lookupreadvalue();",
+    "category": "general"
+  },
+  {
+    "name": "lookupwrite",
+    "description": "Lumerical command: lookupwrite",
+    "usage": "lookupwrite();",
+    "category": "general"
+  },
+  {
+    "name": "lower",
+    "description": "Lumerical command: lower",
+    "usage": "lower();",
+    "category": "general"
+  },
+  {
+    "name": "ls",
+    "description": "Lumerical command: ls",
+    "usage": "ls();",
+    "category": "general"
+  },
+  {
+    "name": "mapfind",
+    "description": "Lumerical command: mapfind",
+    "usage": "mapfind();",
+    "category": "general"
+  },
+  {
+    "name": "materialexists",
+    "description": "Lumerical command: materialexists",
+    "usage": "materialexists();",
+    "category": "general"
+  },
+  {
+    "name": "matlab",
+    "description": "Lumerical command: matlab",
+    "usage": "matlab();",
+    "category": "general"
+  },
+  {
+    "name": "matlabget",
+    "description": "Lumerical command: matlabget",
+    "usage": "matlabget();",
+    "category": "general"
+  },
+  {
+    "name": "matlabload",
+    "description": "Lumerical command: matlabload",
+    "usage": "matlabload();",
+    "category": "general"
+  },
+  {
+    "name": "matlabput",
+    "description": "Lumerical command: matlabput",
+    "usage": "matlabput();",
+    "category": "general"
+  },
+  {
+    "name": "matlabsave",
+    "description": "Lumerical command: matlabsave",
+    "usage": "matlabsave();",
+    "category": "general"
+  },
+  {
+    "name": "matrix",
+    "description": "Lumerical command: matrix",
+    "usage": "matrix();",
+    "category": "general"
+  },
+  {
+    "name": "matrixdataset",
+    "description": "Lumerical command: matrixdataset",
+    "usage": "matrixdataset();",
+    "category": "general"
+  },
+  {
+    "name": "max",
+    "description": "Lumerical command: max",
+    "usage": "max();",
+    "category": "general"
+  },
+  {
+    "name": "mcfit",
+    "description": "Lumerical command: mcfit",
+    "usage": "mcfit();",
+    "category": "general"
+  },
+  {
+    "name": "mczfit",
+    "description": "Lumerical command: mczfit",
+    "usage": "mczfit();",
+    "category": "general"
+  },
+  {
+    "name": "mean",
+    "description": "Lumerical command: mean",
+    "usage": "mean();",
+    "category": "general"
+  },
+  {
+    "name": "mesh",
+    "description": "Lumerical command: mesh",
+    "usage": "mesh();",
+    "category": "general"
+  },
+  {
+    "name": "meshgrid3dx",
+    "description": "Lumerical command: meshgrid3dx",
+    "usage": "meshgrid3dx();",
+    "category": "general"
+  },
+  {
+    "name": "meshgrid3dy",
+    "description": "Lumerical command: meshgrid3dy",
+    "usage": "meshgrid3dy();",
+    "category": "general"
+  },
+  {
+    "name": "meshgrid3dz",
+    "description": "Lumerical command: meshgrid3dz",
+    "usage": "meshgrid3dz();",
+    "category": "general"
+  },
+  {
+    "name": "meshgrid4d",
+    "description": "Lumerical command: meshgrid4d",
+    "usage": "meshgrid4d();",
+    "category": "general"
+  },
+  {
+    "name": "meshgridx",
+    "description": "Lumerical command: meshgridx",
+    "usage": "meshgridx();",
+    "category": "general"
+  },
+  {
+    "name": "meshgridy",
+    "description": "Lumerical command: meshgridy",
+    "usage": "meshgridy();",
+    "category": "general"
+  },
+  {
+    "name": "message",
+    "description": "Lumerical command: message",
+    "usage": "message();",
+    "category": "general"
+  },
+  {
+    "name": "mie3d",
+    "description": "Lumerical command: mie3d",
+    "usage": "mie3d();",
+    "category": "general"
+  },
+  {
+    "name": "mie3ds12",
+    "description": "Lumerical command: mie3ds12",
+    "usage": "mie3ds12();",
+    "category": "general"
+  },
+  {
+    "name": "min",
+    "description": "Lumerical command: min",
+    "usage": "min();",
+    "category": "general"
+  },
+  {
+    "name": "mod",
+    "description": "Lumerical command: mod",
+    "usage": "mod();",
+    "category": "general"
+  },
+  {
+    "name": "move",
+    "description": "Lumerical command: move",
+    "usage": "move();",
+    "category": "general"
+  },
+  {
+    "name": "mqwgain",
+    "description": "Lumerical command: mqwgain",
+    "usage": "mqwgain();",
+    "category": "general"
+  },
+  {
+    "name": "mult",
+    "description": "Lumerical command: mult",
+    "usage": "mult();",
+    "category": "general"
+  },
+  {
+    "name": "mv",
+    "description": "Lumerical command: mv",
+    "usage": "mv();",
+    "category": "general"
+  },
+  {
+    "name": "near2far",
+    "description": "Lumerical command: near2far",
+    "usage": "near2far();",
+    "category": "general"
+  },
+  {
+    "name": "new",
+    "description": "Lumerical command: new",
+    "usage": "new();",
+    "category": "general"
+  },
+  {
+    "name": "newproject",
+    "description": "Lumerical command: newproject",
+    "usage": "newproject();",
+    "category": "general"
+  },
+  {
+    "name": "newwizard",
+    "description": "Lumerical command: newwizard",
+    "usage": "newwizard();",
+    "category": "general"
+  },
+  {
+    "name": "newwizardpage",
+    "description": "Lumerical command: newwizardpage",
+    "usage": "newwizardpage();",
+    "category": "general"
+  },
+  {
+    "name": "nonorm",
+    "description": "Lumerical command: nonorm",
+    "usage": "nonorm();",
+    "category": "general"
+  },
+  {
+    "name": "norm",
+    "description": "Lumerical command: norm",
+    "usage": "norm();",
+    "category": "general"
+  },
+  {
+    "name": "normpdf",
+    "description": "Lumerical command: normpdf",
+    "usage": "normpdf();",
+    "category": "general"
+  },
+  {
+    "name": "now",
+    "description": "Lumerical command: now",
+    "usage": "now();",
+    "category": "general"
+  },
+  {
+    "name": "num2str",
+    "description": "Lumerical command: num2str",
+    "usage": "num2str();",
+    "category": "general"
+  },
+  {
+    "name": "nummodes",
+    "description": "Lumerical command: nummodes",
+    "usage": "nummodes();",
+    "category": "general"
+  },
+  {
+    "name": "ones",
+    "description": "Lumerical command: ones",
+    "usage": "ones();",
+    "category": "general"
+  },
+  {
+    "name": "opensession",
+    "description": "Lumerical command: opensession",
+    "usage": "opensession();",
+    "category": "general"
+  },
+  {
+    "name": "operatingsystem",
+    "description": "Lumerical command: operatingsystem",
+    "usage": "operatingsystem();",
+    "category": "general"
+  },
+  {
+    "name": "optimizeposition",
+    "description": "Lumerical command: optimizeposition",
+    "usage": "optimizeposition();",
+    "category": "general"
+  },
+  {
+    "name": "or",
+    "description": "Lumerical command: or",
+    "usage": "or();",
+    "category": "general"
+  },
+  {
+    "name": "orbit",
+    "description": "Lumerical command: orbit",
+    "usage": "orbit();",
+    "category": "general"
+  },
+  {
+    "name": "overlap",
+    "description": "Lumerical command: overlap",
+    "usage": "overlap();",
+    "category": "general"
+  },
+  {
+    "name": "packagedesignkit",
+    "description": "Lumerical command: packagedesignkit",
+    "usage": "packagedesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "parsebackannotation",
+    "description": "Lumerical command: parsebackannotation",
+    "usage": "parsebackannotation();",
+    "category": "general"
+  },
+  {
+    "name": "parsewaveguidebackannotation",
+    "description": "Lumerical command: parsewaveguidebackannotation",
+    "usage": "parsewaveguidebackannotation();",
+    "category": "general"
+  },
+  {
+    "name": "partitionvolume",
+    "description": "Lumerical command: partitionvolume",
+    "usage": "partitionvolume();",
+    "category": "general"
+  },
+  {
+    "name": "pastefromclipboard",
+    "description": "Lumerical command: pastefromclipboard",
+    "usage": "pastefromclipboard();",
+    "category": "general"
+  },
+  {
+    "name": "pastesweep",
+    "description": "Lumerical command: pastesweep",
+    "usage": "pastesweep();",
+    "category": "general"
+  },
+  {
+    "name": "pause",
+    "description": "Lumerical command: pause",
+    "usage": "pause();",
+    "category": "general"
+  },
+  {
+    "name": "pearson4pdf",
+    "description": "Lumerical command: pearson4pdf",
+    "usage": "pearson4pdf();",
+    "category": "general"
+  },
+  {
+    "name": "permute",
+    "description": "Lumerical command: permute",
+    "usage": "permute();",
+    "category": "general"
+  },
+  {
+    "name": "pinch",
+    "description": "Lumerical command: pinch",
+    "usage": "pinch();",
+    "category": "general"
+  },
+  {
+    "name": "plot",
+    "description": "Lumerical command: plot",
+    "usage": "plot();",
+    "category": "general"
+  },
+  {
+    "name": "plotxy",
+    "description": "Lumerical command: plotxy",
+    "usage": "plotxy();",
+    "category": "general"
+  },
+  {
+    "name": "polar",
+    "description": "Lumerical command: polar",
+    "usage": "polar();",
+    "category": "general"
+  },
+  {
+    "name": "polar2",
+    "description": "Lumerical command: polar2",
+    "usage": "polar2();",
+    "category": "general"
+  },
+  {
+    "name": "polarimage",
+    "description": "Lumerical command: polarimage",
+    "usage": "polarimage();",
+    "category": "general"
+  },
+  {
+    "name": "polyand",
+    "description": "Lumerical command: polyand",
+    "usage": "polyand();",
+    "category": "general"
+  },
+  {
+    "name": "polyarea",
+    "description": "Lumerical command: polyarea",
+    "usage": "polyarea();",
+    "category": "general"
+  },
+  {
+    "name": "polydft",
+    "description": "Lumerical command: polydft",
+    "usage": "polydft();",
+    "category": "general"
+  },
+  {
+    "name": "polydiff",
+    "description": "Lumerical command: polydiff",
+    "usage": "polydiff();",
+    "category": "general"
+  },
+  {
+    "name": "polyfit",
+    "description": "Lumerical command: polyfit",
+    "usage": "polyfit();",
+    "category": "general"
+  },
+  {
+    "name": "polygrow",
+    "description": "Lumerical command: polygrow",
+    "usage": "polygrow();",
+    "category": "general"
+  },
+  {
+    "name": "polyintersect",
+    "description": "Lumerical command: polyintersect",
+    "usage": "polyintersect();",
+    "category": "general"
+  },
+  {
+    "name": "polyor",
+    "description": "Lumerical command: polyor",
+    "usage": "polyor();",
+    "category": "general"
+  },
+  {
+    "name": "polyxor",
+    "description": "Lumerical command: polyxor",
+    "usage": "polyxor();",
+    "category": "general"
+  },
+  {
+    "name": "precision",
+    "description": "Lumerical command: precision",
+    "usage": "precision();",
+    "category": "general"
+  },
+  {
+    "name": "print",
+    "description": "Lumerical command: print",
+    "usage": "print();",
+    "category": "general"
+  },
+  {
+    "name": "probe",
+    "description": "Lumerical command: probe",
+    "usage": "probe();",
+    "category": "general"
+  },
+  {
+    "name": "prod",
+    "description": "Lumerical command: prod",
+    "usage": "prod();",
+    "category": "general"
+  },
+  {
+    "name": "propagate",
+    "description": "Lumerical command: propagate",
+    "usage": "propagate();",
+    "category": "general"
+  },
+  {
+    "name": "protectproperty",
+    "description": "Lumerical command: protectproperty",
+    "usage": "protectproperty();",
+    "category": "general"
+  },
+  {
+    "name": "putremotedata",
+    "description": "Lumerical command: putremotedata",
+    "usage": "putremotedata();",
+    "category": "general"
+  },
+  {
+    "name": "pwd",
+    "description": "Lumerical command: pwd",
+    "usage": "pwd();",
+    "category": "general"
+  },
+  {
+    "name": "quadtet",
+    "description": "Lumerical command: quadtet",
+    "usage": "quadtet();",
+    "category": "general"
+  },
+  {
+    "name": "quadtri",
+    "description": "Lumerical command: quadtri",
+    "usage": "quadtri();",
+    "category": "general"
+  },
+  {
+    "name": "rand",
+    "description": "Lumerical command: rand",
+    "usage": "rand();",
+    "category": "general"
+  },
+  {
+    "name": "randmatrix",
+    "description": "Lumerical command: randmatrix",
+    "usage": "randmatrix();",
+    "category": "general"
+  },
+  {
+    "name": "randn",
+    "description": "Lumerical command: randn",
+    "usage": "randn();",
+    "category": "general"
+  },
+  {
+    "name": "randnmatrix",
+    "description": "Lumerical command: randnmatrix",
+    "usage": "randnmatrix();",
+    "category": "general"
+  },
+  {
+    "name": "read",
+    "description": "Lumerical command: read",
+    "usage": "read();",
+    "category": "general"
+  },
+  {
+    "name": "readdata",
+    "description": "Lumerical command: readdata",
+    "usage": "readdata();",
+    "category": "general"
+  },
+  {
+    "name": "readnportsparameterat",
+    "description": "Lumerical command: readnportsparameterat",
+    "usage": "readnportsparameterat();",
+    "category": "general"
+  },
+  {
+    "name": "readstltriangles",
+    "description": "Lumerical command: readstltriangles",
+    "usage": "readstltriangles();",
+    "category": "general"
+  },
+  {
+    "name": "real",
+    "description": "Lumerical command: real",
+    "usage": "real();",
+    "category": "general"
+  },
+  {
+    "name": "rectilineardataset",
+    "description": "Lumerical command: rectilineardataset",
+    "usage": "rectilineardataset();",
+    "category": "general"
+  },
+  {
+    "name": "redo",
+    "description": "Lumerical command: redo",
+    "usage": "redo();",
+    "category": "general"
+  },
+  {
+    "name": "redraw",
+    "description": "Lumerical command: redraw",
+    "usage": "redraw();",
+    "category": "general"
+  },
+  {
+    "name": "redrawmode",
+    "description": "Lumerical command: redrawmode",
+    "usage": "redrawmode();",
+    "category": "general"
+  },
+  {
+    "name": "redrawoff",
+    "description": "Lumerical command: redrawoff",
+    "usage": "redrawoff();",
+    "category": "general"
+  },
+  {
+    "name": "redrawon",
+    "description": "Lumerical command: redrawon",
+    "usage": "redrawon();",
+    "category": "general"
+  },
+  {
+    "name": "refresh",
+    "description": "Lumerical command: refresh",
+    "usage": "refresh();",
+    "category": "general"
+  },
+  {
+    "name": "reloaddesignkit",
+    "description": "Lumerical command: reloaddesignkit",
+    "usage": "reloaddesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "removecustom",
+    "description": "Lumerical command: removecustom",
+    "usage": "removecustom();",
+    "category": "general"
+  },
+  {
+    "name": "removedesignkit",
+    "description": "Lumerical command: removedesignkit",
+    "usage": "removedesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "removeexpansion",
+    "description": "Lumerical command: removeexpansion",
+    "usage": "removeexpansion();",
+    "category": "general"
+  },
+  {
+    "name": "removeport",
+    "description": "Lumerical command: removeport",
+    "usage": "removeport();",
+    "category": "general"
+  },
+  {
+    "name": "removesweepparameter",
+    "description": "Lumerical command: removesweepparameter",
+    "usage": "removesweepparameter();",
+    "category": "general"
+  },
+  {
+    "name": "removesweepresult",
+    "description": "Lumerical command: removesweepresult",
+    "usage": "removesweepresult();",
+    "category": "general"
+  },
+  {
+    "name": "renameport",
+    "description": "Lumerical command: renameport",
+    "usage": "renameport();",
+    "category": "general"
+  },
+  {
+    "name": "replace",
+    "description": "Lumerical command: replace",
+    "usage": "replace();",
+    "category": "general"
+  },
+  {
+    "name": "replacelibrary",
+    "description": "Lumerical command: replacelibrary",
+    "usage": "replacelibrary();",
+    "category": "general"
+  },
+  {
+    "name": "replacestring",
+    "description": "Lumerical command: replacestring",
+    "usage": "replacestring();",
+    "category": "general"
+  },
+  {
+    "name": "reportmeshstatistics",
+    "description": "Lumerical command: reportmeshstatistics",
+    "usage": "reportmeshstatistics();",
+    "category": "general"
+  },
+  {
+    "name": "reshape",
+    "description": "Lumerical command: reshape",
+    "usage": "reshape();",
+    "category": "general"
+  },
+  {
+    "name": "resume",
+    "description": "Lumerical command: resume",
+    "usage": "resume();",
+    "category": "general"
+  },
+  {
+    "name": "resumejobs",
+    "description": "Lumerical command: resumejobs",
+    "usage": "resumejobs();",
+    "category": "general"
+  },
+  {
+    "name": "rm",
+    "description": "Lumerical command: rm",
+    "usage": "rm();",
+    "category": "general"
+  },
+  {
+    "name": "rotateelement",
+    "description": "Lumerical command: rotateelement",
+    "usage": "rotateelement();",
+    "category": "general"
+  },
+  {
+    "name": "round",
+    "description": "Lumerical command: round",
+    "usage": "round();",
+    "category": "general"
+  },
+  {
+    "name": "run",
+    "description": "Lumerical command: run",
+    "usage": "run();",
+    "category": "general"
+  },
+  {
+    "name": "runanalysis",
+    "description": "Lumerical command: runanalysis",
+    "usage": "runanalysis();",
+    "category": "general"
+  },
+  {
+    "name": "runfinalize",
+    "description": "Lumerical command: runfinalize",
+    "usage": "runfinalize();",
+    "category": "general"
+  },
+  {
+    "name": "runinitialize",
+    "description": "Lumerical command: runinitialize",
+    "usage": "runinitialize();",
+    "category": "general"
+  },
+  {
+    "name": "runjobs",
+    "description": "Lumerical command: runjobs",
+    "usage": "runjobs();",
+    "category": "general"
+  },
+  {
+    "name": "runoptimization",
+    "description": "Lumerical command: runoptimization",
+    "usage": "runoptimization();",
+    "category": "general"
+  },
+  {
+    "name": "runparallel",
+    "description": "Lumerical command: runparallel",
+    "usage": "runparallel();",
+    "category": "general"
+  },
+  {
+    "name": "runsetup",
+    "description": "Lumerical command: runsetup",
+    "usage": "runsetup();",
+    "category": "general"
+  },
+  {
+    "name": "runstartupscripts",
+    "description": "Lumerical command: runstartupscripts",
+    "usage": "runstartupscripts();",
+    "category": "general"
+  },
+  {
+    "name": "runstep",
+    "description": "Lumerical command: runstep",
+    "usage": "runstep();",
+    "category": "general"
+  },
+  {
+    "name": "runsweep",
+    "description": "Lumerical command: runsweep",
+    "usage": "runsweep();",
+    "category": "general"
+  },
+  {
+    "name": "runwizard",
+    "description": "Lumerical command: runwizard",
+    "usage": "runwizard();",
+    "category": "general"
+  },
+  {
+    "name": "save",
+    "description": "Lumerical command: save",
+    "usage": "save();",
+    "category": "general"
+  },
+  {
+    "name": "savedata",
+    "description": "Lumerical command: savedata",
+    "usage": "savedata();",
+    "category": "general"
+  },
+  {
+    "name": "savedcard",
+    "description": "Lumerical command: savedcard",
+    "usage": "savedcard();",
+    "category": "general"
+  },
+  {
+    "name": "saveelement",
+    "description": "Lumerical command: saveelement",
+    "usage": "saveelement();",
+    "category": "general"
+  },
+  {
+    "name": "savesweep",
+    "description": "Lumerical command: savesweep",
+    "usage": "savesweep();",
+    "category": "general"
+  },
+  {
+    "name": "scorrcoef",
+    "description": "Lumerical command: scorrcoef",
+    "usage": "scorrcoef();",
+    "category": "general"
+  },
+  {
+    "name": "scriptautorun",
+    "description": "Lumerical command: scriptautorun",
+    "usage": "scriptautorun();",
+    "category": "general"
+  },
+  {
+    "name": "select",
+    "description": "Lumerical command: select",
+    "usage": "select();",
+    "category": "general"
+  },
+  {
+    "name": "selectall",
+    "description": "Lumerical command: selectall",
+    "usage": "selectall();",
+    "category": "general"
+  },
+  {
+    "name": "selectfigure",
+    "description": "Lumerical command: selectfigure",
+    "usage": "selectfigure();",
+    "category": "general"
+  },
+  {
+    "name": "selectmode",
+    "description": "Lumerical command: selectmode",
+    "usage": "selectmode();",
+    "category": "general"
+  },
+  {
+    "name": "selectpartial",
+    "description": "Lumerical command: selectpartial",
+    "usage": "selectpartial();",
+    "category": "general"
+  },
+  {
+    "name": "set",
+    "description": "Lumerical command: set",
+    "usage": "set();",
+    "category": "general"
+  },
+  {
+    "name": "setactivesolver",
+    "description": "Lumerical command: setactivesolver",
+    "usage": "setactivesolver();",
+    "category": "general"
+  },
+  {
+    "name": "setanalysis",
+    "description": "Lumerical command: setanalysis",
+    "usage": "setanalysis();",
+    "category": "general"
+  },
+  {
+    "name": "setconnectionrouting",
+    "description": "Lumerical command: setconnectionrouting",
+    "usage": "setconnectionrouting();",
+    "category": "general"
+  },
+  {
+    "name": "setdevice",
+    "description": "Lumerical command: setdevice",
+    "usage": "setdevice();",
+    "category": "general"
+  },
+  {
+    "name": "seteigensolver",
+    "description": "Lumerical command: seteigensolver",
+    "usage": "seteigensolver();",
+    "category": "general"
+  },
+  {
+    "name": "setemeanalysis",
+    "description": "Lumerical command: setemeanalysis",
+    "usage": "setemeanalysis();",
+    "category": "general"
+  },
+  {
+    "name": "setexpansion",
+    "description": "Lumerical command: setexpansion",
+    "usage": "setexpansion();",
+    "category": "general"
+  },
+  {
+    "name": "setexpression",
+    "description": "Lumerical command: setexpression",
+    "usage": "setexpression();",
+    "category": "general"
+  },
+  {
+    "name": "setfield",
+    "description": "Lumerical command: setfield",
+    "usage": "setfield();",
+    "category": "general"
+  },
+  {
+    "name": "setglobalmonitor",
+    "description": "Lumerical command: setglobalmonitor",
+    "usage": "setglobalmonitor();",
+    "category": "general"
+  },
+  {
+    "name": "setglobalsource",
+    "description": "Lumerical command: setglobalsource",
+    "usage": "setglobalsource();",
+    "category": "general"
+  },
+  {
+    "name": "seticon",
+    "description": "Lumerical command: seticon",
+    "usage": "seticon();",
+    "category": "general"
+  },
+  {
+    "name": "setlayer",
+    "description": "Lumerical command: setlayer",
+    "usage": "setlayer();",
+    "category": "general"
+  },
+  {
+    "name": "setmaterial",
+    "description": "Lumerical command: setmaterial",
+    "usage": "setmaterial();",
+    "category": "general"
+  },
+  {
+    "name": "setname",
+    "description": "Lumerical command: setname",
+    "usage": "setname();",
+    "category": "general"
+  },
+  {
+    "name": "setnamed",
+    "description": "Lumerical command: setnamed",
+    "usage": "setnamed();",
+    "category": "general"
+  },
+  {
+    "name": "setpersistcheckouts",
+    "description": "Lumerical command: setpersistcheckouts",
+    "usage": "setpersistcheckouts();",
+    "category": "general"
+  },
+  {
+    "name": "setplot",
+    "description": "Lumerical command: setplot",
+    "usage": "setplot();",
+    "category": "general"
+  },
+  {
+    "name": "setposition",
+    "description": "Lumerical command: setposition",
+    "usage": "setposition();",
+    "category": "general"
+  },
+  {
+    "name": "setpsfoutput",
+    "description": "Lumerical command: setpsfoutput",
+    "usage": "setpsfoutput();",
+    "category": "general"
+  },
+  {
+    "name": "setrectangle",
+    "description": "Lumerical command: setrectangle",
+    "usage": "setrectangle();",
+    "category": "general"
+  },
+  {
+    "name": "setresource",
+    "description": "Lumerical command: setresource",
+    "usage": "setresource();",
+    "category": "general"
+  },
+  {
+    "name": "setresult",
+    "description": "Lumerical command: setresult",
+    "usage": "setresult();",
+    "category": "general"
+  },
+  {
+    "name": "setsetting",
+    "description": "Lumerical command: setsetting",
+    "usage": "setsetting();",
+    "category": "general"
+  },
+  {
+    "name": "setsourcesignal",
+    "description": "Lumerical command: setsourcesignal",
+    "usage": "setsourcesignal();",
+    "category": "general"
+  },
+  {
+    "name": "setsweep",
+    "description": "Lumerical command: setsweep",
+    "usage": "setsweep();",
+    "category": "general"
+  },
+  {
+    "name": "setvalue",
+    "description": "Lumerical command: setvalue",
+    "usage": "setvalue();",
+    "category": "general"
+  },
+  {
+    "name": "setview",
+    "description": "Lumerical command: setview",
+    "usage": "setview();",
+    "category": "general"
+  },
+  {
+    "name": "shiftselect",
+    "description": "Lumerical command: shiftselect",
+    "usage": "shiftselect();",
+    "category": "general"
+  },
+  {
+    "name": "shiftselectpartial",
+    "description": "Lumerical command: shiftselectpartial",
+    "usage": "shiftselectpartial();",
+    "category": "general"
+  },
+  {
+    "name": "show",
+    "description": "Lumerical command: show",
+    "usage": "show();",
+    "category": "general"
+  },
+  {
+    "name": "showmenubar",
+    "description": "Lumerical command: showmenubar",
+    "usage": "showmenubar();",
+    "category": "general"
+  },
+  {
+    "name": "sign",
+    "description": "Lumerical command: sign",
+    "usage": "sign();",
+    "category": "general"
+  },
+  {
+    "name": "simulation",
+    "description": "Lumerical command: simulation",
+    "usage": "simulation();",
+    "category": "general"
+  },
+  {
+    "name": "simulationdiverged",
+    "description": "Lumerical command: simulationdiverged",
+    "usage": "simulationdiverged();",
+    "category": "general"
+  },
+  {
+    "name": "sin",
+    "description": "Lumerical command: sin",
+    "usage": "sin();",
+    "category": "general"
+  },
+  {
+    "name": "size",
+    "description": "Lumerical command: size",
+    "usage": "size();",
+    "category": "general"
+  },
+  {
+    "name": "smithchart",
+    "description": "Lumerical command: smithchart",
+    "usage": "smithchart();",
+    "category": "general"
+  },
+  {
+    "name": "solar",
+    "description": "Lumerical command: solar",
+    "usage": "solar();",
+    "category": "general"
+  },
+  {
+    "name": "sort",
+    "description": "Lumerical command: sort",
+    "usage": "sort();",
+    "category": "general"
+  },
+  {
+    "name": "sortmap",
+    "description": "Lumerical command: sortmap",
+    "usage": "sortmap();",
+    "category": "general"
+  },
+  {
+    "name": "sourceintensity",
+    "description": "Lumerical command: sourceintensity",
+    "usage": "sourceintensity();",
+    "category": "general"
+  },
+  {
+    "name": "sourceintensity_avg",
+    "description": "Lumerical command: sourceintensity_avg",
+    "usage": "sourceintensity_avg();",
+    "category": "general"
+  },
+  {
+    "name": "sourceintensity_pavg",
+    "description": "Lumerical command: sourceintensity_pavg",
+    "usage": "sourceintensity_pavg();",
+    "category": "general"
+  },
+  {
+    "name": "sourcenorm",
+    "description": "Lumerical command: sourcenorm",
+    "usage": "sourcenorm();",
+    "category": "general"
+  },
+  {
+    "name": "sourcenorm2_avg",
+    "description": "Lumerical command: sourcenorm2_avg",
+    "usage": "sourcenorm2_avg();",
+    "category": "general"
+  },
+  {
+    "name": "sourcenorm2_pavg",
+    "description": "Lumerical command: sourcenorm2_pavg",
+    "usage": "sourcenorm2_pavg();",
+    "category": "general"
+  },
+  {
+    "name": "sourcepower",
+    "description": "Lumerical command: sourcepower",
+    "usage": "sourcepower();",
+    "category": "general"
+  },
+  {
+    "name": "sourcepower_avg",
+    "description": "Lumerical command: sourcepower_avg",
+    "usage": "sourcepower_avg();",
+    "category": "general"
+  },
+  {
+    "name": "sourcepower_pavg",
+    "description": "Lumerical command: sourcepower_pavg",
+    "usage": "sourcepower_pavg();",
+    "category": "general"
+  },
+  {
+    "name": "spline",
+    "description": "Lumerical command: spline",
+    "usage": "spline();",
+    "category": "general"
+  },
+  {
+    "name": "splitstring",
+    "description": "Lumerical command: splitstring",
+    "usage": "splitstring();",
+    "category": "general"
+  },
+  {
+    "name": "sqrt",
+    "description": "Lumerical command: sqrt",
+    "usage": "sqrt();",
+    "category": "general"
+  },
+  {
+    "name": "sroughness",
+    "description": "Lumerical command: sroughness",
+    "usage": "sroughness();",
+    "category": "general"
+  },
+  {
+    "name": "stackdipole",
+    "description": "Lumerical command: stackdipole",
+    "usage": "stackdipole();",
+    "category": "general"
+  },
+  {
+    "name": "stackfield",
+    "description": "Lumerical command: stackfield",
+    "usage": "stackfield();",
+    "category": "general"
+  },
+  {
+    "name": "stackpurcell",
+    "description": "Lumerical command: stackpurcell",
+    "usage": "stackpurcell();",
+    "category": "general"
+  },
+  {
+    "name": "stackrt",
+    "description": "Lumerical command: stackrt",
+    "usage": "stackrt();",
+    "category": "general"
+  },
+  {
+    "name": "std",
+    "description": "Lumerical command: std",
+    "usage": "std();",
+    "category": "general"
+  },
+  {
+    "name": "stepimport",
+    "description": "Lumerical command: stepimport",
+    "usage": "stepimport();",
+    "category": "general"
+  },
+  {
+    "name": "stlimport",
+    "description": "Lumerical command: stlimport",
+    "usage": "stlimport();",
+    "category": "general"
+  },
+  {
+    "name": "str2num",
+    "description": "Lumerical command: str2num",
+    "usage": "str2num();",
+    "category": "general"
+  },
+  {
+    "name": "struct",
+    "description": "Lumerical command: struct",
+    "usage": "struct();",
+    "category": "general"
+  },
+  {
+    "name": "substring",
+    "description": "Lumerical command: substring",
+    "usage": "substring();",
+    "category": "general"
+  },
+  {
+    "name": "sum",
+    "description": "Lumerical command: sum",
+    "usage": "sum();",
+    "category": "general"
+  },
+  {
+    "name": "svd",
+    "description": "Lumerical command: svd",
+    "usage": "svd();",
+    "category": "general"
+  },
+  {
+    "name": "switchtodesign",
+    "description": "Lumerical command: switchtodesign",
+    "usage": "switchtodesign();",
+    "category": "general"
+  },
+  {
+    "name": "switchtolayout",
+    "description": "Lumerical command: switchtolayout",
+    "usage": "switchtolayout();",
+    "category": "general"
+  },
+  {
+    "name": "system",
+    "description": "Lumerical command: system",
+    "usage": "system();",
+    "category": "general"
+  },
+  {
+    "name": "tan",
+    "description": "Lumerical command: tan",
+    "usage": "tan();",
+    "category": "general"
+  },
+  {
+    "name": "tecplotread",
+    "description": "Lumerical command: tecplotread",
+    "usage": "tecplotread();",
+    "category": "general"
+  },
+  {
+    "name": "toscript",
+    "description": "Lumerical command: toscript",
+    "usage": "toscript();",
+    "category": "general"
+  },
+  {
+    "name": "touchstoneload",
+    "description": "Lumerical command: touchstoneload",
+    "usage": "touchstoneload();",
+    "category": "general"
+  },
+  {
+    "name": "transmission",
+    "description": "Lumerical command: transmission",
+    "usage": "transmission();",
+    "category": "general"
+  },
+  {
+    "name": "transmission_avg",
+    "description": "Lumerical command: transmission_avg",
+    "usage": "transmission_avg();",
+    "category": "general"
+  },
+  {
+    "name": "transmission_pavg",
+    "description": "Lumerical command: transmission_pavg",
+    "usage": "transmission_pavg();",
+    "category": "general"
+  },
+  {
+    "name": "transpose",
+    "description": "Lumerical command: transpose",
+    "usage": "transpose();",
+    "category": "general"
+  },
+  {
+    "name": "try",
+    "description": "Lumerical command: try",
+    "usage": "try();",
+    "category": "general"
+  },
+  {
+    "name": "undo",
+    "description": "Lumerical command: undo",
+    "usage": "undo();",
+    "category": "general"
+  },
+  {
+    "name": "unfoldsymmetricdata",
+    "description": "Lumerical command: unfoldsymmetricdata",
+    "usage": "unfoldsymmetricdata();",
+    "category": "general"
+  },
+  {
+    "name": "uninstalldesignkit",
+    "description": "Lumerical command: uninstalldesignkit",
+    "usage": "uninstalldesignkit();",
+    "category": "general"
+  },
+  {
+    "name": "unique",
+    "description": "Lumerical command: unique",
+    "usage": "unique();",
+    "category": "general"
+  },
+  {
+    "name": "uniquevertices",
+    "description": "Lumerical command: uniquevertices",
+    "usage": "uniquevertices();",
+    "category": "general"
+  },
+  {
+    "name": "unselectall",
+    "description": "Lumerical command: unselectall",
+    "usage": "unselectall();",
+    "category": "general"
+  },
+  {
+    "name": "unstructureddataset",
+    "description": "Lumerical command: unstructureddataset",
+    "usage": "unstructureddataset();",
+    "category": "general"
+  },
+  {
+    "name": "unwrap",
+    "description": "Lumerical command: unwrap",
+    "usage": "unwrap();",
+    "category": "general"
+  },
+  {
+    "name": "updatemodes",
+    "description": "Lumerical command: updatemodes",
+    "usage": "updatemodes();",
+    "category": "general"
+  },
+  {
+    "name": "updateportmodes",
+    "description": "Lumerical command: updateportmodes",
+    "usage": "updateportmodes();",
+    "category": "general"
+  },
+  {
+    "name": "updatesourcemode",
+    "description": "Lumerical command: updatesourcemode",
+    "usage": "updatesourcemode();",
+    "category": "general"
+  },
+  {
+    "name": "upper",
+    "description": "Lumerical command: upper",
+    "usage": "upper();",
+    "category": "general"
+  },
+  {
+    "name": "validate",
+    "description": "Lumerical command: validate",
+    "usage": "validate();",
+    "category": "general"
+  },
+  {
+    "name": "validateall",
+    "description": "Lumerical command: validateall",
+    "usage": "validateall();",
+    "category": "general"
+  },
+  {
+    "name": "var",
+    "description": "Lumerical command: var",
+    "usage": "var();",
+    "category": "general"
+  },
+  {
+    "name": "vectorplot",
+    "description": "Lumerical command: vectorplot",
+    "usage": "vectorplot();",
+    "category": "general"
+  },
+  {
+    "name": "version",
+    "description": "Lumerical command: version",
+    "usage": "version();",
+    "category": "general"
+  },
+  {
+    "name": "versionfile",
+    "description": "Lumerical command: versionfile",
+    "usage": "versionfile();",
+    "category": "general"
+  },
+  {
+    "name": "visualize",
+    "description": "Lumerical command: visualize",
+    "usage": "visualize();",
+    "category": "general"
+  },
+  {
+    "name": "vtksave",
+    "description": "Lumerical command: vtksave",
+    "usage": "vtksave();",
+    "category": "general"
+  },
+  {
+    "name": "waituntildone",
+    "description": "Lumerical command: waituntildone",
+    "usage": "waituntildone();",
+    "category": "general"
+  },
+  {
+    "name": "which",
+    "description": "Lumerical command: which",
+    "usage": "which();",
+    "category": "general"
+  },
+  {
+    "name": "wizarddata",
+    "description": "Lumerical command: wizarddata",
+    "usage": "wizarddata();",
+    "category": "general"
+  },
+  {
+    "name": "wizardgetdata",
+    "description": "Lumerical command: wizardgetdata",
+    "usage": "wizardgetdata();",
+    "category": "general"
+  },
+  {
+    "name": "wizardoption",
+    "description": "Lumerical command: wizardoption",
+    "usage": "wizardoption();",
+    "category": "general"
+  },
+  {
+    "name": "wizardwidget",
+    "description": "Lumerical command: wizardwidget",
+    "usage": "wizardwidget();",
+    "category": "general"
+  },
+  {
+    "name": "workspace",
+    "description": "Lumerical command: workspace",
+    "usage": "workspace();",
+    "category": "general"
+  },
+  {
+    "name": "write",
+    "description": "Lumerical command: write",
+    "usage": "write();",
+    "category": "general"
+  },
+  {
+    "name": "zbfexport",
+    "description": "Lumerical command: zbfexport",
+    "usage": "zbfexport();",
+    "category": "general"
+  },
+  {
+    "name": "zbfload",
+    "description": "Lumerical command: zbfload",
+    "usage": "zbfload();",
+    "category": "general"
+  },
+  {
+    "name": "zbfread",
+    "description": "Lumerical command: zbfread",
+    "usage": "zbfread();",
+    "category": "general"
+  },
+  {
+    "name": "zbfwrite",
+    "description": "Lumerical command: zbfwrite",
+    "usage": "zbfwrite();",
+    "category": "general"
+  }
+]

@@ -10,7 +10,7 @@ A Visual Studio Code extension that provides syntax highlighting, code snippets,
 
 ### 📝 Syntax Highlighting
 - Full syntax highlighting for Lumerical Script Language (MATLAB-like syntax)
-- Support for all Lumerical built-in commands (765+ commands)
+- Support for all Lumerical built-in commands (701 commands)
 - Color coding for:
   - Keywords: `if`, `else`, `elseif`, `for`, `while`, `switch`, `case`, `otherwise`, `try`, `catch`, `break`, `continue`, `return`, `end`, `function`
   - Data types: `double`, `single`, `int8-64`, `uint8-64`, `logical`, `char`, `string`, `struct`, `cell`, `table`
@@ -21,7 +21,7 @@ A Visual Studio Code extension that provides syntax highlighting, code snippets,
   - Comments: line comments with `#`
 
 ### 💡 Intelligent Code Snippets
-- 765+ Lumerical commands with auto-completion
+- 701 Lumerical commands with auto-completion
 - Snippets automatically insert command with parentheses: `command($1)`
 - Quick access to common Lumerical functions and operations
 
@@ -30,6 +30,23 @@ A Visual Studio Code extension that provides syntax highlighting, code snippets,
 - Comment toggling with `#`
 - Code folding for blocks
 - Syntax-aware highlighting
+
+### 📚 Enhanced Documentation (NEW!)
+- **Rich Hover Documentation**: Hover over any Lumerical command to see complete documentation
+- **Syntax Tables**: View command syntax with parameter descriptions in formatted tables
+- **Code Examples**: See practical usage examples for each command
+- **Mathematical Formulas**: Proper rendering of LaTeX equations in documentation
+- **700+ commands** enhanced with full Markdown documentation from official Lumerical docs
+
+### 🎯 Intelligent Code Assistance
+- **Command Autocompletion**: IntelliSense suggests Lumerical commands as you type
+- **Smart Documentation Tooltips**: See command summaries in completion lists
+- **Auto-parentheses**: Commands automatically inserted with `()` for quick parameter entry
+
+### 🔄 Integrated Documentation System
+- **Git Submodule Integration**: Documentation stays synchronized with official Lumerical repository
+- **Pre-generated Data**: Fast loading with optimized JSON data structure
+- **Fallback Support**: Seamless fallback to basic information if enhanced data unavailable
 
 ## Installation
 
@@ -130,9 +147,9 @@ The extension works out of the box with no configuration required. However, you 
 
 ## Known Issues
 
-- Limited semantic analysis (syntax highlighting only)
+- Limited semantic analysis beyond syntax highlighting
 - No parameter hints for Lumerical command arguments
-- No integrated documentation lookup
+- Some commands may have incomplete or missing documentation
 
 These limitations are due to the lack of public Lumerical Script Language specification. Contributions to improve these areas are welcome!
 
@@ -144,7 +161,21 @@ lumerical-script-language/
 ├── syntaxes/
 │   └── lumscript.tmLanguage.json     # TextMate grammar for syntax highlighting
 ├── language-configuration.json       # Language configuration
-├── snippets.json                     # Code snippets (765+ commands)
+├── snippets.json                     # Code snippets (701 commands)
+├── src/                              # Extension source code
+│   ├── extension.js                  # Main extension entry point
+│   ├── command-loader.js             # Command data loader
+│   ├── hover-provider.js             # Hover documentation provider
+│   └── completion-provider.js        # IntelliSense completion provider
+├── data/
+│   └── commands-enhanced.json        # Enhanced command documentation (2MB)
+├── scripts/
+│   └── generate-commands.js          # Data generation script
+├── test/                             # Unit tests
+│   ├── command-loader.test.js
+│   └── hover-provider.test.js
+├── docs/                             # Lumerical docs submodule
+│   └── docs/lsf-script/en/*.md       # Official documentation (727 files)
 ├── references/
 │   ├── lumscript_command.csv         # Command database
 │   ├── matlab.json                   # MATLAB grammar reference
@@ -154,15 +185,18 @@ lumerical-script-language/
 ```
 
 ### Building from Source
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Open in VS Code: `code .`
-4. Press `F5` to start debugging
+1. Clone the repository with submodules: `git clone --recurse-submodules https://github.com/ErwenL/lumerical-script-language.git`
+2. If already cloned, initialize submodules: `git submodule update --init --recursive`
+3. Generate enhanced command data: `npm run generate-commands`
+4. Open in VS Code: `code .`
+5. Press `F5` to start debugging and test the extension
 
 ### Testing
 1. Open the `sample.lsf` file in the project
 2. Verify syntax highlighting appears correctly
-3. Test code snippets by typing command prefixes
+3. Test hover documentation by hovering over Lumerical commands
+4. Test IntelliSense by typing command prefixes (Ctrl+Space)
+5. Verify code snippets insert commands with parentheses
 
 ### Contributing
 1. Fork the repository
@@ -172,10 +206,11 @@ lumerical-script-language/
 5. Submit a pull request
 
 Areas for contribution:
-- Improve grammar coverage
-- Add more code snippets with parameters
-- Implement Language Server Protocol (LSP) features
-- Add integrated documentation
+- Improve grammar coverage for new language features
+- Add parameter hints and signature help for commands
+- Implement Language Server Protocol (LSP) for advanced features
+- Enhance documentation parsing for remaining commands
+- Add support for Lumerical project files and other formats
 
 ## Release Notes
 
@@ -186,6 +221,15 @@ Areas for contribution:
 - Language configuration for `.lsf` files
 - Support for MATLAB-like syntax elements
 
+### 0.0.2 (Unreleased - Enhanced Documentation)
+- **Integrated Documentation System**: Full Markdown documentation for 700+ commands
+- **Rich Hover Support**: Hover over commands to see syntax tables, examples, and formulas
+- **Intelligent Code Completion**: IntelliSense suggestions with command summaries
+- **Git Submodule Integration**: Documentation synchronized with official Lumerical repository
+- **Enhanced Command Data**: Pre-generated JSON with full Markdown from 727 source files
+- **Improved Project Structure**: Modular code organization with unit tests
+- **"See Also" Section Removal**: Cleaner documentation display without redundant links
+
 ## License
 
 This extension is licensed under the [MIT License](LICENSE).
@@ -194,6 +238,7 @@ This extension is licensed under the [MIT License](LICENSE).
 
 - Based on MATLAB and Python TextMate grammars
 - Command list sourced from Lumerical documentation
+- Documentation content from official [lumerical-docs](https://github.com/ansys/lumerical-docs) repository
 - Inspired by the need for better Lumerical script editing tools
 
 ## Support

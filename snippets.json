@@ -76,13 +76,6 @@
 		],
 		"description": "addbandstructuremonitor"
 	},
-	"addbc": {
-		"prefix": "addbc",
-		"body": [
-			"addbc($1)"
-		],
-		"description": "addbc"
-	},
 	"addbulkgen": {
 		"prefix": "addbulkgen",
 		"body": [
@@ -118,13 +111,6 @@
 		],
 		"description": "addcircle"
 	},
-	"addcontact": {
-		"prefix": "addcontact",
-		"body": [
-			"addcontact($1)"
-		],
-		"description": "addcontact"
-	},
 	"addconvectionbc": {
 		"prefix": "addconvectionbc",
 		"body": [
@@ -146,13 +132,6 @@
 		],
 		"description": "addcustom"
 	},
-	"addcustomdoping": {
-		"prefix": "addcustomdoping",
-		"body": [
-			"addcustomdoping($1)"
-		],
-		"description": "addcustomdoping"
-	},
 	"adddeltachargesource": {
 		"prefix": "adddeltachargesource",
 		"body": [
@@ -166,6 +145,13 @@
 			"adddevice($1)"
 		],
 		"description": "adddevice"
+	},
+	"adddftmonitor": {
+		"prefix": "adddftmonitor",
+		"body": [
+			"adddftmonitor($1)"
+		],
+		"description": "adddftmonitor"
 	},
 	"adddgtdmesh": {
 		"prefix": "adddgtdmesh",
@@ -215,13 +201,6 @@
 			"addefieldmonitor($1)"
 		],
 		"description": "addefieldmonitor"
-	},
-	"addeigenmode": {
-		"prefix": "addeigenmode",
-		"body": [
-			"addeigenmode($1)"
-		],
-		"description": "addeigenmode"
 	},
 	"addelectricalcontact": {
 		"prefix": "addelectricalcontact",
@@ -320,6 +299,13 @@
 			"addfeemsolver($1)"
 		],
 		"description": "addfeemsolver"
+	},
+	"addfieldregion": {
+		"prefix": "addfieldregion",
+		"body": [
+			"addfieldregion($1)"
+		],
+		"description": "addfieldregion"
 	},
 	"addgaussian": {
 		"prefix": "addgaussian",
@@ -489,13 +475,6 @@
 		],
 		"description": "addmesh"
 	},
-	"addmeshconstraint": {
-		"prefix": "addmeshconstraint",
-		"body": [
-			"addmeshconstraint($1)"
-		],
-		"description": "addmeshconstraint"
-	},
 	"addmode": {
 		"prefix": "addmode",
 		"body": [
@@ -608,27 +587,6 @@
 		],
 		"description": "addport"
 	},
-	"addpower": {
-		"prefix": "addpower",
-		"body": [
-			"addpower($1)"
-		],
-		"description": "addpower"
-	},
-	"addprofile": {
-		"prefix": "addprofile",
-		"body": [
-			"addprofile($1)"
-		],
-		"description": "addprofile"
-	},
-	"addpropagator": {
-		"prefix": "addpropagator",
-		"body": [
-			"addpropagator($1)"
-		],
-		"description": "addpropagator"
-	},
 	"addproperty": {
 		"prefix": "addproperty",
 		"body": [
@@ -671,6 +629,13 @@
 		],
 		"description": "addring"
 	},
+	"addsemiconductorfromalloy": {
+		"prefix": "addsemiconductorfromalloy",
+		"body": [
+			"addsemiconductorfromalloy($1)"
+		],
+		"description": "addsemiconductorfromalloy"
+	},
 	"addsimulationregion": {
 		"prefix": "addsimulationregion",
 		"body": [
@@ -698,13 +663,6 @@
 			"addsurface($1)"
 		],
 		"description": "addsurface"
-	},
-	"addsurfacechargebc": {
-		"prefix": "addsurfacechargebc",
-		"body": [
-			"addsurfacechargebc($1)"
-		],
-		"description": "addsurfacechargebc"
 	},
 	"addsurfacerecombinationbc": {
 		"prefix": "addsurfacerecombinationbc",
@@ -930,13 +888,6 @@
 		],
 		"description": "asin"
 	},
-	"assert": {
-		"prefix": "assert",
-		"body": [
-			"assert($1)"
-		],
-		"description": "assert"
-	},
 	"atan": {
 		"prefix": "atan",
 		"body": [
@@ -1035,6 +986,13 @@
 		],
 		"description": "buildmqwmaterial"
 	},
+	"cadimport": {
+		"prefix": "cadimport",
+		"body": [
+			"cadimport($1)"
+		],
+		"description": "cadimport"
+	},
 	"cd": {
 		"prefix": "cd",
 		"body": [
@@ -1104,13 +1062,6 @@
 			"chpts($1)"
 		],
 		"description": "chpts"
-	},
-	"cls/clc": {
-		"prefix": "cls/clc",
-		"body": [
-			"cls/clc($1)"
-		],
-		"description": "cls/clc"
 	},
 	"clear": {
 		"prefix": "clear",
@@ -1364,13 +1315,6 @@
 		],
 		"description": "createcompound"
 	},
-	"createpropertydependency": {
-		"prefix": "createpropertydependency",
-		"body": [
-			"createpropertydependency($1)"
-		],
-		"description": "createpropertydependency"
-	},
 	"createsphericalsurface": {
 		"prefix": "createsphericalsurface",
 		"body": [
@@ -1384,13 +1328,6 @@
 			"cross($1)"
 		],
 		"description": "cross"
-	},
-	"crosscorrelation": {
-		"prefix": "crosscorrelation",
-		"body": [
-			"crosscorrelation($1)"
-		],
-		"description": "crosscorrelation"
 	},
 	"ctranspose": {
 		"prefix": "ctranspose",
@@ -1448,13 +1385,6 @@
 		],
 		"description": "debug"
 	},
-	"decompose": {
-		"prefix": "decompose",
-		"body": [
-			"decompose($1)"
-		],
-		"description": "decompose"
-	},
 	"del": {
 		"prefix": "del",
 		"body": [
@@ -1475,27 +1405,6 @@
 			"deleteall($1)"
 		],
 		"description": "deleteall"
-	},
-	"deleteattribute": {
-		"prefix": "deleteattribute",
-		"body": [
-			"deleteattribute($1)"
-		],
-		"description": "deleteattribute"
-	},
-	"deleteallbc": {
-		"prefix": "deleteallbc",
-		"body": [
-			"deleteallbc($1)"
-		],
-		"description": "deleteallbc"
-	},
-	"deletebc": {
-		"prefix": "deletebc",
-		"body": [
-			"deletebc($1)"
-		],
-		"description": "deletebc"
 	},
 	"deletematerial": {
 		"prefix": "deletematerial",
@@ -1693,13 +1602,6 @@
 		],
 		"description": "exportcsvresults"
 	},
-	"exportemesweep": {
-		"prefix": "exportemesweep",
-		"body": [
-			"exportemesweep($1)"
-		],
-		"description": "exportemesweep"
-	},
 	"exportfigure": {
 		"prefix": "exportfigure",
 		"body": [
@@ -1727,13 +1629,6 @@
 			"exportlib($1)"
 		],
 		"description": "exportlib"
-	},
-	"exportmaterialdb": {
-		"prefix": "exportmaterialdb",
-		"body": [
-			"exportmaterialdb($1)"
-		],
-		"description": "exportmaterialdb"
 	},
 	"exportnetlist": {
 		"prefix": "exportnetlist",
@@ -2022,13 +1917,6 @@
 		],
 		"description": "finite"
 	},
-	"fitlorentzpdf": {
-		"prefix": "fitlorentzpdf",
-		"body": [
-			"fitlorentzpdf($1)"
-		],
-		"description": "fitlorentzpdf"
-	},
 	"fitnormpdf": {
 		"prefix": "fitnormpdf",
 		"body": [
@@ -2085,13 +1973,6 @@
 		],
 		"description": "frequencysweep"
 	},
-	"function": {
-		"prefix": "function",
-		"body": [
-			"function($1)"
-		],
-		"description": "function"
-	},
 	"gdsaddcircle": {
 		"prefix": "gdsaddcircle",
 		"body": [
@@ -2126,6 +2007,13 @@
 			"gdsaddref($1)"
 		],
 		"description": "gdsaddref"
+	},
+	"gdsaddstencil": {
+		"prefix": "gdsaddstencil",
+		"body": [
+			"gdsaddstencil($1)"
+		],
+		"description": "gdsaddstencil"
 	},
 	"gdsaddtext": {
 		"prefix": "gdsaddtext",
@@ -2190,26 +2078,12 @@
 		],
 		"description": "getanalysis"
 	},
-	"getasapdata": {
-		"prefix": "getasapdata",
-		"body": [
-			"getasapdata($1)"
-		],
-		"description": "getasapdata"
-	},
 	"getattribute": {
 		"prefix": "getattribute",
 		"body": [
 			"getattribute($1)"
 		],
 		"description": "getattribute"
-	},
-	"getbc": {
-		"prefix": "getbc",
-		"body": [
-			"getbc($1)"
-		],
-		"description": "getbc"
 	},
 	"getcelllist": {
 		"prefix": "getcelllist",
@@ -2225,33 +2099,19 @@
 		],
 		"description": "getcommands"
 	},
-	"getcompositionfraction": {
-		"prefix": "getcompositionfraction",
-		"body": [
-			"getcompositionfraction($1)"
-		],
-		"description": "getcompositionfraction"
-	},
-	"getcontact": {
-		"prefix": "getcontact",
-		"body": [
-			"getcontact($1)"
-		],
-		"description": "getcontact"
-	},
-	"getcontour": {
-		"prefix": "getcontour",
-		"body": [
-			"getcontour($1)"
-		],
-		"description": "getcontour"
-	},
 	"getdata": {
 		"prefix": "getdata",
 		"body": [
 			"getdata($1)"
 		],
 		"description": "getdata"
+	},
+	"getdevice": {
+		"prefix": "getdevice",
+		"body": [
+			"getdevice($1)"
+		],
+		"description": "getdevice"
 	},
 	"getdgtdindex": {
 		"prefix": "getdgtdindex",
@@ -2309,13 +2169,6 @@
 		],
 		"description": "getfield"
 	},
-	"getglobal": {
-		"prefix": "getglobal",
-		"body": [
-			"getglobal($1)"
-		],
-		"description": "getglobal"
-	},
 	"getglobalmonitor": {
 		"prefix": "getglobalmonitor",
 		"body": [
@@ -2337,19 +2190,26 @@
 		],
 		"description": "getindex"
 	},
-	"getlayer": {
-		"prefix": "getlayer",
-		"body": [
-			"getlayer($1)"
-		],
-		"description": "getlayer"
-	},
 	"getlayerlist": {
 		"prefix": "getlayerlist",
 		"body": [
 			"getlayerlist($1)"
 		],
 		"description": "getlayerlist"
+	},
+	"getlicenseestimate": {
+		"prefix": "getlicenseestimate",
+		"body": [
+			"getlicenseestimate($1)"
+		],
+		"description": "getlicenseestimate"
+	},
+	"getlicenseestimateallactiveresources": {
+		"prefix": "getlicenseestimateallactiveresources",
+		"body": [
+			"getlicenseestimateallactiveresources($1)"
+		],
+		"description": "getlicenseestimateallactiveresources"
 	},
 	"getmagnetic": {
 		"prefix": "getmagnetic",
@@ -2561,6 +2421,13 @@
 		],
 		"description": "getview"
 	},
+	"gpuspecs": {
+		"prefix": "gpuspecs",
+		"body": [
+			"gpuspecs($1)"
+		],
+		"description": "gpuspecs"
+	},
 	"grating": {
 		"prefix": "grating",
 		"body": [
@@ -2694,6 +2561,13 @@
 		],
 		"description": "h5readattr"
 	},
+	"h5writeattr": {
+		"prefix": "h5writeattr",
+		"body": [
+			"h5writeattr($1)"
+		],
+		"description": "h5writeattr"
+	},
 	"havedata": {
 		"prefix": "havedata",
 		"body": [
@@ -2770,13 +2644,6 @@
 			"histogram($1)"
 		],
 		"description": "histogram"
-	},
-	"history": {
-		"prefix": "history",
-		"body": [
-			"history($1)"
-		],
-		"description": "history"
 	},
 	"historyoff": {
 		"prefix": "historyoff",
@@ -2904,27 +2771,6 @@
 		],
 		"description": "importdataset"
 	},
-	"importdoping": {
-		"prefix": "importdoping",
-		"body": [
-			"importdoping($1)"
-		],
-		"description": "importdoping"
-	},
-	"importlib": {
-		"prefix": "importlib",
-		"body": [
-			"importlib($1)"
-		],
-		"description": "importlib"
-	},
-	"importmaterialdb": {
-		"prefix": "importmaterialdb",
-		"body": [
-			"importmaterialdb($1)"
-		],
-		"description": "importmaterialdb"
-	},
 	"importnetlist": {
 		"prefix": "importnetlist",
 		"body": [
@@ -2953,13 +2799,6 @@
 		],
 		"description": "importnkobfuscated"
 	},
-	"importsparameter": {
-		"prefix": "importsparameter",
-		"body": [
-			"importsparameter($1)"
-		],
-		"description": "importsparameter"
-	},
 	"importsurface": {
 		"prefix": "importsurface",
 		"body": [
@@ -2973,13 +2812,6 @@
 			"importsurface2($1)"
 		],
 		"description": "importsurface2"
-	},
-	"importtemperaturemap": {
-		"prefix": "importtemperaturemap",
-		"body": [
-			"importtemperaturemap($1)"
-		],
-		"description": "importtemperaturemap"
 	},
 	"inpoly": {
 		"prefix": "inpoly",
@@ -3072,6 +2904,13 @@
 		],
 		"description": "isfield"
 	},
+	"islicensestandard": {
+		"prefix": "islicensestandard",
+		"body": [
+			"islicensestandard($1)"
+		],
+		"description": "islicensestandard"
+	},
 	"ispropertyactive": {
 		"prefix": "ispropertyactive",
 		"body": [
@@ -3100,61 +2939,12 @@
 		],
 		"description": "jsonload"
 	},
-	"jsonloads": {
-		"prefix": "jsonloads",
-		"body": [
-			"jsonloads($1)"
-		],
-		"description": "jsonloads"
-	},
-	"jsonread": {
-		"prefix": "jsonread",
-		"body": [
-			"jsonread($1)"
-		],
-		"description": "jsonread"
-	},
-	"jsonreads": {
-		"prefix": "jsonreads",
-		"body": [
-			"jsonreads($1)"
-		],
-		"description": "jsonreads"
-	},
 	"jsonsave": {
 		"prefix": "jsonsave",
 		"body": [
 			"jsonsave($1)"
 		],
 		"description": "jsonsave"
-	},
-	"jsonsaves": {
-		"prefix": "jsonsaves",
-		"body": [
-			"jsonsaves($1)"
-		],
-		"description": "jsonsaves"
-	},
-	"jsonvalidate": {
-		"prefix": "jsonvalidate",
-		"body": [
-			"jsonvalidate($1)"
-		],
-		"description": "jsonvalidate"
-	},
-	"jsonwrite": {
-		"prefix": "jsonwrite",
-		"body": [
-			"jsonwrite($1)"
-		],
-		"description": "jsonwrite"
-	},
-	"jsonwrites": {
-		"prefix": "jsonwrites",
-		"body": [
-			"jsonwrites($1)"
-		],
-		"description": "jsonwrites"
 	},
 	"killwizard": {
 		"prefix": "killwizard",
@@ -3261,13 +3051,6 @@
 		],
 		"description": "loadgdsfile"
 	},
-	"loadprocessfile": {
-		"prefix": "loadprocessfile",
-		"body": [
-			"loadprocessfile($1)"
-		],
-		"description": "loadprocessfile"
-	},
 	"loadsweep": {
 		"prefix": "loadsweep",
 		"body": [
@@ -3359,13 +3142,6 @@
 		],
 		"description": "lookupwrite"
 	},
-	"lorentzpdf": {
-		"prefix": "lorentzpdf",
-		"body": [
-			"lorentzpdf($1)"
-		],
-		"description": "lorentzpdf"
-	},
 	"lower": {
 		"prefix": "lower",
 		"body": [
@@ -3379,13 +3155,6 @@
 			"ls($1)"
 		],
 		"description": "ls"
-	},
-	"lum2mat": {
-		"prefix": "lum2mat",
-		"body": [
-			"lum2mat($1)"
-		],
-		"description": "lum2mat"
 	},
 	"mapfind": {
 		"prefix": "mapfind",
@@ -3478,13 +3247,6 @@
 		],
 		"description": "mean"
 	},
-	"median": {
-		"prefix": "median",
-		"body": [
-			"median($1)"
-		],
-		"description": "median"
-	},
 	"mesh": {
 		"prefix": "mesh",
 		"body": [
@@ -3569,13 +3331,6 @@
 		],
 		"description": "mod"
 	},
-	"monitors": {
-		"prefix": "monitors",
-		"body": [
-			"monitors($1)"
-		],
-		"description": "monitors"
-	},
 	"move": {
 		"prefix": "move",
 		"body": [
@@ -3589,13 +3344,6 @@
 			"mqwgain($1)"
 		],
 		"description": "mqwgain"
-	},
-	"mqwindex": {
-		"prefix": "mqwindex",
-		"body": [
-			"mqwindex($1)"
-		],
-		"description": "mqwindex"
 	},
 	"mult": {
 		"prefix": "mult",
@@ -3624,27 +3372,6 @@
 			"new($1)"
 		],
 		"description": "new"
-	},
-	"new2d": {
-		"prefix": "new2d",
-		"body": [
-			"new2d($1)"
-		],
-		"description": "new2d"
-	},
-	"new3d": {
-		"prefix": "new3d",
-		"body": [
-			"new3d($1)"
-		],
-		"description": "new3d"
-	},
-	"newmode": {
-		"prefix": "newmode",
-		"body": [
-			"newmode($1)"
-		],
-		"description": "newmode"
 	},
 	"newproject": {
 		"prefix": "newproject",
@@ -3750,13 +3477,6 @@
 			"orbit($1)"
 		],
 		"description": "orbit"
-	},
-	"outeroma": {
-		"prefix": "outeroma",
-		"body": [
-			"outeroma($1)"
-		],
-		"description": "outeroma"
 	},
 	"overlap": {
 		"prefix": "overlap",
@@ -3884,13 +3604,6 @@
 		],
 		"description": "polyarea"
 	},
-	"polyclean": {
-		"prefix": "polyclean",
-		"body": [
-			"polyclean($1)"
-		],
-		"description": "polyclean"
-	},
 	"polydft": {
 		"prefix": "polydft",
 		"body": [
@@ -3932,20 +3645,6 @@
 			"polyor($1)"
 		],
 		"description": "polyor"
-	},
-	"polypieces": {
-		"prefix": "polypieces",
-		"body": [
-			"polypieces($1)"
-		],
-		"description": "polypieces"
-	},
-	"polystencil": {
-		"prefix": "polystencil",
-		"body": [
-			"polystencil($1)"
-		],
-		"description": "polystencil"
 	},
 	"polyxor": {
 		"prefix": "polyxor",
@@ -4024,34 +3723,6 @@
 		],
 		"description": "quadtri"
 	},
-	"queryanalysisprop": {
-		"prefix": "queryanalysisprop",
-		"body": [
-			"queryanalysisprop($1)"
-		],
-		"description": "queryanalysisprop"
-	},
-	"queryanalysisresult": {
-		"prefix": "queryanalysisresult",
-		"body": [
-			"queryanalysisresult($1)"
-		],
-		"description": "queryanalysisresult"
-	},
-	"querynamed": {
-		"prefix": "querynamed",
-		"body": [
-			"querynamed($1)"
-		],
-		"description": "querynamed"
-	},
-	"queryuserprop": {
-		"prefix": "queryuserprop",
-		"body": [
-			"queryuserprop($1)"
-		],
-		"description": "queryuserprop"
-	},
 	"rand": {
 		"prefix": "rand",
 		"body": [
@@ -4079,27 +3750,6 @@
 			"randnmatrix($1)"
 		],
 		"description": "randnmatrix"
-	},
-	"randpearson4": {
-		"prefix": "randpearson4",
-		"body": [
-			"randpearson4($1)"
-		],
-		"description": "randpearson4"
-	},
-	"randreset": {
-		"prefix": "randreset",
-		"body": [
-			"randreset($1)"
-		],
-		"description": "randreset"
-	},
-	"rcwa": {
-		"prefix": "rcwa",
-		"body": [
-			"rcwa($1)"
-		],
-		"description": "rcwa"
 	},
 	"read": {
 		"prefix": "read",
@@ -4219,13 +3869,6 @@
 			"removeport($1)"
 		],
 		"description": "removeport"
-	},
-	"removepropertydependency": {
-		"prefix": "removepropertydependency",
-		"body": [
-			"removepropertydependency($1)"
-		],
-		"description": "removepropertydependency"
 	},
 	"removesweepparameter": {
 		"prefix": "removesweepparameter",
@@ -4430,20 +4073,6 @@
 		],
 		"description": "saveelement"
 	},
-	"savegdsfile": {
-		"prefix": "savegdsfile",
-		"body": [
-			"savegdsfile($1)"
-		],
-		"description": "savegdsfile"
-	},
-	"saveprocessfile": {
-		"prefix": "saveprocessfile",
-		"body": [
-			"saveprocessfile($1)"
-		],
-		"description": "saveprocessfile"
-	},
 	"savesweep": {
 		"prefix": "savesweep",
 		"body": [
@@ -4521,20 +4150,6 @@
 		],
 		"description": "setanalysis"
 	},
-	"setbc": {
-		"prefix": "setbc",
-		"body": [
-			"setbc($1)"
-		],
-		"description": "setbc"
-	},
-	"setcompositionfraction": {
-		"prefix": "setcompositionfraction",
-		"body": [
-			"setcompositionfraction($1)"
-		],
-		"description": "setcompositionfraction"
-	},
 	"setconnectionrouting": {
 		"prefix": "setconnectionrouting",
 		"body": [
@@ -4542,12 +4157,12 @@
 		],
 		"description": "setconnectionrouting"
 	},
-	"setcontact": {
-		"prefix": "setcontact",
+	"setdevice": {
+		"prefix": "setdevice",
 		"body": [
-			"setcontact($1)"
+			"setdevice($1)"
 		],
-		"description": "setcontact"
+		"description": "setdevice"
 	},
 	"seteigensolver": {
 		"prefix": "seteigensolver",
@@ -4583,13 +4198,6 @@
 			"setfield($1)"
 		],
 		"description": "setfield"
-	},
-	"setglobal": {
-		"prefix": "setglobal",
-		"body": [
-			"setglobal($1)"
-		],
-		"description": "setglobal"
 	},
 	"setglobalmonitor": {
 		"prefix": "setglobalmonitor",
@@ -4640,12 +4248,12 @@
 		],
 		"description": "setnamed"
 	},
-	"setparallel": {
-		"prefix": "setparallel",
+	"setpersistcheckouts": {
+		"prefix": "setpersistcheckouts",
 		"body": [
-			"setparallel($1)"
+			"setpersistcheckouts($1)"
 		],
-		"description": "setparallel"
+		"description": "setpersistcheckouts"
 	},
 	"setplot": {
 		"prefix": "setplot",
@@ -4703,13 +4311,6 @@
 		],
 		"description": "setsourcesignal"
 	},
-	"setsparameter": {
-		"prefix": "setsparameter",
-		"body": [
-			"setsparameter($1)"
-		],
-		"description": "setsparameter"
-	},
 	"setsweep": {
 		"prefix": "setsweep",
 		"body": [
@@ -4751,13 +4352,6 @@
 			"show($1)"
 		],
 		"description": "show"
-	},
-	"showdata": {
-		"prefix": "showdata",
-		"body": [
-			"showdata($1)"
-		],
-		"description": "showdata"
 	},
 	"showmenubar": {
 		"prefix": "showmenubar",
@@ -4801,13 +4395,6 @@
 		],
 		"description": "size"
 	},
-	"skewness": {
-		"prefix": "skewness",
-		"body": [
-			"skewness($1)"
-		],
-		"description": "skewness"
-	},
 	"smithchart": {
 		"prefix": "smithchart",
 		"body": [
@@ -4821,13 +4408,6 @@
 			"solar($1)"
 		],
 		"description": "solar"
-	},
-	"solve": {
-		"prefix": "solve",
-		"body": [
-			"solve($1)"
-		],
-		"description": "solve"
 	},
 	"sort": {
 		"prefix": "sort",
@@ -4905,13 +4485,6 @@
 			"sourcepower_pavg($1)"
 		],
 		"description": "sourcepower_pavg"
-	},
-	"sources": {
-		"prefix": "sources",
-		"body": [
-			"sources($1)"
-		],
-		"description": "sources"
 	},
 	"spline": {
 		"prefix": "spline",
@@ -5004,13 +4577,6 @@
 		],
 		"description": "struct"
 	},
-	"structures": {
-		"prefix": "structures",
-		"body": [
-			"structures($1)"
-		],
-		"description": "structures"
-	},
 	"substring": {
 		"prefix": "substring",
 		"body": [
@@ -5059,13 +4625,6 @@
 			"tan($1)"
 		],
 		"description": "tan"
-	},
-	"tdecq": {
-		"prefix": "tdecq",
-		"body": [
-			"tdecq($1)"
-		],
-		"description": "tdecq"
 	},
 	"tecplotread": {
 		"prefix": "tecplotread",
@@ -5346,12 +4905,5 @@
 			"zbfwrite($1)"
 		],
 		"description": "zbfwrite"
-	},
-	"zeros": {
-		"prefix": "zeros",
-		"body": [
-			"zeros($1)"
-		],
-		"description": "zeros"
 	}
 }

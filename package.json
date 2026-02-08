@@ -16,6 +16,10 @@
     "categories": [
         "Programming Languages"
     ],
+    "main": "./src/extension.js",
+    "activationEvents": [
+        "onLanguage:lumscript"
+    ],
     "contributes": {
         "languages": [{
             "id": "lumscript",
@@ -34,5 +38,9 @@
                 "path": "./snippets.json"
             }
         ]
+    },
+    "scripts": {
+        "generate-commands": "node scripts/generate-commands.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
     }
 }

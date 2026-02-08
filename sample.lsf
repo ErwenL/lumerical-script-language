@@ -1,5 +1,7 @@
 # Sample Lumerical script
 # Test syntax highlighting
+# Test hover documentation: Hover over any Lumerical command to see rich Markdown documentation
+# Commands with syntax tables, code examples, and mathematical formulas will display formatted documentation
 
 # Variables and assignment
 x = 5;
@@ -129,3 +131,91 @@ var_table = table;
 # obj.property;
 
 # End of file
+func(func(ji))
+
+# ============================================================================
+# Hover Documentation Test Section
+# Test the enhanced hover functionality with various Lumerical commands
+# ============================================================================
+
+# 1. Basic mathematical function with example (abs)
+abs_result = abs(-5.3 + 2i);
+?abs_result;
+
+# 2. Trigonometric function with math formula (acos)
+angle = acos(0.5);
+?angle;
+
+# 3. 2D geometry command with multiple syntax options (add2drect)
+add2drect;
+add2drect("name", "test_rectangle");
+add2drect({"name": "rect2", "x": 1e-6, "y": 0.5e-6});
+
+# 4. Command with mathematical formulas (eig)
+matrix = [1, 2; 3, 4];
+[eigenvalues, eigenvectors] = eig(matrix);
+?eigenvalues;
+
+# 5. Command with complex syntax table (addanalysisgroup)
+addanalysisgroup;
+addanalysisgroup("name", "analysis1");
+addanalysisgroup({"name": "analysis2", "enabled": true});
+
+# 6. Command with detailed example (addcircle)
+addcircle;
+set("name", "test_circle");
+set("radius", 0.5e-6);
+set("x", 0);
+set("y", 0);
+
+# 7. Lookup command with math formulas (lookupread)
+material_data = lookupread("Si (Silicon)");
+?material_data;
+
+# 8. Matrix operation (pinch - for dimension reduction)
+matrix_3d = rand(2, 3, 4);
+matrix_2d = pinch(matrix_3d);
+?size(matrix_2d);
+
+# 9. String manipulation (num2str and str2num)
+number_str = num2str(42.5);
+?number_str;
+number_back = str2num("3.14159");
+?number_back;
+
+# 10. Control command (selectall)
+selectall;
+
+# 11. Visualization command (plot)
+x = linspace(0, 2*pi, 100);
+y = sin(x);
+plot(x, y, "x", "sin(x)", "Sine Wave");
+
+# 12. Simulation command (addfdtd)
+addfdtd;
+set("dimension", "3D");
+set("x span", 5e-6);
+set("y span", 5e-6);
+set("z span", 2e-6);
+
+# 13. Material command (addmaterial)
+addmaterial("Si (Silicon)");
+set("name", "silicon_layer");
+
+# 14. Power-related command (sourcepower)
+power_value = sourcepower();
+?power_value;
+
+# 15. Source command (addplane)
+addplane;
+set("name", "source");
+set("injection axis", "z");
+set("wavelength start", 0.4e-6);
+set("wavelength stop", 0.7e-6);
+
+# Test hover on these commands by hovering over the command names above
+# Each command should show rich Markdown documentation with:
+# - Syntax tables
+# - Code examples (where available)
+# - Mathematical formulas (for eig, lookupread, etc.)
+# - Parameter descriptions

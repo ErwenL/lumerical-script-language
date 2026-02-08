@@ -23,17 +23,26 @@
             "include": "#strings"
         },
         {
+            "include": "#complex_number"
+        },
+        {
             "include": "#constant"
         },
         {
             "include": "#number"
         },
-        {
-            "include": "#comment"
-        },
-        {
-            "include": "#readwrite_variable"
-        }
+                {
+                "include": "#comment"
+                },
+                {
+                    "include": "#comment"
+                },
+                {
+                    "include": "#function_call"
+                },
+                {
+                    "include": "#readwrite_variable"
+                }
     ],
     "repository": {
         "keywords": {
@@ -84,10 +93,13 @@
                 "include": "#operators"
                 },
                 {
-                "include": "#comment"
+                    "include": "#comment"
                 },
                 {
-                "include": "#readwrite_variable"
+                    "include": "#function_call"
+                },
+                {
+                    "include": "#readwrite_variable"
                 }
             ]
         },
@@ -102,9 +114,13 @@
                 }
             ]
         },
+        "complex_number": {
+            "name": "constant.numeric.complex.lumscript",
+            "match": "\\b(?x: -?(?:0|[1-9]\\d*)(?:(?:\\.\\d+)?(?:[eE][+-]?\\d+)?)?)[ij]\\b"
+        },
         "constant": {
             "name": "constant.language.lumscript",
-            "match": "\\b(1i|1j|e|pi|eps0|um|inf|Inf|nan|NaN|true|false|i|j|eps|realmax|realmin)\\b"
+            "match": "\\b(pi|eps0|um|inf|Inf|nan|NaN|true|false|i|j|eps|realmax|realmin)\\b"
         },
         "number": {
             "name": "constant.numeric.lumscript",
@@ -120,12 +136,12 @@
                 {
                     "comment": "Arithmetic operator symbols",
                     "name": "keyword.operator.arithmetic.lumscript",
-                    "match": "(?<=[a-zA-Z0-9\\s])(\\+|-|\\*|\\.\\*|/|\\./|\\\\|\\.\\\\|\\^|\\.\\^)(?=[a-zA-Z0-9\\s])"
+                    "match": "(?<=[a-zA-Z0-9\\s])(\\+|-|\\*|\\.\\*|/|\\./|\\\\|\\.\\\\|\\^|\\.\\^|%)(?=[a-zA-Z0-9\\s])"
                 },
                 {
                     "comment": "Operator symbols",
                     "name": "keyword.operator.logical.lumscript",
-                    "match": "(?<=[a-zA-Z0-9\\s])(==|~==|&|&&|\\||\\|\\|)(?=[a-zA-Z0-9\\s])"
+                    "match": "(?<=[a-zA-Z0-9\\s])(==|~==|!=|&|&&|\\||\\|\\|)(?=[a-zA-Z0-9\\s])"
                 },
                 {
                     "comment": "Assignment operator",
@@ -161,6 +177,11 @@
                     "comment": "Line continuation",
                     "name": "keyword.operator.line.continuation.lumscript",
                     "match": "\\.\\.\\."
+                },
+                {
+                    "comment": "Logical NOT operator (exclamation)",
+                    "name": "keyword.operator.logical.not.exclamation.lumscript",
+                    "match": "!(?!=)"
                 },
                 {
                     "comment": "Logical NOT operator",
