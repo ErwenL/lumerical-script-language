@@ -1,6 +1,6 @@
 # Lumerical Script Language Support for VS Code
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://marketplace.visualstudio.com/items?itemName=ErwenL.lumerical-script-language)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://marketplace.visualstudio.com/items?itemName=ErwenL.lumerical-script-language)
 [![VS Code Version](https://img.shields.io/badge/VS%20Code-%3E%3D1.67.0-blue.svg)](https://code.visualstudio.com/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -221,7 +221,7 @@ Areas for contribution:
 - Language configuration for `.lsf` files
 - Support for MATLAB-like syntax elements
 
-### 0.0.2 (Unreleased - Enhanced Documentation)
+### 0.1.0
 - **Integrated Documentation System**: Full Markdown documentation for 700+ commands
 - **Rich Hover Support**: Hover over commands to see syntax tables, examples, and formulas
 - **Intelligent Code Completion**: IntelliSense suggestions with command summaries

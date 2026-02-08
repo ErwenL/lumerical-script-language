@@ -1,9 +1,9 @@
 {
     "name": "lumerical-script-language",
     "displayName": "Lumerical Script Language",
-    "description": "Syntax highlighting for lumerical script language",
+    "description": "Syntax highlighting, code snippets, hover documentation and IntelliSense for Lumerical Script Language (.lsf files)",
     "publisher": "ErwenL",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -15,6 +15,14 @@
     },
     "categories": [
         "Programming Languages"
+    ],
+    "keywords": [
+        "lumerical",
+        "lsf",
+        "ansys",
+        "syntax-highlighting",
+        "intellisense",
+        "hover-documentation"
     ],
     "main": "./src/extension.js",
     "activationEvents": [
@@ -41,6 +49,8 @@
     },
     "scripts": {
         "generate-commands": "node scripts/generate-commands.js",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "node test/command-loader.test.js",
+        "package": "vsce package",
+        "publish": "vsce publish"
     }
 }

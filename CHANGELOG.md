@@ -4,6 +4,24 @@ All notable changes to the "Lumerical Script Language" extension will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.1.0] - 2026-02-09
+
+### Added
+- **Hover Documentation**: Full Markdown documentation with syntax tables and examples
+- **IntelliSense**: Smart code completion for 700+ Lumerical commands
+- **Enhanced Data System**: Integrated documentation from official Lumerical repository
+- **Unit Tests**: Test framework for core components
+
+### Enhanced
+- **Command Loader**: Fallback support and performance optimization
+- **Project Structure**: Modular architecture with better separation of concerns
+- **Documentation Quality**: Removed "See Also" sections for cleaner display
+
+### Technical
+- Git submodule integration for documentation synchronization
+- Pre-generated JSON data for faster loading
+- Improved error handling and logging
+
 ## [0.0.1] - 2025-01-30
 
 ### Added
